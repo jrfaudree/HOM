@@ -1,0 +1,27 @@
+sidenavtitle: 'MATH F253'
+
+docs:
+
+- title: Syllabus
+  url: assets/general/syllabus.pdf  # rebuild by "make syllabus.pdf" in assets/general/
+
+- title: Schedule
+  url: assets/general/schedule.pdf  # rebuild by "make schedule.pdf" in assets/general/
+
+- title: Homework
+  url: homework.html
+
+- title: Quizzes
+  url: quizzes.html
+
+- title: Exams
+  url: exams.html
+
+- title: Worksheets
+  url: worksheets.html
+
+- title: Tech Help
+  url: techHelp.html
+
+- title: Videos
+  url: videos.html
