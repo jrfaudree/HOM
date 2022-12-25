@@ -3,7 +3,7 @@ layout: course-page
 title: Bueler's Math F253 Calculus III at UAF
 ---
 
-**UNDER CONSTRUCTION!!  MANY BROKEN LINKS!!**
+**UNDER CONSTRUCTION!!**
 
 Welcome to the homepage of **Math F253 Calculus III**, Spring 2023, in the [Dept. of Mathematics and Statistics](http://www.uaf.edu/dms/) at the [University of Alaska Fairbanks](http://www.uaf.edu/).
 
@@ -39,9 +39,9 @@ Log in to [canvas.alaska.edu/courses/13188](https://canvas.alaska.edu/courses/13
 
 * The [Math & Stat Tutoring Lab](https://www.uaf.edu/dms/mathlab/index.php) is **open** for in-person tutoring and online tutoring!  You can sign up for online tutoring.
 
+<!--
 * The [Quizzes](quizzes.html) and [Exams](exams.html) tabs include old versions with solutions.
-
-* Find [calculus video playlists at the Videos tab](videos.html).
+/-->
 
 * FIXME What are we studying?  Check out these Wikipedia pages:
    * [integrals](https://en.wikipedia.org/wiki/Integral)
