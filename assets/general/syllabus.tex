@@ -1,0 +1,236 @@
+\documentclass[12pt]{article}
+
+% Layout.
+\usepackage[top=1.1in, bottom=0.8in, left=1in, right=1in, headheight=1in, headsep=6pt]{geometry}
+
+% Fonts.
+\usepackage{mathptmx}
+\usepackage[scaled=1.0]{helvet}
+\renewcommand{\emph}[1]{\textsf{\textbf{#1}}}
+
+% Misc packages.
+\usepackage{amsmath,amssymb,latexsym}
+\usepackage{graphicx,hyperref}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{multicol}
+\usepackage{tabularx,colortbl}
+\usepackage{enumitem}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+    pdftitle={Syllabus for MATH F252X section 001 Fall 2022 (Bueler)},
+    pdfpagemode=FullScreen,
+    }
+
+\def\mailto#1{\href{mailto:#1}{#1}}
+
+% Paragraph spacing
+\parindent 0pt
+\parskip 6pt plus 1pt
+\def\tableindent{\hskip 0.5 in}
+\def\ts{\hskip 1.5 em}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy} 
+\lhead{\large\sf\textbf{MATH F253 Calculus III}}
+\chead{\large\sf\textbf{Syllabus}}
+\rhead{\large\sf\textbf{Spring 2023}}
+
+\newcommand{\localhead}[1]{\par\smallskip\textbf{#1} \smallskip\nobreak\\}%
+\def\heading#1{\localhead{\large\emph{#1}}}
+\def\subheading#1{\localhead{\emph{#1}}}
+
+\newenvironment{clist}%
+{\bgroup\parskip 0pt\begin{list}{$\bullet$}{\partopsep 4pt\topsep 0pt\itemsep -2pt}}%
+{\end{list}\egroup}%
+
+\begin{document}
+
+\strut\par\vskip-12pt
+\heading{Essential Information}
+
+\vskip -12pt
+\strut\hbox to \hsize{\tableindent\vtop{\halign{#\hfill\ts&#\hfil\cr
+{\emph{Course info}} & MATH F253X Calculus III, section 901 \quad CRN: 32894 \cr
+\strut & \cr
+{\emph{Instructor}} & Ed Bueler \quad \href{mailto:elbueler@alaska.edu}{\texttt{elbueler\@@alaska.edu}} \cr
+\strut & \cr
+{\emph{Public webpage}}&\href{https://bueler.github.io/calc3/}{\texttt{bueler.github.io/calc3/}}\cr
+\strut & \cr
+{\emph{Canvas site}} & \href{https://canvas.alaska.edu/courses/13188}{\texttt{canvas.alaska.edu/courses/13188}} \cr
+\strut & \cr
+\emph{Prerequisite} & MATH F252X Calculus II; or placement.\cr
+\strut & \cr
+{\emph{Required text}} &\textit{OpenStax Calculus Volume 3} by G. Strang \& E. Herman,\cr
+&\href{https://openstax.org/details/books/calculus-volume-3}{\texttt{openstax.org/details/books/calculus-volume-3}} \cr
+&
+  optional paperback print copy:\quad \texttt{ISBN-13 978-1-50669-805-2}\cr
+  }
+\hfil}}
+
+
+\heading{Description and Course Goals}
+Calculus is a key part of the language in all the science and engineering disciplines.  It is also useful, and it is part of the UAF core curriculum.  In Calculus III, instead of functions of one variable we study functions of 2 or 3 variables, and vectors.  Differentiation and integration skills from previous calculus courses are very important, but mostly we do not use sequences and series.
+
+At the completion of the course, students will:
+\begin{clist}
+\item understand vectors, vector notation, and how to describe lines and planes using vectors,
+\item be able to compute partial derivatives and gradients of functions of 2 and 3 variables,
+\item be comfortable with integrating functions of 2 and 3 variables,
+\item understand, and be able to visualize, vector-valued functions of 1,2,3 variables,
+\item be comfortable using polar, cylindrical, and spherical coordinates,
+\item understand, and be able to compute, the divergence and curl of vector-valued functions, and
+\item have introductory knowledge of the multi-variable fundamental theorems of calculus, namely Green's theorem, the divergence theorem, and Stoke's theorem.
+\end{clist}
+Upon completion, students will have the mathematical foundations for success in science courses requiring mathematics background.  This includes many junior/senior-level science and engineering courses based on multiple-variables theory, such as electricity and magnetism, fluids, and geodynamics, for example.
+
+
+\heading{Class Time}
+There are 4.5 hours of class meetings with your instructor every week:
+\begin{itemize}
+\item MWF 8:00--9:00 am  Chapman 106
+\item Th 8:00--9:30 am  Chapman 106
+\end{itemize}
+
+The 1.5 hour time on Thursday will be used to discuss new topics (30 minutes), and the the weekly Quiz happens (30 minutes).  The final 30 minutes will be spent going over the Quiz.  We do this immediately so that students can leave knowing what Quiz material has been mastered, how to work each problem correctly, and what topics need additional work.
+
+
+\heading{Schedule and Online Materials}
+The public webpage contains a \href{https://bueler.github.io/calc3/assets/general/schedule.pdf}{Schedule} listing the textbook sections to be covered each class, the dates each Homework is due, plus the dates for Quizzes and Exams.  You should consult this schedule frequently, but note that the Schedule is subject to change.
+
+Most course materials (Syllabus, old Quiz and Exam solutions, study materials, etc.) will be posted on the \href{https://bueler.github.io/calc3/}{public webpage}.  Some course materials (grades, Homework solutions, announcements, etc.) will be available on the \href{https://canvas.alaska.edu/courses/13188}{Canvas site}.  Each website links to the other.
+
+
+\heading{Communication and Office Hours}
+I will use \href{https://canvas.alaska.edu/courses/13188}{Canvas} to send announcements, and, if I need to contact you outside of the lecture then I'll try to email via Canvas.  (\textsl{Please set the email address in Canvas to one that you check regularly!})  My Office Hours are online at \href{http://bueler.github.io/OffHrs.htm}{\texttt{bueler.github.io/OffHrs.htm}}.  Students can also schedule meetings with me outside of regular office hours, or by email at \href{mailto:elbueler@alaska.edu}{\texttt{elbueler\@@alaska.edu}}.
+
+Please let me know by email if you will miss a class for an excusable reason.
+
+
+
+\heading{Evaluation and Grades}
+Grades are determined as follows:
+ 
+\begin{multicols}{2}
+\begin{tabular}{|c|c|}
+\hline
+2 Minute Questions & 5\%\\
+\hline
+Homework & 10\% \\
+\hline
+Quizzes & 20\% \\
+\hline
+Midterm Exam 1 & 20\% \\
+\hline
+Midterm Exam 2 & 20\%  \\
+\hline
+Final Exam & 25\% \\
+\hline
+total & 100\% \, \\
+\hline
+\end{tabular}
+
+\begin{tabular}{llll}
+A  & 93--100\%& C  & 68--75\%  \\
+A- & 90--92\% & C- & not given \\
+B+ & 87--89\% & D+ & 65--67\%  \\
+B  & 82--86\% & D  & 60--64\%  \\
+B- & 79--81\% & D- & 57--59\%  \\
+C+ & 76--78\% & F  & $\le$ 56\%
+\end{tabular}
+\end{multicols}
+
+The given grade ranges are a guarantee and a lower bound.  I reserve the right to increase your grade above these ranges based on the actual difficulty of the work and/or on average class performance.  Any such increases will preserve grade ordering by weighted total score. 
+
+
+\heading{2 Minute Questions and Participation}
+Attendance and participation are important parts of mastering the material, and a strong predictor of overall course performance in any subject.  Most lectures will start with a ``2 Minute Question'' on a small slip of paper.  Please write your name on it, answer the question, and turn it in by the end of class.  It will not be graded for content, but you'll get 0 or 1 points according to whether you turned it in.
+
+
+%\clearpage \newpage
+\heading{Homework}
+Homework assignments consist of a selection of problems from the textbook; see the \href{https://bueler.github.io/calc3/homework.html}{Homework} tab on the public webpage.  Please write your Homework on paper, or electronically on a tablet, and turned in as a PDF via Gradescope.  (Access Gradescope via the \href{https://canvas.alaska.edu/courses/13188}{Canvas page}.)  Help with scanning homework can be found on the \href{https://bueler.github.io/calc3/techHelp.html}{Tech Help} tab of the public webpage.  Assignments are due, mostly on Mondays and Wednesdays, by 11:59pm, thus in advance of the Thursday Quiz.  See the online \href{https://bueler.github.io/calc3/schedule.pdf}{Schedule} for due dates.
+
+Complete worked solutions to all Homework problems are \emph{provided in advance on the Canvas site}!  Therefore Homework will be graded based on \textsl{effort} and \textsl{completion}.  All students should earn 100\% on homework.  On the other hand, it is pathetic to defeat the purpose of the homework by copying the solutions, and because Homework is only 10\% of your grade, it is not really worthwhile.  The Homework exists so you can \textsl{learn by doing}.
+
+
+\heading{Quizzes}
+The weekly Quizzes will be on Thursdays, in the middle third of the 8:00--9:30 am class.  Each Quiz covers material since the previous one.  Students will be given the opportunity to grade and correct their Quizzes in the last third of the class.  You can earn-back up to half the missed points for doing so \textsl{accurately}.
+
+Quizzes are given under Exam conditions: books, notes, and calculators are not allowed.  Performance on Quizzes is your best indicator of how well you are learning the course material, and a better predictor of Exam performance than your Homework score.
+
+Always contact me if you must miss a Quiz for a justified reason!  Generally I will simply excuse you from the Quiz, but ask you to take it off-line and check against the posted solutions.
+
+
+\heading{Midterm and Final Exams}
+There are two Midterm Exams this semester, to be held on the dates in the \href{https://bueler.github.io/calc3/schedule.pdf}{Schedule} on the course website: \emph{Midterm Exam 1 on Thursday 23 February} and \emph{Midterm Exam 2 on Thursday 6 April}.  Midterms are given during the class time.  Make-up Midterms are given only for documented extenuating circumstances, at my discretion.
+
+The cumulative Final Exam will be held at the day/time listed as the common math time in the online schedule: \emph{8:00--10:00 Wednesday 3 May}.  The Final will be in our regular classroom, Chapman 106.  Department policy does not allow me to give an early Final Exam.
+
+All Exams will be closed book, and no calculator or other electronics will be allowed.
+
+
+\heading{Tutoring and Resources}
+The Math and Stat Lab, Chapman 305, offers tutors, and one-on-one or small group tutoring, including online, is available at Chapman 201.  For schedules and appointments see
+
+\centerline{\href{http://www.uaf.edu/dms/mathlab/}{\texttt{www.uaf.edu/dms/mathlab/}}}
+
+ASUAF (\href{https://uaf.edu/asuaf/}{\texttt{uaf.edu/asuaf/}}) offers private tutoring for a small fee, based on student income.
+
+
+\small
+
+\bigskip
+\heading{Rules and Policies}
+\vskip -10pt
+
+\emph{Incomplete Grade.}  Incomplete (I) will only be given in
+  DMS courses in cases where
+  the student has completed the majority (normally all but the last
+  three weeks) of a course with a grade of C or better, but for
+  personal reasons beyond his/her control has been unable to complete
+  the course during the regular term. Negligence or indifference are
+  not acceptable reasons for the granting of an incomplete. 
+
+\emph{Late Withdrawals.}  A withdrawal after the deadline from a DMS course will
+  normally be granted only in cases where the student is performing
+  satisfactorily (i.e., C or better) in a course, but has exceptional
+  reasons, beyond his/her control, for being unable to complete the
+  course. These exceptional reasons should be detailed in writing to
+  the instructor, department head and dean.
+
+\emph{No Early Final Examinations.}  Final examinations for DMS
+  courses shall not be held earlier than the date and time published
+  in the official term schedule. Normally, a student will not be
+  allowed to take a final exam early. Exceptions can be made by
+  individual instructors, but should only be allowed in exceptional
+  circumstances and in a manner which doesn't endanger the security of
+  the exam.
+
+\emph{Academic Dishonesty.}  Academic dishonesty, including cheating and plagiarism, will not be tolerated.  It is a violation of the Student Code of Conduct
+and will be punished according to UAF procedures.
+
+\emph{Student protections and services statement.}  Every qualified student is welcome in my classroom.  As needed, I am happy to work with you, Disability Services, Veterans' Services, Rural Student Services, etc.~to find reasonable accommodations.  Students at this University are protected against sexual harassment and discrimination (Title IX), and minors have additional protections.  As required, if I notice or am informed of certain types of misconduct, then I am required to report it to the appropriate authorities.  For more information on your rights as a student and the resources available to you to resolve problems, please go the following site: \href{https://www.uaf.edu/handbook/}{\texttt{www.uaf.edu/handbook/}}.
+
+\emph{General education statement.}  This course is listed as a General Education Math Course.  As such this course is expected to \textsl{contribute to the student meeting}
+%\footnote{This phrase was added to the GER statement because it is nonsensical without it.}
+the 4 general learning outcomes.
+\vskip -20pt
+
+\begin{enumerate}
+\item Build knowledge of human institutions, sociocultural processes, and the physical and natural works through the study of mathematics.  Competence will be demonstrated for the foundational information in each subject area, its context and significance, and the methods used in advancing each.
+
+\item Develop intellectual and practical skills across the curriculum, including inquiry and analysis, critical and creative thinking, problem solving, written and oral communication, information literacy, technological competence, and collaborative learning. Proficiency will be demonstrated across the curriculum through critical analysis of proffered information, well-reasoned solutions to problems or inferences drawn from evidence, effective written and oral communication, and satisfactory outcomes of group projects.
+
+\item Acquire tools for effective civic engagement in local through global contexts, including ethical reasoning, intercultural competence, and knowledge of Alaska and Alaska issues.  Facility will be demonstrated through analyses of issues including dimensions of ethics, human and cultural diversity, conflicts and interdependencies, globalization, and sustainability.   
+
+\item Integrate and apply learning, including synthesis and advanced accomplishment across general and specialized studies, adapting them to new settings, questions and responsibilities, and forming a foundation for lifelong learning. Preparation will be demonstrated though production of a a creative or scholarly product that requires broad knowledge, appropriate technical proficiency, information collection, synthesis, interpretation, presentation and reflection.
+\end{enumerate}
+
+\hfill  \scriptsize [syllabus version: \today] \normalsize
+
+\end{document}
