@@ -25,7 +25,7 @@
 \parskip 6pt plus 1pt
 
 % header content
-\doclabel{Math 615 Numerical Analysis of Differential Equations}
+\doclabel{Math 253 Calculus III}
 \docdate{Spring 2023 (Bueler)}
 
 % macros
@@ -34,9 +34,10 @@
 \newcommand{\vacinline}[1]{{\color{OliveGreen} \textsl{#1}}}
 \newcommand{\vac}[1]{\strut \small{\vacinline{#1}}}
 \newcommand{\due}[1]{\strut {\color{BrickRed} \textsl{#1}}}
-\newcommand{\hdue}[1]{\due{#1 due}}
-\newcommand{\proj}[1]{\strut {\color{RedOrange} #1}}
+\newcommand{\hdue}[1]{\due{HW #1}}
+\newcommand{\qq}[1]{\strut {\color{RedOrange} #1}}
 \newcommand{\ee}[1]{\strut {\color{Blue} \textbf{#1}}}
+\newcommand{\eee}[1]{{\footnotesize {\color{Blue} #1}}}
 \newcommand{\dlinline}[1]{{\color{Purple} \textbf{#1}}}
 \newcommand{\dl}[1]{{\small \dlinline{#1}}}
 
@@ -44,55 +45,48 @@
 \begin{document}
 \hfill \small \emph{version 1: \today} \normalsize
 
-\bigskip\bigskip
+\bigskip\medskip
 \centerline{\Large \textbf{Weekly Schedule}}
 
 \bigskip
-The schedule below is subject to changes!  See the public course webpage
-
-\medskip
-
-\centerline{\href{https://bueler.github.io/nade/index.html}{\texttt{bueler.github.io/nade/}}}
-
-\noindent for \due{Homework}, \ee{Exams}, and \proj{Project} details.  Planned lecture Sections are here in black.  Classes are MWF 10:30--11:30pm, Brooks 302.
+The schedule below is subject to changes!  Classes are held MWF 8:00--9:00am and Th 8:00--9:30am in Chapman 106.  The details of \due{Homework}, \qq{Quizzes}, and \ee{Exams} are at the public course webpage: {\large \quad \strut \href{https://bueler.github.io/calc3/index.html}{\texttt{bueler.github.io/calc3}}}
 
 \bigskip
 
-\begin{tabularx}{1.03\textwidth}{l|>{\raggedright\arraybackslash}X|X|X|}
-\textbf{Week} \quad Dates & M & W & F \\ \hline
+\begin{tabularx}{1.03\textwidth}{l|>{\raggedright\arraybackslash}X|X|X|X|}
+\textbf{Week} \quad Dates & M & W & Th & F \\ \hline
 
-\wkday{1}{1/16}{1/20}     & \vac{AK Civil Rights Day} & & \\ \hline
+\wkday{1}{1/16}{1/20}     & \vac{Civil Rights Day} & 2.1, 2.2 & 2.3 & 2.4 \par \hdue{2.1} \\ \hline
 
-\wkday{2}{1/23}{1/27}     & \hdue{A1?} & & \\ \hline
+\wkday{2}{1/23}{1/27}     & \phantom{x} \par \hdue{2.2} & 2.5 \par \hdue{2.3, 2.4} & \phantom{x} \par \qq{Q1} & 3.1 \par \dl{drops} \\ \hline
 
-\wkday{3}{1/30}{2/3}      & & & \\ \hline
+\wkday{3}{1/30}{2/3}      & \phantom{x} \par \hdue{2.5} & 3.2 \par \hdue{3.1} & \phantom{x} \par \qq{Q2} & 3.3 \\ \hline
 
-\wkday{4}{2/6}{2/10}      & & & \\ \hline
+\wkday{4}{2/6}{2/10}      & \phantom{x} \par \hdue{3.2} & 3.4 \par \hdue{3.3} & \phantom{x} \par \qq{Q3} & 4.1 \\ \hline
 
-\wkday{5}{2/13}{2/17}     & & & \\ \hline
+\wkday{5}{2/13}{2/17}     & 4.2 \par \hdue{3.4} & 4.3 \par \hdue{4.1} & \phantom{x} \par \qq{Q4} & 4.4 \\ \hline
 
-\wkday{6}{2/20}{2/24}     & & & \\ \hline
+\wkday{6}{2/20}{2/24}     & \phantom{x} \par \hdue{4.2, 4.3} & 4.5 \par \hdue{4.4} & \ee{Midterm 1} & 4.6 \\ \hline
 
-\wkday{7}{2/27}{3/3}      & & & \\ \hline
+\wkday{7}{2/27}{3/3}      & \phantom{x} \par \hdue{4.5} & 4.7 \par \hdue{4.6} & 4.8 \par \qq{Q5} & 5.1 \\ \hline
 
-\wkday{8}{3/6}{3/10}      & & & \\ \hline
+\wkday{8}{3/6}{3/10}      & \phantom{x} \par \hdue{4.7} & 5.2 \par \hdue{5.1} & \phantom{x} \par \qq{Q6} & 5.3 \\ \hline
 
-\wkday{9}{3/13}{3/17}     & \vac{Spring Break} & \vac{Spring Break} & \vac{Spring Break} \\ \hline
+\wkday{9}{3/13}{3/17}     & \vac{Spring Break} & \vac{Spring Break} & \vac{Spring Break} & \vac{Spring Break} \\ \hline
 
-\wkday{10}{3/20}{3/24}    & & & \\ \hline
+\wkday{10}{3/20}{3/24}    & 5.4 \par \hdue{5.1} & \phantom{x} \par \hdue{5.2, 5.3} & 2.7 \par \qq{Q7} & 5.5 \\ \hline
 
-\wkday{11}{3/27}{3/31}    & \proj{Project Proposal?} & & \\ \hline
+\wkday{11}{3/27}{3/31}    & \phantom{x} \par \hdue{5.4} & 5.6 \par \hdue{2.7} & \phantom{x} \par \qq{Q8} & 5.7 \par \dl{withdrawals} \\ \hline
 
-\wkday{12}{4/3}{4/7}      & & & \\ \hline
+\wkday{12}{4/3}{4/7}      & 6.1 \par \hdue{5.5} & \phantom{x} \par \hdue{5.6} & \ee{Midterm 2} & 6.2 \\ \hline
 
-\wkday{13}{4/10}{4/14}    & & & \\ \hline
+\wkday{13}{4/10}{4/14}    & \phantom{x} \par \hdue{6.1} & 6.3 \par \hdue{6.2} & \phantom{x} \par \qq{Q9} & 6.4 \\ \hline
 
-\wkday{14}{4/17}{4/21}    & & & \\ \hline
+\wkday{14}{4/17}{4/21}    & FIXME & & & \\ \hline
 
-\wkday{15}{4/24}{4/28}    & & & \\ \hline
+\wkday{15}{4/24}{4/28}    & & & & \\ \hline
 
-\wkday{16}{5/1}{5/5} & \vac{no class} \par \proj{Project part II due} & \ee{Final Exam} \par THURSDAY 5/4 \par 10:15--12:15 &   \\ \hline
-
+\wkday{16}{5/1}{5/5}      & \vac{no class} & \ee{Final Exam} \par 8:00--10:00am & &  \\ \hline
 \end{tabularx}
 
 
