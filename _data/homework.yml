@@ -5,8 +5,8 @@ homework:
   due: 11:59pm Fri 1/20
   sections:
   - section: 2.1
-    problems: 4, 7, 9, 12, 14, 17, 20, 26,
-    cont: 30, 32, 38, 40, 43
+    problems: 4, 7, 9, 12, 14, 17, 26, 30, 32,
+    cont: 38, 40, 46
 - name: Homework 2.2
   due: 11:59pm Mon 1/23
   sections:
