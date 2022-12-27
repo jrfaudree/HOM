@@ -13,11 +13,10 @@ Email me at [elbueler@alaska.edu](mailto:elbueler@alaska.edu).  I hold [office h
 
 Log in to [canvas.alaska.edu/courses/13188](https://canvas.alaska.edu/courses/13188) for:
 
-  * your grades
+  * announcements
+  * grades
   * link to Gradescope for submitting Homework
   * solutions to Homework
-  * Zoom link for Tuesday group tutoring
-  * other Announcements
 
 ### Getting Started
 

@@ -5,7 +5,7 @@
   <td>
 		<table class="inner">
 		  <tr>
-			    <td>{{ quiz.name }} &nbsp; &nbsp; Th {{ quiz.date }}</td>
+			    <td>{{ quiz.name }} &nbsp; &nbsp; Thursday {{ quiz.date }}</td>
 			</tr>
 			<tr>
 			    <td>sections: {{ quiz.sections }}</td>
