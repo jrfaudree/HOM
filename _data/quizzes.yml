@@ -1,8 +1,29 @@
 semester: Spring 2023
 home: assets/quizzes/S23
 quizzes:
-#- name: Quiz 1
-#  date: 9/1
-#  sections: review (Chapter 1)
-#  blank: quiz1.pdf
-#  solutions: quiz1solns.pdf
+- name: Quiz 1
+  date: 26 January
+  sections: 2.1, 2.2, 2.3
+  #blank: quiz1.pdf
+  #solutions: quiz1solns.pdf
+- name: Quiz 2
+  date: 2 February
+  sections: 2.4, 2.5, 3.1
+- name: Quiz 3
+  date: 9 February
+  sections: 3.2, 3.3
+- name: Quiz 4
+  date: 16 February
+  sections: 4.1, 4.2
+- name: Quiz 5
+  date: 2 March
+  sections: 4.5, 4.6
+- name: Quiz 6
+  date: 9 March
+  sections: 4.7, 5.1
+- name: Quiz 7
+  date: 23 March
+  sections: 5.2, 5.3
+- name: Quiz 8
+  date: 30 March
+  sections: 5.4, 2.7, 5.5
