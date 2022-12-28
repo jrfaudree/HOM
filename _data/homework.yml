@@ -19,3 +19,15 @@ homework:
   - section: 2.3
     problems: 126, 130, 132, 136, 140, 142, 146,
     cont: 148, 150, 152, 154, 168, 170, 172
+- name: Homework 2.4
+  due: 11:59pm Wed 1/25
+  sections:
+  - section: 2.4
+    problems: 184, 188, 190, 195, 204, 205, 207,
+    cont: 210, 212, 214, 219, 228, 235
+- name: Homework 2.5
+  due: 11:59pm Mon 1/30
+  sections:
+  - section: 2.5
+    problems: 244, 248, 254, 256, 257, 259, 268,
+    cont: 271, 274, 276, 280, 286, 288, 299
