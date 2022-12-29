@@ -31,3 +31,20 @@ homework:
   - section: 2.5
     problems: 244, 248, 254, 256, 257, 259, 268,
     cont: 271, 274, 276, 280, 286, 288, 299
+- name: Homework 3.1
+  due: 11:59pm Wed 2/1
+  sections:
+  - section: 3.1
+    problems: 2, 3, 6, 9, 13, 14, 16, 23, 29, 37
+- name: Homework 3.2
+  due: 11:59pm Mon 2/6
+  sections:
+  - section: 3.2
+    problems: 43, 47, 53, 54, 63, 64, 67, 68, 70,
+    cont: 71, 72, 77, 81, 86, 95, 96, 101
+- name: Homework X
+  due: 11:59pm Y
+  sections:
+  - section: Z
+    problems:
+    cont:
