@@ -42,6 +42,18 @@ homework:
   - section: 3.2
     problems: 43, 47, 53, 54, 63, 64, 67, 68, 70,
     cont: 71, 72, 77, 81, 86, 95, 96, 101
+- name: Homework 3.3
+  due: 11:59pm Wed 2/8
+  sections:
+  - section: 3.3
+    problems: 102, 104, 108, 110, 111, 115, 127,
+    cont: 128, 130, 134, 138
+- name: Homework 4.1
+  due: 11:59pm Mon 2/13
+  sections:
+  - section: 4.1
+    problems: 4, 6, 7, 14, 17, 21, 26, 35,
+    cont: 39, 42, 44, 49, 55, 57
 - name: Homework X
   due: 11:59pm Y
   sections:
