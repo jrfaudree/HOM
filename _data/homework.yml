@@ -64,9 +64,9 @@ homework:
   due: 11:59pm Mon 2/20
   sections:
   - section: 4.3
-    problems: 113, 118, 119, 121, 125, 127, 128, 132,
-    cont: 133, 134, 137, 138, 139, 145, 149, 151,
-    contcont: 155, 156, 158
+    problems: 113, 118, 119, 121, 125, 127, 128,
+    cont: 132, 133, 134, 137, 138, 139, 145,
+    contcont: 149, 151, 155, 156, 158
 - name: Homework X
   due: 11:59pm Y
   sections:
