@@ -59,7 +59,7 @@ homework:
   sections:
   - section: 4.2
     problems: 65, 70, 72, 77, 82, 83, 84, 88,
-    cont: 89, 93, 102, 106, 110
+    cont: 93, 102, 109, 110
 - name: Homework 4.3
   due: 11:59pm Mon 2/20
   sections:
