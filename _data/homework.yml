@@ -67,6 +67,19 @@ homework:
     problems: 113, 118, 119, 121, 125, 127, 128,
     cont: 132, 133, 134, 137, 138, 139, 145,
     contcont: 149, 151, 155, 156, 158
+- name: Homework 4.4
+  due: 11:59pm Wed 2/22
+  sections:
+  - section: 4.4
+    problems: 170, 171, 173, 176, 179, 182, 183,
+    cont: 186, 192, 196, 198, 200, 203, 209,
+    contcont: 212
+- name: Homework 4.5
+  due: 11:59pm Mon 2/27
+  sections:
+  - section: 4.5
+    problems: 215, 216, 219, 223, 225, 231, 232,
+    cont: 240, 245, 255, 256, 259
 - name: Homework X
   due: 11:59pm Y
   sections:
