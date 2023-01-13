@@ -20,15 +20,15 @@ Log in to [canvas.alaska.edu/courses/13188](https://canvas.alaska.edu/courses/13
 
 ### Getting Started
 
-* Attend class!: MWF 8:00–9:00am and Th 8:00–9:30am in Chapman 106.
+* Attend class: MWF 8:00–9:00am and Th 8:00–9:30am in Chapman 106.
 
 * Read the [Syllabus](assets/general/syllabus.pdf).
 
-* See the [Schedule](assets/general/schedule.pdf).  Check it often to find out what happens next!
+* See the [Schedule](assets/general/schedule.pdf).  Check it often to find out what happens next.
 
 * The textbook is online: [OpenStax Calculus Volume 3](https://openstax.org/details/books/calculus-volume-3).
 
-* Do the [Homework](homework.html).  Solutions are [available in advance at the Canvas page](https://canvas.alaska.edu/courses/13188/modules)!  Your Homework will be graded for completion and effort.  You will need to scan and upload each [Homework](homework.html) assignment as a single PDF file in [Gradescope](https://canvas.alaska.edu/courses/13188/external_tools/114?display=borderless).  See the [Tech Help](techHelp.html) page for help on scanning and uploading.
+* Do the [Homework](homework.html).  Solutions are [available in advance at the Canvas page](https://canvas.alaska.edu/courses/13188/modules), and your Homework will be graded for completion and effort.  You will need to scan and upload each [Homework](homework.html) assignment as a single PDF file in [Gradescope](https://canvas.alaska.edu/courses/13188/external_tools/114?display=borderless).  See the [Tech Help](techHelp.html) page for help on scanning and uploading.
 
 * Prepare for the upcoming weekly [Quizzes](quizzes.html).
 
