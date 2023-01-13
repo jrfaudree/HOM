@@ -20,6 +20,8 @@ Log in to [canvas.alaska.edu/courses/13188](https://canvas.alaska.edu/courses/13
 
 ### Getting Started
 
+* Attend class!: MWF 8:00–9:00am and Th 8:00–9:30am in Chapman 106.
+
 * Read the [Syllabus](assets/general/syllabus.pdf).
 
 * See the [Schedule](assets/general/schedule.pdf).  Check it often to find out what happens next!
