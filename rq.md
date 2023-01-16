@@ -14,7 +14,8 @@ title: Reading Questions
   - Tell us about the mechanics of ancient Mayan numerical systems. When? Where? Base what? Priest system versus common people system?
   - What seems to be a primary motivator for the Mayan numerical system? It has the earliest known use of what symbol?
   - Summarize Burton's conjectures regarding the forces that triggered numerical representation.
+
 - Section 1.2
-  - 
+  - wlkerh
 
 <div style="padding-bottom: 40px"></div>
