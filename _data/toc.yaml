@@ -1,4 +1,4 @@
-sidenavtitle: 'MATH 316'
+sidenav_title: 'Math 316'
 
 docs:
 
@@ -17,11 +17,13 @@ docs:
 - title: Exams
   url: exams.html
 
-#- title: Worksheets
-#  url: worksheets.html
+- title: More Resources
+  url: resources.html
+  
+- title: Project Info
+  url: project.html
 
 - title: Tech Help
   url: techHelp.html
 
-#- title: Videos
-#  url: videos.html
+
