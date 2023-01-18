@@ -16,7 +16,7 @@ title: Reading Questions
   - Summarize Burton's conjectures regarding the forces that triggered numerical representation.
 
 - Section 1.2
-  - Roughly when did ancient Egyptians have a ``fully developed" number system and what does our author mean by ``fully developed"?
+  - Roughly when did ancient Egyptians have a "fully developed" number system and what does our author mean by "fully developed"?
   - What is the diffence between the *heiroglyphic* numerical representation and the *heiratic* (or *demotic*) numerical representation of ancient Egyptians? What were the advantages and disadvantages?
   - Elaborate on the book's assertion that the Egyptian representation was not *positional*. What does this mean? 
   - Tell us about the Greek alphabetic numerical system. When? Where? Base?
