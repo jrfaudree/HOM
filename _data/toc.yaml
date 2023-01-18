@@ -3,22 +3,22 @@ sidenavtitle: 'MATH F253'
 docs:
 
 - title: Syllabus
-  url: assets/general/syllabus.pdf  # rebuild by "make syllabus.pdf" in assets/general/
+  url: assets/general/M31623_syllabus.pdf  # rebuild by "make syllabus.pdf" in assets/general/
 
 - title: Schedule
-  url: assets/general/schedule.pdf  # rebuild by "make schedule.pdf" in assets/general/
+  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vRljb1-0lJ9CtIRxdMsZyeBSeQeEZfkl7WBYEpcGmgYnoMynhaaJGCkPKR3t-NxstMAChrq4HY-ms9D/pubhtml?gid=0&single=true
 
 - title: Homework
   url: homework.html
 
-- title: Quizzes
-  url: quizzes.html
+- title: Reading Questions
+  url: rq.html
 
 - title: Exams
   url: exams.html
 
-- title: Worksheets
-  url: worksheets.html
+#- title: Worksheets
+#  url: worksheets.html
 
 - title: Tech Help
   url: techHelp.html
