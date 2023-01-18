@@ -24,9 +24,9 @@ Log in to [Canvas at UAF](https://canvas.alaska.edu/courses) for:
 
 * Read the [Syllabus](assets/general/syllabus.pdf).
 
-* See the [Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vRljb1-0lJ9CtIRxdMsZyeBSeQeEZfkl7WBYEpcGmgYnoMynhaaJGCkPKR3t-NxstMAChrq4HY-ms9D/pubhtml?gid=0&single=true)).  Check it often to find out what happens next.
+* See the [Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vRljb1-0lJ9CtIRxdMsZyeBSeQeEZfkl7WBYEpcGmgYnoMynhaaJGCkPKR3t-NxstMAChrq4HY-ms9D/pubhtml?gid=0&single=true).  Check it often to find out what happens next.
 
-* The textbook is **History of Mathematics: An Introduction** by David M. Burton.
+* The textbook is **The History of Mathematics: An Introduction** by David M. Burton.
 
 * Do the [Homework](homework.html).  Solutions are available in advance at the Canvas course. Your Homework will be graded for completion and effort.  You will need to scan and upload each [Homework](homework.html) assignment as a single PDF file in Gradescope, which you access from Canvas.
 
