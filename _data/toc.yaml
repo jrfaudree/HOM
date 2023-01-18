@@ -5,8 +5,8 @@ docs:
 - title: Syllabus
   url: assets/general/M31623_syllabus.pdf  # rebuild by "make syllabus.pdf" in assets/general/
 
-- title: Day-to-Day
-  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vQGc6J1T0q0ik53Vks8LatvLNG9OMWIlA9mkIOz6BWO9KZecpv0yYPTKDhgKxS-UxQ809bjz4kUVgbk/pubhtml?gid=0&single=true
+- title: Schedule
+  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vRljb1-0lJ9CtIRxdMsZyeBSeQeEZfkl7WBYEpcGmgYnoMynhaaJGCkPKR3t-NxstMAChrq4HY-ms9D/pubhtml?gid=0&single=true
   
 - title: Homework
   url: homework.html
