@@ -5,6 +5,6 @@ title: Exams
 
 ## Exams
 
-Information about Exams and copies of old exams will appear here.
+Information about exams in this class and copies of old exams will appear here.
 
 <div style="padding-bottom: 40px"></div>
