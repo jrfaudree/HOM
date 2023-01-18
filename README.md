@@ -1,4 +1,4 @@
-# calc3
+# HOM
 
 Course materials for Math 316 History of Math at University of Alaska Fairbanks.  See the website at
 
