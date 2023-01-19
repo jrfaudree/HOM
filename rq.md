@@ -23,4 +23,17 @@ title: Reading Questions
   - What would a multiplication table look like for the Greek alphabetic system?
   - What is meant by a *ciphered* numerical system?
 
+- Secition 1.3
+  - What is the definition of "Babylonian" our text uses? 
+  - The book's discussion of the Babylonian numerical system covers roughly what time period?  
+  - (in person students) Walk to Rasmuson Library main floor and find the cunieform tablet on display near the south entrance. (Ask for the Ur III cuniform tablet, if needed.) How old? Where? Reaction? 
+  - (on line students) Go to cdli.ucla.edu and in the quick search menu on the left enter the CDLI no. for the UAF tablet: P491488. How old? Where? Reaction?
+  - Describe the Babylonian positional system. Base? Symbols? Positional? Additive?
+  - Make an argument for and against the assertion that ancient Babylonians had a zero. 
+  - What base 10 number is represented by the base 60 number: 3,0,18;40
+  - Write the decimal number 408.333333 in base 60 using the textbook's notation.
+  - What are some of the advantages of a base 60 system?
+  - The book's discussion of Chinese matheamtics covers roughly what time period?
+  - Compare the writing materials of the peoples we have read about in Chapter 1. (Egyptians, Babylonians, Chinese, Mayans, Incas). What would be the advantages and disadvanges?
+
 <div style="padding-bottom: 40px"></div>
