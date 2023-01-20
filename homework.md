@@ -6,7 +6,6 @@ title: Homework
 ## Homework Guidelines
 
   * The problems in the list below come from our textbook.
-  >
   * Homework is due by 11:59PM on the due date on the [Schedule](assets/general/schedule.pdf).  
   * Turn in your homework via Gradescope, which is accessed via [Canvas](https://canvas.alaska.edu).
   * Complete solutions are posted _in advance_ at the [Canvas](https://canvas.alaska.edu). 
