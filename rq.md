@@ -33,7 +33,7 @@ title: Reading Questions
   - What base 10 number is represented by the base 60 number: 3,0,18;40
   - Write the decimal number 408.333333 in base 60 using the textbook's notation.
   - What are some of the advantages of a base 60 system?
-  - The book's discussion of Chinese matheamtics covers roughly what time period?
+  - The book's discussion of Chinese mathematics covers roughly what time period?
   - Compare the writing materials of the peoples we have read about in Chapter 1. (Egyptians, Babylonians, Chinese, Mayans, Incas). What would be the advantages and disadvanges?
 
 ### Chapter 2
