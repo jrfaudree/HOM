@@ -40,7 +40,7 @@ title: Reading Questions
 
 - Section 2.1
   - Describe the Rhind Papyrus. Size? When was it written? Author? Where was it found?
-  - Go to the [British Museum's website](https://www.britishmuseum.org/collection/object/Y_EA10058) and look at it. What do you observe?
+  - Go to the [British Museum's website](https://www.britishmuseum.org/collection/object/Y_EA10058) and look at the Rhind Papyrus. What do you observe?
 
 - Section 2.2
   - Describe the Egyptian method of multiplication.
