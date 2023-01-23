@@ -23,7 +23,7 @@ title: Reading Questions
   - What would a multiplication table look like for the Greek alphabetic system?
   - What is meant by a *ciphered* numerical system?
 
-- Secition 1.3
+- Section 1.3
   - What is the definition of "Babylonian" our text uses? 
   - The book's discussion of the Babylonian numerical system covers roughly what time period?  
   - (in person students) Walk to Rasmuson Library main floor and find the cunieform tablet on display near the south entrance. (Ask for the Ur III cuniform tablet, if needed.) How old? Where? Reaction? 
@@ -35,5 +35,21 @@ title: Reading Questions
   - What are some of the advantages of a base 60 system?
   - The book's discussion of Chinese matheamtics covers roughly what time period?
   - Compare the writing materials of the peoples we have read about in Chapter 1. (Egyptians, Babylonians, Chinese, Mayans, Incas). What would be the advantages and disadvanges?
+
+### Chapter 2
+
+- Section 2.1
+  - Describe the Rhind Papyrus. Size? When was it written? Author? Where was it found?
+  - Go to the [British Museum's website](https://www.britishmuseum.org/collection/object/Y_EA10058) and look at it. What do you observe?
+
+- Section 2.2
+  - Describe the Egyptian method of multiplication.
+  - Describe the Egyptian method of division.
+  - Describe the Egyptian method of representing fractions.
+  - What was the purpose of the Unit Fraction Table?
+
+- Section 2.3
+  - Describe at least two of the four problems mentioned in this section.
+  - This section ends with a subsection called "Egyptian Mathematics as Applied Arithmetic." Summarize Burton's justification for this heading.
 
 <div style="padding-bottom: 40px"></div>
