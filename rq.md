@@ -61,6 +61,7 @@ _______________________
   - Tell us about the Moscow papyrus. Age? Size? Approximate location?
   - Go to the Mathematical Association of America [webpage](https://www.maa.org/press/periodicals/convergence/mathematical-treasure-the-rhind-and-moscow-mathematical-papyri) and view pictures of the Moscow papyrus. Thoughts?
   - List the geometric formulas mentioned in this section. (eg the area of a circle)
+  - Which one in the list above is really impressive? How would you calculate the same quantity?
   - Given the list above, what other formulas must Egyptian have known.
   - Tell us some *facts* about the Great Pyramid of Giza (Gizeh).
   - Summarize Burton's conclusions about Egyptian geometry during this period. Do you agree?
