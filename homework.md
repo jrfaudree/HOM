@@ -22,3 +22,5 @@ Section 1.3 Problems 1af,2b,3,4b,5,6af,9,13af,15b,17abceg
   * **HW 2** 
 >
 Section 2.3 Problems 1c,2ad,3a,6,10,19(for 7 loaves only),20(Problem 26 only),24
+
+Section 2.4 Problems 1c,2,6,9
