@@ -52,12 +52,14 @@ title: Reading Questions
   - Describe at least two of the four problems mentioned in this section.
   - This section ends with a subsection called "Egyptian Mathematics as Applied Arithmetic." Summarize Burton's justification for this heading.
 
+_______________________
+
 - Section 2.4
   - This section covers the geometry of ancient Egyptian during what period? (See the last paragraph.)
   - What may be the origins of geometry?
   - On page 54 is a modern formulation of the Egyptian formula for the area of a circle. Use the Egyptian formula and our modern formula to calculate the area of a circle with radius 5 feet. What is the difference in calculated area?
   - Tell us about the Moscow papyrus. Age? Size? Approximate location?
-  - Go to the Mathematical Association of America [webpage]{https://www.maa.org/press/periodicals/convergence/mathematical-treasure-the-rhind-and-moscow-mathematical-papyri} and view pictures of the Moscow papyrus. Thoughts?
+  - Go to the Mathematical Association of America [webpage](https://www.maa.org/press/periodicals/convergence/mathematical-treasure-the-rhind-and-moscow-mathematical-papyri) and view pictures of the Moscow papyrus. Thoughts?
   - List the geometric formulas mentioned in this section. (eg the area of a circle)
   - Given the list above, what other formulas must Egyptian have known.
   - Tell us some *facts* about the Great Pyramid of Giza (Gizeh).
