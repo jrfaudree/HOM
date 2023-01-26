@@ -72,9 +72,9 @@ ______
   - As you read through this section, make a list of the mathematical topics/problems mentioned. What is on that list?
   - What time period is meant by "Old Babylonian"?
   - How did Babylonians multiply? Divide?
-  - How did Babylonians handle fractions?
+  - How did Babylonians represent fractions?
   - What is a table of reciprocals and how was it used?
-  - What fallacy does Burton suggest lead to the Babylonians' in-depth study of the relationship between perimeter and area?
+  - What common fallacy does Burton suggest lead to the Babylonians' in-depth study of the relationship between perimeter and area?
   - Why did Babylonians solve multiple types of quadratic equations?
   - Describe other ways in which the Babylonians' approach to quadratic equations is different from our. (There is no observation that is too simple or obvious here.)
   - Burton asserts that the Babylonians " outstripped " the Egyptians. What is his argument? Do you agree?
