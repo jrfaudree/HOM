@@ -66,4 +66,16 @@ _______________________
   - Tell us some *facts* about the Great Pyramid of Giza (Gizeh).
   - Summarize Burton's conclusions about Egyptian geometry during this period. Do you agree?
 
+______
+
+- Section 2.5
+  - As you read through this section, make a list of the mathematical topics. What is on that list?
+  - What time period is meant by "Old Babylonian"?
+  - How did Babylonians multiply? Divide?
+  - How did Babylonians handle fractions?
+  - What is a table of reciprocals and how was it used?
+  - What fallacy does Burton suggest lead to the Babylonians in-depth look at the relationship between perimeter and area?
+  - Why did Babylonians solve multiple types of quadratic equations?
+  - 
+
 <div style="padding-bottom: 40px"></div>
