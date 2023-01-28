@@ -80,4 +80,15 @@ ______
   - Burton asserts that the Babylonians " outstripped " the Egyptians. What is his argument? Do you agree?
   - What we understand about the mathematics of any particular group of people is (obviously) dependent on the documentation that survives to be studied. Describe how the **nature of the surviving documents** impacts what we know about the mathematics of ancient Egyptians and Babylonians.
 
+___________
+
+- Section 2.6
+  - Was Pythagoras (585-500 bc) the first person to discover the Pythagorean Theorem?
+  - Go to the [UCLA CDLI webpage](https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&ObjectID=P254790) and look at Plimpton 322. With what you have learned so far, can you read the right-most column?
+  - Describe what sort of table appears to be on Plimpton 322.
+  - What is meant by a *primitive* Pythagoran triple? Give an example of a Pythagorean triple that is primitive and one that is not.
+  - Give a short description of the two examples in the text where Babylonian mathematicians used Pythagorean triples.
+  - Explain how Egyptian rope-stretchers could have used rope to form right angles.
+  - On page 79, we see a scheme for estimating the square root of a^2 + b using the calculation a+b/2a. How good is this estimation? Calculate the error on the two examples in the text, namely: 18^2 + 21 and 10^2 + 5.
+
 <div style="padding-bottom: 40px"></div>
