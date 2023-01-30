@@ -50,4 +50,12 @@ title: Project
 
 ### Project Grading Rubric
 
+| Component | Percent of Project Score | Standards |
+|-----------| --------------------------|-------------|
+| on time submission | 10| If you are late you lose points.|
+|complete negotiated proposal | 10 | All or nothing.|
+| first draft | 10 | 0-5-10 scale |
+| presentation | 10 | 0-5-10 scale |
+| final paper | 50 | quality of writing, clarity of mathematics|
+
 <div style="padding-bottom: 40px"></div>
