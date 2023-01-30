@@ -5,6 +5,12 @@ title: Project
 
 ## Project
 
-Information about the project will appear here.
+### Places to Look for Project Ideas
+
+### Some Specific Project Ideas
+
+### Project Timeline
+
+### Project Grading Rubric
 
 <div style="padding-bottom: 40px"></div>
