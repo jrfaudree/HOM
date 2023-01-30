@@ -27,6 +27,27 @@ title: Project
 
 ### Project Timeline
 
+* (Fri 17 Feb) **Project Proposal**
+  * topic and rough narrative
+  * two sources
+  * submit a PDF to Jill's email
+
+* (Fri 3 Mar) **Project Finalized** 
+
+* (Fri 31 Mar) **Project First Draft**
+  * presentation slides
+  * written materials to students
+  * submit pdf and slides to Jill's email
+  * sketched written materials are not acceptable
+
+* (Fri 21 Apr - Fri 28 Apr) **Student Presentations**
+  * The presenter provides reading materials to students at least 2 days in advance.
+  * At least two reading questions
+  * 15 minute presentation with 10 minutes for questions
+
+* (Fri 5 May) **Final Draft of Written Material**
+  * submit a PDF to Jill's email
+
 ### Project Grading Rubric
 
 <div style="padding-bottom: 40px"></div>
