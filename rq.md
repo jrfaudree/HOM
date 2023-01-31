@@ -91,4 +91,23 @@ ___________
   - Explain how Egyptian rope-stretchers could have used rope to form right angles.
   - On page 79, we see a scheme for estimating the square root of a^2 + b using the calculation a+b/2a. How good is this estimation? Calculate the error on the two examples in the text, namely: 18^2 + 21 and 10^2 + 5.
 
+### Chapter 3
+- Section 3.1
+  - How was the quantity sqrt(2) treated differently by Babylonian and Greek mathematicians?
+  - Who are the Phoeninians? Where? When?
+  - Describe some of the triggers for Greek expansion in the Mediterranean. What are the consequences for mathematics?
+  - Page 85 describes the beginning of the use of coins currency in Greek cities around 700 bc. How does this impact mathematics?
+  - Compare the distribution of learning among ancient Egyptians, Babylonians and Greeks.
+  - Compare the political structure of the ancient Egyptians, Babylonians and Greeks.
+  - Give us Thales of Miletus' details. When? Where? Place Thales in comparison to the authors of the Rhind Papyrus and Plimpton 322.
+  - List at least 5 mathematical accomplishments attributed to Thales.
+  - By what mechanism do we know anything about the mathematics of Thales?
+- Section 3.2
+  - Give us Pythagoras' details. When? Where? 
+  - Tell us some nonmathematical things about Pythagoras and his followers.
+  - Page 94 of our text describes a text by Nicomachus of Geresa with (translated) title **Introduction to Arithmetic**. Look at copies of this at the [MAA webpage](https://www.maa.org/press/periodicals/convergence/mathematical-treasure-arithmetic-of-nicomachus-via-iamblichus) or the University of Cambridge [digital library](https://cudl.lib.cam.ac.uk/view/MS-KK-00005-00028/1). What are the dates of the physical copies shown? What does this have to do with Pythagoras?
+  - What is a triangular number? A square number?
+  - Give us Zeno's details. When? Where?
+  - Describe the paradox of Achilles and the tortoise and explain why we no longer view the situation as paradoxical.
+
 <div style="padding-bottom: 40px"></div>
