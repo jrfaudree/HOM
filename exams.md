@@ -10,11 +10,11 @@ title: Exams
 Exam materials from this semester will appear here.
 
 ### Spring 2017
-* Midterm: &nbsp;&nbsp; [blank](assets/oldexams/M306S17_Mid1_part_1_and_2.pdf),  &nbsp;&nbsp;  [solutions]()
-* Final:  [blank]()
+* Midterm: &nbsp;&nbsp; [blank](assets/oldexams/M306S17_Mid1_part_1_and_2.pdf),  &nbsp;&nbsp;  [solutions](assets/oldexams/M306S17_Mid1_part_1_and_2-solutions.pdf)
+* Final:  &nbsp;&nbsp; [blank](assets/oldexams/M306S17_finalexam.pdf)
 
 ### Spring 2013
-* Midterm:  [blank]()    [solutions]()
-* Final:  [blank]()
+* Midterm:  &nbsp;&nbsp; [blank](assets/oldexams/M306S13_midterm_1_part1and2.pdf),   &nbsp;&nbsp;  [solutions](assets/oldexams/M306S13_midterm_essaysolns.pdf)
+* Final (page 1):  &nbsp;&nbsp; [blank](assets/oldexams/M306S13_finalexam_part1.pdf)
 
 <div style="padding-bottom: 40px"></div>
