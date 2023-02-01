@@ -10,7 +10,7 @@ title: Exams
 Exam materials from this semester will appear here.
 
 ### Spring 2017
-* Midterm: [blank]()    [solutions]()
+* Midterm: &nbsp;&nbsp; [blank](),  &nbsp;&nbsp;  [solutions]()
 * Final:  [blank]()
 
 ### Spring 2013
