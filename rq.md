@@ -94,9 +94,9 @@ ___________
 ### Chapter 3
 - Section 3.1
   - How was the quantity sqrt(2) treated differently by Babylonian and Greek mathematicians?
-  - Who are the Phoeninians? Where? When?
+  - Who are the Phoenicians? Where? When?
   - Describe some of the triggers for Greek expansion in the Mediterranean. What are the consequences for mathematics?
-  - Page 85 describes the beginning of the use of coins currency in Greek cities around 700 bc. How does this impact mathematics?
+  - Page 85 describes the beginning of the use of coin currency in Greek cities around 700 bc. How does this impact mathematics?
   - Compare the distribution of learning among ancient Egyptians, Babylonians and Greeks.
   - Compare the political structure of the ancient Egyptians, Babylonians and Greeks.
   - Give us Thales of Miletus' details. When? Where? Place Thales in comparison to the authors of the Rhind Papyrus and Plimpton 322.
