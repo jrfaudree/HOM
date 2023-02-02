@@ -28,5 +28,11 @@ Section 2.4 Problems 1c,2,6,9
 Section 2.5 Problems 1,4,6ac,11
 
  * **HW 3**
-
+>
 Section 2.6 Problems 1,2,4(sqrt(5) only), A (see Canvas)
+>
+Section 3.2 Problems 1,4,7ab(see note),8
+
+For Problem 7ab, you may choose between an algebraic proof and a geometric proof.
+>
+Section 3.3 Problems 5,10,15,17,21,23
