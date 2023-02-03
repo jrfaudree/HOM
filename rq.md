@@ -114,7 +114,7 @@ ___________________
 
 Section 3.3
 - Remind us of the approximate date and location of Pythagoras.
-- Remind us of the approximate date and location of Eucid.
+- Remind us of the approximate date and location of Euclid.
 - Remind us of the approximate date and location of Theon.
 - Remind us of the approximate date and location of Eudoxus.
 - Elaborate on the difference between the assertion that a mathematician or mathematical culture "knows the Pythagorean theorem" and the assertion that the person or culture "constructed Pythagorean triples."
