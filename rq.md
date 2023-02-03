@@ -110,4 +110,15 @@ ___________
   - Give us Zeno's details. When? Where?
   - Describe the paradox of Achilles and the tortoise and explain why we no longer view the situation as paradoxical.
 
+___________________
+
+Section 3.3
+- Remind us of the approximate date and location of Pythagoras.
+- Remind us of the approximate date and location of Eucid.
+- Remind us of the approximate date and location of Theon.
+- Remind us of the approximate date and location of Eudoxus.
+- Elaborate on the difference between the assertion that a mathematician or mathematical culture "knows the Pythagorean theorem" and the assertion that the person or culture "constructed Pythagorean triples."
+- Several strategies for constructing Pythagorean triples are mentioned in this section. Compare the strategy attributed to Pythagoras (middle of page 107) and the one attributed to Euclid (bottom of page 5). What sort of triples do they construct?
+- What is meant by **incomensurable quantities**? Give a concrete example of two incomensureable quantities.
+
 <div style="padding-bottom: 40px"></div>
