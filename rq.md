@@ -113,10 +113,7 @@ ___________
 ___________________
 
 Section 3.3
-- Remind us of the approximate date and location of Pythagoras.
-- Remind us of the approximate date and location of Euclid.
-- Remind us of the approximate date and location of Theon.
-- Remind us of the approximate date and location of Eudoxus.
+- Remind us of the approximate date and location of Pythagoras, Eucid, Theon, and Eudoxus.
 - Elaborate on the difference between the assertion that a mathematician or mathematical culture "knows the Pythagorean theorem" and the assertion that the person or culture "constructed Pythagorean triples."
 - Several strategies for constructing Pythagorean triples are mentioned in this section. Compare the strategy attributed to Pythagoras (middle of page 107) and the one attributed to Euclid (bottom of page 5). What sort of triples do they construct?
 - What is meant by **incomensurable quantities**? Give a concrete example of two incomensurable quantities.
