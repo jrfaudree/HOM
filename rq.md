@@ -120,5 +120,6 @@ Section 3.3
 - Elaborate on the difference between the assertion that a mathematician or mathematical culture "knows the Pythagorean theorem" and the assertion that the person or culture "constructed Pythagorean triples."
 - Several strategies for constructing Pythagorean triples are mentioned in this section. Compare the strategy attributed to Pythagoras (middle of page 107) and the one attributed to Euclid (bottom of page 5). What sort of triples do they construct?
 - What is meant by **incomensurable quantities**? Give a concrete example of two incomensurable quantities.
+- Explain the reasoning behind Burton's assertion on page 116 that for the next 2000 years, Geometry "served as the basis for almost all rigorous mathematical reasoning."
 
 <div style="padding-bottom: 40px"></div>
