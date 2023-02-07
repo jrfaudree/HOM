@@ -120,4 +120,9 @@ Section 3.3
 - Elaborate on the difference between finding good approximations of sqrt(2) and knowing sqrt(2) is irrational.
 - Explain the reasoning behind Burton's assertion on page 116 that for the next 2000 years, Geometry "served as the basis for almost all rigorous mathematical reasoning."
 
+___________________
+
+- How would you explain what an irrational number is to an elementary school child?
+- Can you find a combinatorial proof that 1+2+3+ ... + n = (n+1) choose 2? Note that the RHS counts the number of 2-element subsets of a set with n+1 elements. (This question is strictly for fun.)
+
 <div style="padding-bottom: 40px"></div>
