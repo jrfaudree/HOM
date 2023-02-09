@@ -125,4 +125,16 @@ ___________________
 - How would you explain what an irrational number is to an elementary school child?
 - Can you find a combinatorial proof that 1+2+3+ ... + n = (n+1) choose 2? Note that the RHS counts the number of 2-element subsets of a set with n+1 elements. (This question is strictly for fun.)
 
+_______________
+
+Section 3.4
+- Tell us about Hippocrates of Chios.
+- What are the Three Construction Problems of Antiquity?
+- Given a circle of radius r, what is the side length of the square of the same area?
+- Given a rectangle with side lengths a and b, what is the side of the square with the same area?
+- Given a cube with side length s, what is the side length of a cube with double the volume? 
+- Given a square with side length s, what is the side of a square with double to area?
+- What is meant by "straight edge and compass construction"?
+- Roughly when was it determined that the Three Construction Problems did not have straight edge and compass constructions in the strict sense?
+
 <div style="padding-bottom: 40px"></div>
