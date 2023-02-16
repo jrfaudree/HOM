@@ -137,4 +137,20 @@ Section 3.4
 - What is meant by "straight edge and compass construction"?
 - Roughly when was it determined that the Three Construction Problems did not have straight edge and compass constructions in the strict sense?
 
+________________
+
+Section 3.5
+- Tell us about Hippias.
+- What was the original meaning of "sophist"?
+- What are some reasons the quadratrix is an interesting curve?
+- What is the origin of the word "Academy"?
+
+Section 4.1
+- Tell us about Alexandria and the Museum.
+- Tell us about Euclid.
+- Look at the first 5 Postulates of the Elements. What do you observe?
+- Look at the first 5 Common Notions of the Elements. Do all of the items in the list seem reasonable? Mathematically rigorous?
+- What is the modern understanding of the axiomatic approach used by Euclid in the Elements?
+- 
+
 <div style="padding-bottom: 40px"></div>
