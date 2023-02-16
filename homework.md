@@ -39,11 +39,11 @@ Section 3.3 Problems 5,10,15,17,21,23
 
  * **HW 4**
  
- &nbsp;Section 3.3 Problem 21
+ Section 3.3 Problem 21
  
- &nbsp;Section 3.4 Problems 4, 8 
+ Section 3.4 Problems 4, 8 
  
- &nbsp;Construction Problems A,B,C,D
+ Construction Problems A,B,C,D
  
  &nbsp;&nbsp;A: Square a triangle.
  
@@ -54,4 +54,4 @@ Section 3.3 Problems 5,10,15,17,21,23
  &nbsp;&nbsp;D: Trisect a line segment.
 
  
-&nbsp; Section 3.5 Problems 2, 6
+Section 3.5 Problems 2, 6
