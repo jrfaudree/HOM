@@ -36,3 +36,15 @@ Section 3.2 Problems 1,4,7ab(see note),8
 For Problem 7ab, you may choose between an algebraic proof and a geometric proof.
 >
 Section 3.3 Problems 5,10,15,17,21,23
+
+ * **HW 4**
+ 
+ Section 3.3 Problem 21
+ Section 3.4 Problems 4, 8 
+ Construction Problems A,B,C,D
+ A: Square a triangle.
+ B: Double a circle.
+ C: Bisect an angle.
+ D: Trisect a line segment.
+ 
+ Section 3.5 Problems 2, 6
