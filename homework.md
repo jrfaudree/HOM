@@ -39,19 +39,19 @@ Section 3.3 Problems 5,10,15,17,21,23
 
  * **HW 4**
  
- Section 3.3 Problem 21
+ &nbsp;Section 3.3 Problem 21
  
- Section 3.4 Problems 4, 8 
+ &nbsp;Section 3.4 Problems 4, 8 
  
- Construction Problems A,B,C,D
+ &nbsp;Construction Problems A,B,C,D
  
- A: Square a triangle.
+ &nbsp;&nbsp;A: Square a triangle.
  
- B: Double a circle.
+ &nbsp;&nbsp;B: Double a circle.
  
- C: Bisect an angle.
+ &nbsp;&nbsp;C: Bisect an angle.
  
- D: Trisect a line segment.
+ &nbsp;&nbsp;D: Trisect a line segment.
 
  
- Section 3.5 Problems 2, 6
+&nbsp; Section 3.5 Problems 2, 6
