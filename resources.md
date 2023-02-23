@@ -11,4 +11,7 @@ title: Additional Resources
 
 ## Interesting Links
 
+* Notes from Fri 24 Feb on Book I of Euclid's Elements
+* Link to video of Euclid's proof of the Pythagorean Theorem
+
 <div style="padding-bottom: 40px"></div>
