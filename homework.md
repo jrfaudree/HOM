@@ -65,3 +65,9 @@ Note that for the 4.2 problems, you can use the hints in the book. You can also 
 Problem A: Read [Prop 7](http://aleph0.clarku.edu/~djoyce/elements/bookII/propII7.html) of Book II of Euclid's Elements. If AB=x,AC=c, and CB=b in the diagram, write the algebraic equality described in Proposition 7. Then show algebraically that this proposition is true. Note the hardest part of this problem is understanding what Proposition 7 is saying.
 
 Problem B: Repeat the directions for Problem A but for [Prop 9](http://aleph0.clarku.edu/~djoyce/elements/bookII/propII9.html). Assume AC=c, AD=a, DB=b, and CD=d.
+
+Section 4.3
+
+Problem C: Read Euclid's proof of the infinitude of primes ([here](http://aleph0.clarku.edu/~djoyce/elements/bookIX/propIX20.html) and describe the ways in which his proof is different from a modern proof.
+
+Problem D: Find two open problems in mathematics concerning prime numbers. 
