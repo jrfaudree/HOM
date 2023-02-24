@@ -154,13 +154,13 @@ Section 4.1 and 4.2
 
 Section 4.3
 
-- What is our modern definition of a prime number and what is Euclid's? (To see Euclid's definition go [here](http://aleph0.clarku.edu/~djoyce/elements/bookVII/bookVII.html)
-- What does Euclid mean by a number in definition definition 2?
+- What is our modern definition of a prime number and what is Euclid's? (To see Euclid's definition go [here](http://aleph0.clarku.edu/~djoyce/elements/bookVII/bookVII.html) )
+- What does Euclid mean by a number in definition 2?
 - Give an example of two relatively prime numbers and two relatively composite numbers.
 - Find the prime factorization of 128 and 24.
 - Find the greatest common divisor of 128 and 24.
 - Find the least common multiple of 128 and 24.
 - What is the Fundamental Theorem of Arithmetic?
-- Bonus Points if you recognize the modern terminology for the first two propositions in Book VII.
+- You get a gold star if you recognize the modern terminology for the first two propositions in Book VII.
 
 <div style="padding-bottom: 40px"></div>
