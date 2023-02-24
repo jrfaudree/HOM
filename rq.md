@@ -145,12 +145,22 @@ Section 3.5
 - What are some reasons the quadratrix is an interesting curve?
 - What is the origin of the word "Academy"?
 
-Section 4.1
+Section 4.1 and 4.2
 - Tell us about Alexandria and the Museum.
 - Tell us about Euclid.
 - Look at the first 5 Postulates of the Elements. What do you observe?
 - Look at the first 5 Common Notions of the Elements. Do all of the items in the list seem reasonable? Mathematically rigorous?
 - What is the modern understanding of the axiomatic approach used by Euclid in the Elements?
-- 
+
+Section 4.3
+
+- What is our modern definition of a prime number and what is Euclid's? (To see Euclid's definition go [here](http://aleph0.clarku.edu/~djoyce/elements/bookVII/bookVII.html)
+- What does Euclid mean by a number in definition definition 2?
+- Give an example of two relatively prime numbers and two relatively composite numbers.
+- Find the prime factorization of 128 and 24.
+- Find the greatest common divisor of 128 and 24.
+- Find the least common multiple of 128 and 24.
+- What is the Fundamental Theorem of Arithmetic?
+- Bonus Points if you recognize the modern terminology for the first two propositions in Book VII.
 
 <div style="padding-bottom: 40px"></div>
