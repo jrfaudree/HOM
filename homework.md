@@ -71,3 +71,5 @@ Section 4.3
 Problem C: Read Euclid's proof of the infinitude of primes ([here](http://aleph0.clarku.edu/~djoyce/elements/bookIX/propIX20.html) and describe the ways in which his proof is different from a modern proof.
 
 Problem D: Find two open problems in mathematics concerning prime numbers. 
+
+Problem E: Use the Euclidean Algorithm to find the greatest common divisor of 12012 and 1430.
