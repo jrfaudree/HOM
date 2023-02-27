@@ -152,6 +152,8 @@ Section 4.1 and 4.2
 - Look at the first 5 Common Notions of the Elements. Do all of the items in the list seem reasonable? Mathematically rigorous?
 - What is the modern understanding of the axiomatic approach used by Euclid in the Elements?
 
+__________________
+
 Section 4.3
 
 - What is our modern definition of a prime number and what is Euclid's? (To see Euclid's definition go [here](http://aleph0.clarku.edu/~djoyce/elements/bookVII/bookVII.html) )
@@ -162,5 +164,20 @@ Section 4.3
 - Find the least common multiple of 128 and 24.
 - What is the Fundamental Theorem of Arithmetic?
 - You get a gold star if you recognize the modern terminology for the first two propositions in Book VII.
+
+______________________
+
+Section 4.4
+
+- Give the basics on Eratosthenes. (pronounciation, dates, location)
+- Tell us about Eratosthenes' *Geographica*.
+- Tell us about Eratosthenes' *mesolabium*. What was it supposed to do?
+- What is the **sieve of Eratosthenes**?
+- What is the modern estimation of the circumference of the earth in miles?
+- Give us the basics of Claudius Ptolemy. (pronounciation, dates, location)
+- The next section (4.5) is about Archimedes. Find his dates and location and explain why Ptolemy is in section 4.4.
+- What is the topic of Ptolemy's *Almagest*? What is its significance.
+- What is the topic of Ptolemy's *Geographical Dictionary* and its significance?
+- 
 
 <div style="padding-bottom: 40px"></div>
