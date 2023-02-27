@@ -7,7 +7,7 @@ title: Exams
 
 ### Spring 2023
 
-* Midterm 1: &nbsp;&nbsp; [review](assets/midterms/M316s23_M1_Review.pdf)&nbsp;&nbsp; [part I](assets/midterms/M316s23-Mid1-PUBLIC-Part-I.pdf)
+* Midterm 1: &nbsp;&nbsp; [review](assets/midterms/M316s23_M1_Review.pdf)&nbsp;&nbsp; [part I](assets/midterms/M316s23-Mid1-PUBLIC-Part-I.pdf)&nbsp;&nbsp; [blank](assets/midterms/M316s23-Mid1.pdf) &nbsp;&nbsp; [solutions](assets/midterms/M316s23-Mid1-ss.pdf)
 
 ### Spring 2017
 * Midterm: &nbsp;&nbsp; [blank](assets/oldexams/M306S17_Mid1_part_1_and_2.pdf),  &nbsp;&nbsp;  [solutions](assets/oldexams/M306S17_Mid1_part_1_and_2-solutions.pdf)
