@@ -192,5 +192,7 @@ Section 4.5
 - On page 200, the author recounts several improvements to the approximation of pi. Pick two to describe to us.
 - What was the point of Archimedes treatise called *The Sand-Reckoner*?
 - What is an Archimedean spiral?
+- Tell us about Apollonius (dates and location)
+- Tell us about Apollonius' *Conics*.
 
 <div style="padding-bottom: 40px"></div>
