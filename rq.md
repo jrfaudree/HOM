@@ -178,6 +178,19 @@ Section 4.4
 - The next section (4.5) is about Archimedes. Find his dates and location and explain why Ptolemy is in section 4.4.
 - What is the topic of Ptolemy's *Almagest*? What is its significance.
 - What is the topic of Ptolemy's *Geographical Dictionary* and its significance?
-- 
+
+______________________
+
+Section 4.5
+
+- Remind us of Archimedes dates and location.
+- Tell us about some of the non-mathematical things for which Archimedes is known
+- State Proposition 1 using modern notation. (page 199)
+- When was the first use of the symbol pi to represent the ratio of circumference of a circle to its diamter.
+- If a circle has a radius of r, what is the perimeter of an inscribed hexagon and how did you get that value?
+- If a circle has a radius of r, what is the perimenter of a circumscribed hexagon and how did you get that value?
+- On page 200, the author recounts several improvements to the approximation of pi. Pick two to describe to us.
+- What was the point of Archimedes treatise called *The Sand-Reckoner*?
+- What is an Archimedean spiral?
 
 <div style="padding-bottom: 40px"></div>
