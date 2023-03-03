@@ -73,3 +73,31 @@ Problem C: Read Euclid's proof of the infinitude of primes ([here](http://aleph0
 Problem D: Find two open problems in mathematics concerning prime numbers. 
 
 Problem E: Use the Euclidean Algorithm to find the greatest common divisor of 12012 and 1430.
+
+* **HW 6**
+
+Section 4.4 Problem 4
+
+Ptolemy’s Theorem is stated precisely (with picture) in Problem 1 from this section.
+
+Problem A: Show that Ptolemy’s Theorem applies to every rectangle of sides a and b and then
+confirm that the conclusion of Ptolemy’s Theorem is correct for every rectangle.
+
+Problem B: Let the points A, B, C, and D, have the coordinates below:
+
+A=( - sqrt{2} , - sqrt{2} ), B = ( - 1 , sqrt{3} ), C = ( sqrt{3} , 1 ), D = ( 2, 0 )
+
+1. Show that the points ABCD lie on a circle.
+
+2. Explain how you know that if point D was changed to the coordinates (2,-½), the points
+ABCD would not lie on a circle.
+
+3. Confirm that the conclusion Ptolemy’s Theorem applies to the quadrilateral with corners
+ABCD (the original D!).
+
+
+Section 4.5 Problems 2,4,5,11
+
+Problem C: Use modern calculus to find the area of the parabolic segment bounded by y=x^2
+and y=x+2
+
