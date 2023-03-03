@@ -195,4 +195,17 @@ Section 4.5
 - Tell us about Apollonius (dates and location)
 - Tell us about Apollonius' *Conics*.
 
+______________________
+
+Sections 5.1 and 5.2
+ 
+- Remind us roughly when Archimedes, Eratosthenes, and Apollonius lived compared to Ptolemy and Diophantus.
+- Describe some of the changes that occured in the Mediterranean region over the time period between Archimedes, Eratosthenes, and Apollonius lived compared to Ptolemy and Diophantus.
+- What do we know about Diophantus' life?
+- Describe Diophantus' algebraic notation.
+- Describe what type of problems appear in Diophantus' *Arithmetica*.
+- What sorts of answers where acceptable to Diophantus?
+- What is meant by an **indeterminant** equation or system of eequations?
+- Describe in modern notation the problem: Divide 16 into the sum of two squares. How do you think a modern Calculus student would answer this question?
+
 <div style="padding-bottom: 40px"></div>
