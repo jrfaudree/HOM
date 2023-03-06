@@ -17,5 +17,6 @@ title: Additional Resources
 * [Video](https://www.youtube.com/watch?v=uQ-1iBdhm8M) of Euclid's proof of the Pythagorean Theorem
 * [Link](http://aleph0.clarku.edu/~djoyce/elements/elements.html) to Euclid's Elements
 * [Notes](assets/In Class Notes Mon - 26.pdf) for Mon 27 Feb
+* [Video](https://www.youtube.com/watch?v=skvnj67YGmw) of Brachistochrome
 
 <div style="padding-bottom: 40px"></div>
