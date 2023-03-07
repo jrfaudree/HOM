@@ -208,4 +208,19 @@ Sections 5.1 and 5.2
 - What is meant by an **indeterminant** equation or system of eequations?
 - Describe in modern notation the problem: Divide 16 into the sum of two squares. How do you think a modern Calculus student would answer this question?
 
+________________________
+
+Section 5.3
+
+For each mathematician below, remind us of approximately when and where they lived and list two mathematical accomplishments.
+
+- Arybhata
+- Brahmagupta
+- Mahavira
+- Bhaskara
+- Chang Ch'iu-chien
+- Sun-Tsu
+
+- Describe the Cattle of the Sun problem. When did it originate and when was it completely solved?
+
 <div style="padding-bottom: 40px"></div>
