@@ -239,6 +239,6 @@ For each mathematician below, remind us of approximately when and where they liv
 - Mohammed ibn Musa al-Khowarizmi
 - Abu Kamil
 - Thabit ibn Qurra
-- Omar Kyayyam
+- Omar Khayyam
 
 <div style="padding-bottom: 40px"></div>
