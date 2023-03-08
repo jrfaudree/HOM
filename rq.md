@@ -223,4 +223,22 @@ For each mathematician below, remind us of approximately when and where they liv
 
 - Describe the Cattle of the Sun problem. When did it originate and when was it completely solved?
 
+__________________
+
+Section 5.4
+
+- Tell us about Pappus of Alexandria.
+- Tell us about Hypatia.
+- Recount the deterioriation and ultimate loss of the Museum in Alexandria.
+- Describe the role that Proclus (410-485 ce) and Boethius (475-524 ce) play in the history of Greek mathematics.
+
+Section 5.5
+
+For each mathematician below, remind us of approximately when and where they lived and list two mathematical accomplishments.
+
+- Mohammed ibn Musa al-Khowarizmi
+- Abu Kamil
+- Thabit ibn Qurra
+- Omar Kyayyam
+
 <div style="padding-bottom: 40px"></div>
