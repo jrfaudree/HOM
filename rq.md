@@ -257,4 +257,11 @@ Section 6.1
 - When did the printing press arrive in Europe?
 - Describe the role of the cities of Toledo and Sicily in the development of mathematics in Europe.
 
+Section 6.2
+
+- Tell us about Leonardo of Pisa.
+- Why are our numerals called Hindu-Arabic numbers.
+- Describe the importance of *liber Abaci* or *Book of Counting*
+- Tell us about Jordanus de Nemore.
+
 <div style="padding-bottom: 40px"></div>
