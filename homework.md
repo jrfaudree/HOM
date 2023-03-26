@@ -101,3 +101,23 @@ Section 4.5 Problems 2,4,5,11
 Problem C: Use modern calculus to find the area of the parabolic segment bounded by y=x^2
 and y=x+2
 
+* **HW 7** 
+
+Section 5.3 Problems 13, 16, 17
+
+Problem A: Return to Diophantus' Problem 8 of Book II (discussed on page 220 of our text). 
+- (i) What solution will you get if instead of setting 16-x^2=(2x-4)^2, you set 16-x^2=(mx-4)^2.
+- (ii) Find a rational solution to the equation x^2+y^2=16 that Diophantus' strategy will never construct.
+
+Problem B: Go to the translation of Diophantus' *Arithmetica* [here]() and read Proposition 27 from Book I.
+- (i) Rewrite the problem in modern notation.
+- (ii) Write out Diophantus' solution in modern notation.
+
+Problem C: Go to the translation of Diophantus' *Arithmetica* [here]() and read Proposition 14 from Book III.
+- (i) Rewrite the problem in modern notation.
+- (ii) Write out Diophantus' solution in modern notation.
+
+Section 5.5 Problems 2, 6, 7
+
+
+
