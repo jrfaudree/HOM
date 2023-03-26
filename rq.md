@@ -241,4 +241,20 @@ For each mathematician below, remind us of approximately when and where they liv
 - Thabit ibn Qurra
 - Omar Khayyam
 
+________________
+
+Section 6.1 
+
+- The Dark Ages in Europe refers to roughly what time period?
+- Name two Hindu mathematicians and two Islamic mathematicians who lived during the same time period as the Dark Ages in Europe.
+- Our text asserts that essetially all ancient Greek text had been translated into Arabic by what time?
+- Explain the role of the Church and Church schools in development of education during the Dark Ages.
+- Who is Charlemagne?
+- Who Alcuin of York?
+- Remind us what was Boethius' role in the history of mathematics.  
+- When did Islamic Empire first enter Spain?
+- Tell us about Gerard of Cremona and Adelard of Bath.
+- When did the printing press arrive in Europe?
+- Describe the role of the cities of Toledo and Sicily in the development of mathematics in Europe.
+
 <div style="padding-bottom: 40px"></div>
