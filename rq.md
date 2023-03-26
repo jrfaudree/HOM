@@ -255,7 +255,7 @@ Section 6.1
 - When did Islamic Empire first enter Spain?
 - Tell us about Gerard of Cremona and Adelard of Bath.
 - When did the printing press arrive in Europe?
-- Describe the role of the cities of Toledo and Sicily in the development of mathematics in Europe.
+- Describe the role of the Spanish city of Toledo and Southern Italy including Sicily in the development of mathematics in Europe.
 
 Section 6.2
 
