@@ -264,4 +264,22 @@ Section 6.2
 - Describe the importance of *liber Abaci* or *Book of Counting*
 - Tell us about Jordanus de Nemore.
 
+________________
+
+Section 7.1
+
+- Our text opens with a litany of grim events in Europe during the late Middle Ages (1300-1500). Tell us about three of them.
+- Give our text's working definition of *The Renaissance*. 
+- Explain how the fall of Constantinople to the Turks in 1453 influenced European intellectual culture.
+- The invention of printing with movable type "revolutionized the transmission and dissemination of ideas". Elaborate on this assertion from our text by giving three specific examples.
+- Printing requires something on which to print. Tell us about the differences in papyrus, parchment, and paper as material on which to write or print.
+- Tell us about Johannes Muller (1436-1476) and his text *On Triangles of All Kinds*.
+- Tell us about Luca Pacioli (1445-1514) and his text *Summa de Arithmetica Geometria Proportioni et Proportionalita*
+- Describe the early European universities (c 1200)
+- At the end of this seciton, our text asserts that by what date were translations of most Greek mathematical texts available in Europe?
+
+Section 7.2
+
+
+
 <div style="padding-bottom: 40px"></div>
