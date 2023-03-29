@@ -280,6 +280,12 @@ Section 7.1
 
 Section 7.2
 
-
+- List three specific areas of mathematical progress made by European mathematicians in the 1500's.
+- Tell us about the contributions of Robert Recorde in the development of mathematics.
+- Remind us of Nicolas Copernicus' contribution to astronomy.
+- Tell us about the *life* of Nicolo Tartaglia.
+- Tell us about the mathematical and scientific *work* of Tartaglia.
+- Tell us about the *life* of Girolamo Cardano.
+- Tell us about the *mathematics* of Cardano.
 
 <div style="padding-bottom: 40px"></div>
