@@ -288,4 +288,40 @@ Section 7.2
 - Tell us about the *life* of Girolamo Cardano.
 - Tell us about the *mathematics* of Cardano.
 
+___________________
+
+Section 8.1
+
+1. Summarize in a single sentence the message of the first two paragraphs of Section 8.1.
+2. For each mathematician or scientist in the list below (a) identify the title and date of publication they authored, (b) give a rough description of the topic, and (c) a rough location. 
+    1. Francois Vieta
+    2. Robert Recorde
+    3. Girolamo Cardano
+    4. Raphael Bombelli
+    5. Simon Stevin
+    6. John Napier
+    7. Johannes Kepler
+    8. Tycho Brahe
+    9. Galileo Galilei
+    10. Nicolaus Copernicus
+
+
+Section 8.2
+
+1. Tell us about the *life* of Rene Descartes.
+2. Tell us about Descartes' *Discours de la Methode* and *La Geometrie*.
+3. In what class or grade in school did you learn how to sketch the graph of something like y=3x^2-9 by plotting points?
+4. Tell us something about the *life* of Pierre de Fermat.
+5. Compare the work of the two artists Duccio di Buoninsegna [here](https://en.wikipedia.org/wiki/Duccio) and Raphael [here](https://en.wikipedia.org/wiki/Raphael).
+    1. For Duccio, look specifically at *Annunciation*, *Disputation with the Doctors*, and *Flight into Egypt*
+    2. For Raphael, look specifically at *School of Athens* and *Wedding of the Virgin*
+
+How would you describe the differences to someone who hadn't seen the pictures?
+
+______________________
+
+Section 8.3
+
+Section 8.4
+
 <div style="padding-bottom: 40px"></div>
