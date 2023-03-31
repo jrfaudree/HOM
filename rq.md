@@ -322,6 +322,19 @@ ______________________
 
 Section 8.3
 
+1. Tell us something about Isaac Newton's life prior to his arrival at Cambridge in 1661.
+2. Describe some of the mathematical books that influenced Newton prior to his development of Calculus.
+3. Page 390 of our text describes Isaac Barrow's method for finding tangents to curves. He finds the slope, a/e, by substituting x-e for x and y-a for y and then ignoring certain terms. Use his method on the function   y = x^2 +10
+4. Remind us why Newton spent 1665-1666 at his home in Woolsthorpe and not at Cambridge.
+5. Tell us the three great discoveries made by Newton duing his years of seclusion in Woolsthorpe.
+6. When was Newton's *On the Methods of Series and Fluxions* published?
+
 Section 8.4
+
+1. Tell us something about Gottfried Wilhelm Leibniz's life.
+2. Describe some of the mathematical texts that influenced Leibniz prior to his development of Calculus.
+3. Flip casusally through pages with headings *Leibniz's Creation of the Calculus* and *Newton's Fluxional Calculus* (roughly pages 413-419). How to they compare to modern notation and usage?
+4. Compare the differences in how Newton and Leibniz were treated at the end of their respective lives.
+5. Tell us about Maria Agnesi and Emilie du Chatelet, mentioned at the end of this section. Why are they here?
 
 <div style="padding-bottom: 40px"></div>
