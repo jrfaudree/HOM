@@ -337,4 +337,18 @@ Section 8.4
 4. Compare the differences in how Newton and Leibniz were treated at the end of their respective lives.
 5. Tell us about Maria Agnesi and Emilie du Chatelet, mentioned at the end of this section. Why are they here?
 
+___________
+For Monday 10 April
+
+Read Section 9.1
+
+1. The first paragraph suggests that probability theory originated from what two roots?
+2. What is an annuity?
+3. What was the role of John Gaunt (1620-1674) in the development of probability theory? When was his tract *Natural and Political Observations Made upon the Bills of Mortality* published?
+4. What was the role of Christiaan Huygens and his tract *On Reasoning in Games of Chance* in the development of probability theory?
+5. The use of dice in games of chance is commonplace. What is one of the oldest examples of dice?
+6. Remind us about the life of Pierre de Fermat and his role in the development of Calculus.
+7. Tell us about the life of Blaise Pascal.
+8. Tell us about Antoine Gombaud, Chevalier de Mere.
+
 <div style="padding-bottom: 40px"></div>
