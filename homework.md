@@ -119,5 +119,11 @@ Problem C: Go to the translation of Diophantus' *Arithmetica* [here](https://ia8
 
 Section 5.5 Problems 2, 6, 7
 
+* **HW 8**
 
+Section 6.1 Problems 1,2
+
+Section 7.3 Problems 1a, 3ab, 5
+
+Section 8.3 Problem 3  
 
