@@ -121,7 +121,7 @@ Section 5.5 Problems 2, 6, 7
 
 * **HW 8**
 
-Section 6.1 Problems 1,2
+Section 6.2 Problems 1,2
 
 Section 7.3 Problems 1a, 3ab, 5
 
