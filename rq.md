@@ -351,4 +351,18 @@ Read Section 9.1
 7. Tell us about the life of Blaise Pascal.
 8. Tell us about Antoine Gombaud, Chevalier de Mere.
 
+________
+For Wednesday 12 April
+
+Read Section 11.1 for the history
+
+1. What curve known to ancient Greeks made some skeptical about the truth of Euclid's 5th axiom.
+2. Remind us of Euclid's definition of parallel lines. What other properties of parallel lines (in Euclidean geometry) do we know (or automatically assume)?
+3. What is Playfair's axiom, who is John Playfair, and why does this axiom bear his name?
+4. What does is **mean** mathematically to say ``Statement X is equivalent to Euclid's 5th Axiom"? How does one typically prove that two statements are equivalent?
+5. List two statements that are equivalent to Euclid's 5th axiom that do **not** have the words "parallel"  or "line" in the statment.
+6. Tell us a little about Girolamo Saccheri, Johann Lambert, Adrien-Marie Legendre. 
+7. Tell us a little about the life of John Bolyai (1802-1860)
+8.  Tell us a little about the life of Nicolai Ivanovitch Lobachevsy (1793-1856)
+
 <div style="padding-bottom: 40px"></div>
