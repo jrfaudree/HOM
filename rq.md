@@ -365,4 +365,10 @@ Read Section 11.1 for the history
 7. Tell us a little about the life of John Bolyai (1802-1860)
 8.  Tell us a little about the life of Nicolai Ivanovitch Lobachevsy (1793-1856)
 
+________
+For Friday 14 April
+
+1. Give us some interesting facts about Leonhard Euler.
+2. Give us some interesting facts about Carl Friedrich Gauss.
+
 <div style="padding-bottom: 40px"></div>
