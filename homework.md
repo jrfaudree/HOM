@@ -125,5 +125,5 @@ Section 6.2 Problems 1,2
 
 Section 7.3 Problems 1a, 3ab, 5
 
-Section 8.3 Problem 3  
+Section 8.2 Problem 3  
 
