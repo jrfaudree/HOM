@@ -1,0 +1,183 @@
+% !TEX TS-program = pdflatexmk
+\documentclass[11pt]{article}
+\usepackage[margin=.8in]{geometry}
+\usepackage{amsmath,amssymb,amsthm, latexsym, mathrsfs, pdfsync, multicol,
+fancybox, fancyhdr,
+graphicx, enumerate,
+subfig, tikz, pgfplots,array}
+
+%\singlespacing
+\def\RR{{\mathbb R}}
+\def\NN{{\mathbb N}}
+\def\ZZ{{\mathbb Z}}
+\def\QQ{{\mathbb Q}}
+\def\CC{{\mathbb C}}
+\def\bc{\begin{center}}
+\def\ec{\end{center}}
+\def\be{\begin{enumerate}}
+\def\ee{\end{enumerate}}
+\def\bi{\begin{itemize}}
+\def\ei{\end{itemize}}
+\def\t{\times}
+\newcommand{\ol}[1]{\overline{#1}}
+\newcommand{\oimp}[1]{\overset{#1}{\Longleftrightarrow}}
+\newcommand{\bv}[1]{\ensuremath{ \mathbf{\vec{#1}}} }
+\renewcommand{\d}{\displaystyle}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+
+\usetikzlibrary{calc}
+
+\lhead{\sc{Math 316 Hist. of Math.}}
+\chead{\large \sc Midterm III} 
+\rhead{\sc Spring 2023}
+\cfoot{}
+\pagestyle{fancy}
+%
+\begin{document}
+\thispagestyle{fancy}
+
+\vspace{1in}
+
+\textbf{Student Name:}\hspace{2in}
+
+\vspace{1in}
+
+{
+\renewcommand{\baselinestretch}{1.8}
+\setlength{\tabcolsep}{.2in}
+\normalsize
+\begin{center}
+\begin{tabular}{|c|c|c|c|}
+\hline
+&Problem&Total Points&\parbox{.8in}{\hfil Score\hfil}\\
+\hline
+Part I&&24&\\
+\hline
+Part II &&&\\
+\hline
+&1&16&\\
+\hline
+&2&16&\\
+\hline
+&3&14&\\
+\hline
+&4&30&\\
+\hline
+\hline
+Total&100&&\\
+\hline
+\end{tabular}
+
+\end{center}
+}
+
+\vspace{1in} 
+
+Guidelines
+\begin{itemize}
+\item You have 1 hour to take the exam.
+\item The exam will be given in two parts.
+\item Part I is written without any aids: no notes, no book, no phone. You should spend no more than 15 minutes on Part I. 
+\item Return your completed Part I to the proctor and you will be given Part II. You cannot go back to Part I once you have turned it in.
+\item For Part II, you may use a calculator and two pages of notes (i.e. two sheets of paper with writing on both sides of each sheet).
+\end{itemize}
+
+\newpage
+
+
+\vspace*{-0.3in}
+
+\bc Part I \ec
+
+This part is written without notes or aids of any kind. It is worth 24 points out of 100 total points. \\
+
+Below is a list of 6 mathematicians. For each mathematician, give approximate dates, approximate locations, and two specific mathematical contributions. \\
+
+Once you have completed Part I and turn it in, you will be given Part II. You cannot return to Part I once it has been turned in.\\
+
+\be
+\item Mohammed al-Khowarizmi
+\vfill
+\item Girolamo Cardano
+\vfill
+\item Diophantus
+\vfill
+\item Pierre de Fermat
+\vfill
+\item Nicolai Lobechevsky
+\vfill
+\item Isaac Newton
+\vfill
+\ee
+\newpage
+\bc Part II \ec
+
+This part can be written with the aid of a calculator and two pages of notes with writing on the front and back of the paper. It is worth 76 points out of 100 points total. \\
+
+\be
+%%%Diophantus
+\item (16 points)
+	\be
+	\item Below is a quote from Thomas Heath's 1910 translation of Diophantus' \emph{Arithmetica}. Rewrite the problem and Diophantus' solution in your own words using modern notation.
+	
+	\begin{quote} (Book II, Problem 10) To find two square numbers having a given difference.\\
+	Given difference 60.\\
+	Side of one number $x$, side of the other $x$ plus any number the square of which is not \\
+	\quad \vspace{.2in}\quad \quad greater than 60, say 3.\\
+	Therefore $(x+3)^2-x^2=60;$\\
+	$x=8\frac{1}{2}$, and \\
+	\quad \vspace{.2in}\quad \quad the required squares are $72\frac{1}{4}, \: 132\frac{1}{4}$. \end{quote}
+	\vfill
+	\item Demonstrate that this strategy described will work \emph{in general} by replacing the difference, $60,$ with $d$ and replacing the amount added, 3, with $a.$ 
+		\vfill
+	\item Since Diophantus is clearly looking for two numbers (his answer is ``...the required squares are $72\frac{1}{4}, \: 132\frac{1}{4}$"), why doesn't he choose $x$ to be one number and $y$ to be the second?
+	\vspace{1in}
+	\ee
+\newpage
+%%%% Khayyam
+\item (16 points)
+	\be
+	\item Show that one can solve $x^3+d=cx$ by intersecting the hyperbola $y^2-x^2+\frac{d}{c}x=0$ with the parabola $x^2=\sqrt{c} y.$
+	\vfill
+	\item Explain how Omar Khayyam's solutions to cubic equations were different from our modern view of solutions to cubic equations.
+	\vfill
+	\item Find positive, integer values for $c$ and $d$ such that the only real solution to  $x^3+d=cx$ is negative.	(Hint: You might find it easier to work with $f(x)=x^3-cx+d.$)
+	\vfill
+	\item Explain how Khayyam would have viewed this solution?
+	\vspace{1in}
+	\ee
+\newpage
+\item (14 points)
+	\be
+	\item Show how to find the reduced version of $x^3+21x=9x^2+5$ using the substitution $x=y+3.$
+	\vfill
+	\item Why would Cardano (and others) transform cubic equations into reduced cubic equations as opposed to just solving them in their original form?
+	\vfill
+	\item Explain how Cardano's formula led to the beginning of the arithmetic of complex numbers.
+	\vfill
+	\ee
+\newpage
+\item (30 points) (Short Answer)
+\be
+	\item Explain how the coordinate geometry of Rene Descartes and Pierre de Fermat was different then our modern version.
+	\vfill
+	\item Why are Isaac Newton and Gottfried Leibniz credited with inventing/discovering Calculus when we know mathematicians were solving area-under-the-curve and tangent line problems for hundreds of years prior?
+	\vfill
+	\item Describe what motivates early development of probability and statistics. Include specific people.
+	\vfill
+	\newpage
+	\item Describe the role of Euclid's 5th axiom in the development of non-euclidean geometry.
+	\vfill
+	\item Typically, researchers (in mathematics and other disciplines) aggressively publish their findings. Give an example of a mathematician who did not rush to publish their work and explain why. 
+	\vfill
+	\item Describe three contributions to mathematics attributed to Leonhard Euler.
+	\vfill
+	\ee
+\ee
+\end{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%END
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+ 

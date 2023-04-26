@@ -1,0 +1,216 @@
+% !TEX TS-program = pdflatexmk
+\documentclass[11pt]{article}
+\usepackage[margin=.8in]{geometry}
+\usepackage{amsmath,amssymb,amsthm, latexsym, mathrsfs, pdfsync, multicol,
+fancybox, fancyhdr,
+graphicx, enumerate,
+subfig, tikz, pgfplots,array}
+
+%\singlespacing
+\def\RR{{\mathbb R}}
+\def\NN{{\mathbb N}}
+\def\ZZ{{\mathbb Z}}
+\def\QQ{{\mathbb Q}}
+\def\CC{{\mathbb C}}
+\def\bc{\begin{center}}
+\def\ec{\end{center}}
+\def\be{\begin{enumerate}}
+\def\ee{\end{enumerate}}
+\def\bi{\begin{itemize}}
+\def\ei{\end{itemize}}
+\def\t{\times}
+\newcommand{\ol}[1]{\overline{#1}}
+\newcommand{\oimp}[1]{\overset{#1}{\Longleftrightarrow}}
+\newcommand{\bv}[1]{\ensuremath{ \mathbf{\vec{#1}}} }
+\renewcommand{\d}{\displaystyle}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+
+\usetikzlibrary{calc}
+
+\lhead{\sc{Math 316 Hist. of Math.}}
+\chead{\large \sc Midterm III} 
+\rhead{\sc Spring 2023}
+\cfoot{}
+\pagestyle{fancy}
+%
+\begin{document}
+\thispagestyle{fancy}
+
+\vspace{1in}
+
+\textbf{Student Name:}\hspace{0.5in} Solutions
+
+
+\vspace*{-0.3in}
+
+\bc Part I \ec
+
+This part is written without notes or aids of any kind. It is worth 24 points out of 100 total points. \\
+
+Below is a list of 6 mathematicians. For each mathematician, give approximate dates, approximate locations, and two specific mathematical contributions. \\
+
+Once you have completed Part I and turn it in, you will be given Part II. You cannot return to Part I once it has been turned in.\\
+
+\be
+\item Mohammed al-Khowarizmi (780-850) Baghdad, Iraq.
+\bi
+\item Described algorithms for numerical solutions to all quadratic equations and then gave geometric proofs of their correctness
+\item Wrote a treatise on the Hindu-Arabic numerals whose translations into smoothed the way for their use in Europe.
+\ei
+\vfill
+\item Girolamo Cardano (1501-1576) Rome, Italy
+\bi
+\item Wrote a book called \emph{Ars Magna} containing solutions to all cubic and quartic equations
+\item Wrote a book called \emph{On Games of Chance}, which was on of the first books on probability theory and included advice on how to cheat. 
+\ei
+\vfill
+\item Diophantus (200-284) Alexandria, Egypt
+\bi
+\item Wrote \emph{Arithmetica}, a text about finding rational solutions to indeterminant equations.
+\item Developed some of the first algebraic notation.
+\ei
+\vfill
+\item Pierre de Fermat (1601-1665) Toulouse, France
+\bi
+\item Wrote \emph{Introduction to Plane and Solid Loci} which was a merging of algebra and geometry.
+\item With Blaise Pascal, began formalizing the study of probability including the notion of expected value.
+\ei
+\vfill
+\item Nicolai Lobechevsky (1792-1856) Kazan, Russia
+\bi
+\item Authored one of the first papers outlining hyperbolic geometry.
+\item Found new methods of approximating roots of algebraic equations.
+\ei
+\vfill
+\item Isaac Newton (1643-1727) Woolsthorpe, England
+\bi
+\item One of the co-discoverers of Calculus, specifically the Fundamental Theorem of Calculus
+\item Used Calculus to demonstrate that the orbits of planets around the sun would be elliptical.
+\ei
+\vfill
+\ee
+\newpage
+\bc Part II \ec
+
+This part can be written with the aid of a calculator and two pages of notes with writing on the front and back of the paper. It is worth 76 points out of 100 points total. \\
+
+\be
+%%%Diophantus
+\item (16 points)
+	\be
+	\item Below is a quote from Thomas Heath's 1910 translation of Diophantus' \emph{Arithmetica}. Rewrite the problem and Diophantus' solution in your own words using modern notation.
+	
+	\begin{quote} (Book II, Problem 10) To find two square numbers having a given difference.\\
+	Given difference 60.\\
+	Side of one number $x$, side of the other $x$ plus any number the square of which is not \\
+	\quad \vspace{.2in}\quad \quad greater than 60, say 3.\\
+	Therefore $(x+3)^2-x^2=60;$\\
+	$x=8\frac{1}{2}$, and \\
+	\quad \vspace{.2in}\quad \quad the required squares are $72\frac{1}{4}, \: 132\frac{1}{4}$. \end{quote}
+	
+	\textbf{Answer:} Let $x$ and $y$ be two numbers such that $y^2-x^2=60.$ Suppose $y=x+3.$ Then 
+	$$y^2-x^2=(x+3)^2-x^2=x^2+6x+9-x^2=6x+9=60.$$
+	
+	So, $x=(60-9)/6=8.5$. Thus, $y=8.5+3=11.5.$ The two squares are $(8.5)^2=72.25$ and $(11.5)^2=132.25.$ We observe that $132.25-72.25=60,$ as desired.\\
+	
+	\item Demonstrate that this strategy described will work \emph{in general} by replacing the difference, $60,$ with $d$ and replacing the amount added, 3, with $a.$ \\
+	
+	\textbf{Answer:} Let $x$ and $y$ be two numbers such that $y^2-x^2=d.$ Suppose $y=x+a$ and $a^2<d.$ Then 
+	$$y^2-x^2=(x+a)^2-x^2=x^2+2ax+a^2-x^2=2ax+a^2=d.$$
+	
+	So, $x=\frac{d-a^2}{2a}$ and $y=\frac{d-a^2}{2a}+a=\frac{d+a^2}{2a}.$ Observe that since $a$ and $d$ are integers, $x$ and $y$ are rational. The two squares are $\frac{(d-a^2)^2}{4a^2}$ and $\frac{(d+a^2)^2}{4a^2}.$ We observe that $\frac{(d+a^2)^2}{4a^2}-\frac{(d-a^2)^2}{4a^2}=\frac{4a^2d}{4a^2}=d,$ as desired.\\
+	
+		
+	\item Since Diophantus is clearly looking for two numbers (his answer is ``...the required squares are $72\frac{1}{4}, \: 132\frac{1}{4}$"), why doesn't he choose $x$ to be one number and $y$ to be the second?\\
+	
+	He only had one symbol for an unknown.\\
+	\ee
+%%%% Khayyam
+\item (16 points)
+	\be
+	\item Show that one can solve $x^3+d=cx$ by intersecting the hyperbola $y^2-x^2+\frac{d}{c}x=0$ with the parabola $x^2=\sqrt{c} y.$\\
+	
+	\textbf{Answer:} Since $x^2=\sqrt{c} y,$ it follows that $x^4=cy^2$ or $\frac{x^4}{c}=y^2.$ Thus, using substitution, we observe
+	
+	$$y^2-x^2+\frac{d}{c}x=\frac{x^4}{c}-x^2+\frac{d}{c}x=0.$$
+	
+	Thus, multiplying by $c$ and factoring,
+	
+	$$x^4-cx^2+dx=x(x^3-cx+d)=0.$$
+	
+	So, either $x=0$ or $x^3-cx+d=0.$ Since, $x=0$ is not a solution to $x^3+d=cx$, we know that any point of intersection between the hyperbola and the parabola for which $x \not= 0$ must be a solution to the cubic.\\
+	
+	\vfill
+	\item Explain how Omar Khayyam's solutions to cubic equations were different from our modern view of solutions to cubic equations.\\
+	
+	He constructed solutions from intersections of conic sections. So his solutions were effectively line segments. We think of solutions as algebraic formulas whose solutions are numerical.\\
+	
+	\vfill
+	\item Find positive, integer values for $c$ and $d$ such that the only real solution to  $x^3+d=cx$ is negative.	(Hint: You might find it easier to work with $f(x)=x^3-cx+d.$)\\
+	
+	I would pick $c=3$ and $d=100.$ So $f(x)=x^3-3x+100$ and $f'(x)=3x^2-3=3(x+1)(x-1).$ Thus, we know that $f$ has a local minimum of $f(1)=98$ at $x=1.$ Finally, since $f(-1) >0$ and $f(-10)<0,$ the only root of $f(x)$ is negative (somewhere between $x=-10$ and $x=-1.$)\\
+	\vfill
+	\item Explain how Khayyam would have viewed this solution?\\
+	
+	Omar Khayyam did not consider the possibility of negative roots and, indeed, did not use negative numbers at all, even as coefficients.\\
+	
+	\ee
+
+\item (14 points)
+	\be
+	\item Show how to find the reduced version of $x^3+21x=9x^2+5$ using the substitution $x=y+3.$\\
+	
+	\textbf{Answer:} \\
+	
+	Substitute:  $(y+3)^3+21(y+3)=9(y+3)^2+5$\\
+	Expand: $y^3+9y^2+27y+27+21y+63=9y^2+54y+81+5$\\
+	Collect terms: $y^3+4=6y$\\
+	
+	\item Why would Cardano (and others) transform cubic equations into reduced cubic equations as opposed to just solving them in their original form?\\
+	
+	It reduced the number of different formulas. If there is no quadratic term, there are only three ``types" of cubic equations: $x^3+px=q,$ $x^3+q=px$ and $x^3=px+q,$ and thus only three formulas.\\
+	
+	
+	\item Explain how Cardano's formula led to the beginning of the arithmetic of complex numbers.\\
+	
+	There are examples of cubic equations for which all roots are real numbers but an implementation of Cardano's formula results in square roots of negative numbers.  So Raphael Bombelli began to ask how these weird expressions can be reasonably manipulated into a form that is the actual answer.\\
+	
+	A concrete example of such a cubic is $x^3=15x+4.$\\
+	
+	\ee
+\item (30 points) (Short Answer)
+\be
+	\item Explain how the coordinate geometry of Rene Descartes and Pierre de Fermat was different then our modern version.\\
+	
+	In the modern version, the $x$-axis and $y$-axis are perpendicular, fixed, and, typically are thought of as existing first. Then the problem to be solved is placed in the coordinate plane. Neither Descartes nor Fermat required that their axes by orthogonal. For Fermat, the portion we think of as the $y$ axis moved along the $x$-axis. For Descartes, the $x$ and $y$ axes were, in effect, determined by the problem.\\
+	
+	\item Why are Isaac Newton and Gottfried Leibniz credited with inventing/discovering Calculus when we know mathematicians were solving area-under-the-curve and tangent line problems for hundreds of years prior?\\
+	
+	They articulated the Fundamental Theorem of Calculus, namely that the tangent line problem and the area-under-the-curve problem were inverses of each other. \\
+	
+	\item Describe what motivates early development of probability and statistics. Include specific people.\\
+	
+	One motivation was understanding life-expectancy for insurance purposes among other reasons. John Graunt used death tables to estimate mortality rates and to construct basic descriptive statistics for the population of London in the 1600's. A second was games of chance. Pascal and Fermat developed the notion of expected value while trying to solve the Chevalier de Mere's problem of points.\\
+
+	\item Describe the role of Euclid's 5th axiom in the development of non-euclidean geometry.\\
+	Many mathematicians across many cultures attempted to prove Euclid's 5th axiom could be proved from the other axioms and early propositions. A commonly used strategy was to negate the 5th axiom (or some equivalent) to obtain a contradiction. After searching in vain for a contradiction, some mathematicians realized that they had constructed a new, consistent, non-euclidean geometry. \\ 
+	
+	\item Typically, researchers (in mathematics and other disciplines) aggressively publish their findings. Give an example of a mathematician who did not rush to publish their work and explain why. \\
+	
+	The two most common reasons that we saw were:\\
+	(a) there was a real (or perceived) disencentive to publish. Tartaglia didn't want to publish his solutions to a cubic because he used that information to win mathematical duels. Newton hesitated to publish to avoid controversy.\\
+	and \\
+	(b) lack of motivation. For Fermat, mathematics was a hobby, a side-gig. He didn't need to publish to support an academic career not to mention he had other professional obligations. \\
+	
+	\item Describe three contributions to mathematics attributed to Leonhard Euler.\\
+	
+	So, many. We talked about his use of symbolism: $\pi, e, i$, his formalization of function notation and his definition of a sine as a function of the arc length of a unit circle.
+	\ee
+\ee
+\end{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%END
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+ 
