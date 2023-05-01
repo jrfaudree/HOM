@@ -1,0 +1,80 @@
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol}
+\usepackage{graphicx, pgfplots} 
+\usepackage[all]{xy}
+\usepackage{polynom} 
+%\usepackage{pdfsync} %% I don't know why this messes up tabular column widths
+\usepackage{enumerate}
+\usepackage{framed}
+\usepackage{setspace}
+\usepackage{array,tikz}
+
+\pgfplotsset{compat=1.6}
+
+\pgfplotsset{soldot/.style={color=black,only marks,mark=*}} \pgfplotsset{holdot/.style={color=black,fill=white,only marks,mark=*}}
+\pgfplotsset{my style/.append style={axis x line=middle, axis y line=
+middle, xlabel={$x$}, ylabel={$y$} }}
+
+%axis equal 
+\pagestyle{fancy} 
+\lfoot{}
+\rfoot{FE Questions}
+
+\begin{document}
+\renewcommand{\headrulewidth}{0pt}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\bc}{\begin{center}}
+\newcommand{\ec}{\end{center}}
+\renewcommand{\d}{\displaystyle}
+
+\vspace*{-0.7in}
+
+%%%%%%%%%intro page
+\begin{center}
+  \large
+  \sc{Questions for the Final Exam}\\
+\end{center}
+
+Whole Semester Questions\\
+For each topic below, think about how this concept has evolved over time.
+\begin{enumerate}
+\item numerical representation
+\item algebraic notation
+\item solutions to polynomial equations
+\item geometry
+\item the nature of proof
+\item area-under-the-curve problems, tangent lines and other calculus ideas
+\item the number zero, rational and irrational numbers, negative numbers, imaginary numbers
+\item trigonometry
+\item probability
+\item the graph of a parabola and graphs in general (I'm reference the Calculus I style graph of a function and not the vertex-edge discrete object).
+\end{enumerate}
+
+From Midterm 3
+\begin{enumerate}
+\item Can you translate a problem and solution from Diophantus' *Arithmetica* into modern notation? Can you demonstrate the general technique Diophantus is attempting to communicate?
+\item Can you determine whether a linear Diophantine does or does not have a solution? If it does have a solution, can you articulate the family of solutions?
+\item Can you demonstrate that a cubic can be solved as the intersection of two conic sections?
+\item Can you come up with examples of cubic equations with exactly one real positive solution? Three real positive solutions?
+\item Describe Diophantus' algebraic notation. Elaborate on its advantages and short-comings.
+\item Explain why al Khwarizmi and Khayyam solved multiple versions of quadratic and cubic equations. Elaborate on how their solutions are different from our modern solutions.
+\item Describe the algebraic notation of Khwarizmi and Khayyam. (Answer: There isn't any. The only symbols in their work are symbols for integers.)
+\item Describe a mathematician that influenced Khwarizmi (Khayyam) and describe a mathematician Khwarizmi (Khayyam) influenced.
+\item Describe the mathematics in Liu Hui's \textit{Nine Chapters} and \textit{Sea Island Mathematical Manual}
+\item Explain why our numerical system is called the Hindu-Arabic numerical system. Explain how it was adopted in Europe.
+\item Use Cardano's formula to solve a cubic.
+\item Why didn't Tartaglia not publish his solution to the cubic?
+\item What was the significance of Fra Luca Pacioli's *Summa*? Cardano's *Ars Magna*?
+\item What was Niels Henrik Abel's contribution to solutions to polynomial equations?
+\item Describe the evolutions of planetary motion from Ptolemy, Nicolaus Copernicus, Galileo Galilei, Johannes Kepler, Tycho Brahe and Isaac Newton.
+\item Describe the coordinate geometry of Rene Descartes and Pierre de Fermat. What is so important about this development? What aspects of it made it challenging to adopt? How is it different from our present version? What sort of problems were they trying to address with this new pairing of algebra and geometry?
+\item Describe the calculus of Newton and Leibniz. Explain why there was a dispute about priority. Describe the strengths of each.
+\item Describe what motivates early development of probability and statistics. Include specific people.
+\item Describe some contributions of Leonhard Euler and Carl Friedrich Gauss.
+\item Describe the development of noneuclidean geometery. 
+\end{enumerate}
+\end{document}
+
