@@ -2,10 +2,11 @@
 layout: course-page
 title: Advice on Doing Homework
 ---
+<span style="color:red">**This Page is UNDER CONSTRUCTION for SPRING 2025**</span>
 
 ## Advice on Doing Homework
 
-### Don't piss-off the grader
+### Make life easy for the grader
   * Write your name on the top-right of the first page.
   * Write the title "Homework x.y" on the top-left of the first page.
   * Number all problems, and their parts, as they are in the textbook.
