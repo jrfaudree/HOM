@@ -1,0 +1,301 @@
+% !TEX TS-program = pdflatexmk
+\documentclass[12pt]{article}
+
+% Layout.
+\usepackage[top=1in, bottom=0.75in, left=1in, right=1in, headheight=1in, headsep=6pt]{geometry}
+
+% Fonts.
+\usepackage{mathptmx}
+\usepackage[scaled=0.86]{helvet}
+\renewcommand{\emph}[1]{\textsf{\textbf{#1}}}
+
+% Misc packages.
+\usepackage{amsmath,amssymb,latexsym}
+\usepackage{graphicx,hyperref}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{multicol}
+\usepackage{tabularx,colortbl}
+\usepackage{enumitem}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+    pdftitle={Calc I Syllabus},
+    pdfpagemode=FullScreen,
+    }
+
+\def\mailto#1{\href{mailto:#1}{#1}}
+
+% Paragraph spacing
+\parindent 0pt
+\parskip 6pt plus 1pt
+\def\tableindent{\hskip 0.5 in}
+\def\ts{\hskip 1.5 em}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy} 
+\lhead{\large\sf\textbf{MATH 316: History of Mathematics (\S 701 \& \S
+901)}}
+\rhead{\large\sf\textbf{Spring 2025 Syllabus}}
+
+\newcommand{\localhead}[1]{\par\smallskip\textbf{#1}\nobreak\\}%
+\def\heading#1{\localhead{\large\emph{#1}}}
+\def\subheading#1{\localhead{\emph{#1}}}
+
+\newenvironment{clist}%
+{\bgroup\parskip 0pt\begin{list}{$\bullet$}{\partopsep 4pt\topsep 0pt\itemsep -2pt}}%
+{\end{list}\egroup}%
+
+\begin{document}
+
+% \heading{Course Description}
+
+\strut\par\vskip-12pt
+\heading{Essential Information}
+
+\begin{tabular}{ll}
+{\emph{Instructor}}& Jill Faudree \cr
+&Email: jrfaudree@alaska.edu\cr
+ &Office: Chapman 306B\cr
+\strut & \cr
+
+{\emph{Website}}&\url{https://jrfaudree.github.io/HOM2025}\cr
+\strut & \cr
+\emph{Prerequisite} & a grade of C or better in Math 252 Calculus III and   \cr
+&a grade of C or better in Math 265 Introduction to Proofs  or\cr
+&special permission of the instructor. \cr
+\strut & \cr
+{\emph{Required Text}} &\textit{The History of Mathematics: An Introduction} by David M. Burton\cr
+  \strut & \cr
+{\emph{Grades}}&(Canvas) \url{https://www.uaf.edu/uaf/current/canvas.php}\cr
+ \strut & \cr
+ 
+ {\emph{Time}}&MWF 11:45 am -12:45 pm\cr
+ \strut & \cr
+ 
+  {\emph{Location}}&Chap 107 or by Zoom \cr
+ \strut & \cr
+ 
+ {\emph{tentative Office Hours}}& M 1:00-2:00 \& 3:30-4:30 Chap 306 or Zoom \cr
+ &W 1:00-2:00 Chap 306 or by Zoom \cr
+\end{tabular}
+
+
+\heading{Catalog Course Description} 
+
+Important periods in the history of mathematics, including mathematics of Ancient Babylon, Mesopotamia, Greece, China and India, medieval Europe, the Middle East and the Renaissance; the development of geometry, algebra and calculus. Other areas in the development and philosophy of mathematics will be studied as time permits.\\
+
+\heading{Student Learning Outcomes}
+
+Students completing the course will have a broad sense of the historical development of numerical representation, geometry, algebra and calculus. Some additional and more specific goal are listed below.
+\begin{clist}
+\item Understand mathematics as a science and an art.
+\item Recognize how cultural, social, economic, political, and environmental forces act on the development of mathematics.
+\item Be knowledgeable of some of the original problems whose solutions (or attempts at solutions) motivated initial development of the four major topics.
+\item Understand the interrelations among the various branches of mathematics and the dynamic nature of mathematics both historically and in the present day.
+\item Develop a flexible understanding of common mathematical concepts including notation, solutions to algebraic equations, and common algebraic equations.
+\end{clist}
+
+\heading{Class Time}
+Class will begin by going over the \href{https://jrfaudree.github.io/HOM2025/tickets.html}{ticket} in the door. Then, we will explore in more detail the mathematical topic of the day typically by doing math.
+
+
+\heading{Tentative Schedule}
+A tentative schedule is below. The course website contains a \href{https://docs.google.com/spreadsheets/d/e/2PACX-1vRljb1-0lJ9CtIRxdMsZyeBSeQeEZfkl7WBYEpcGmgYnoMynhaaJGCkPKR3t-NxstMAChrq4HY-ms9D/pubhtml?gid=0&single=true}{day-to-day schedule} for the semester anticipating
+the topics to be covered each class, the due dates,
+midterms, and so forth. 
+
+
+\textsc{(tentative) Schedule of Topics:}
+
+\begin{tabular}{l||l|l|l|l|l|l|}
+  \hline
+  % after \\: \hline or \cline{col1-col2} \cline{col3-col4} ...
+  week&date& topics &  & week&date& topics \\
+  \hline
+ 1& Jan 13 & Ch 1 & &9&Mar 10 & Spring Break  \\
+
+\hline
+ 1& Jan 20 & Ch 2 & &10& Mar 17 & Ch 8 \\
+
+\hline
+  3& Jan 27 & Ch 3& &11& Mar 24 & Ch 9 \\
+
+\hline
+4& Feb 3 &  Ch 4 &  &12& Mar 31 & Ch 10 \\
+
+\hline
+ 5& Feb 10 & Ch 5 & &13& Apr 7 & Ch 11, Midterm 2  \\
+
+\hline
+ 6& Feb 17 & Ch 5, Midterm 1& &14& Apr 14 & Ch 12 \& 13  \\
+\hline
+ 7& Feb 24 & Ch 6&  &15& Apr 21 & Presentations, Review \\
+  
+\hline
+ 8& Mar 3  & Ch 7&  &16&  Apr 28 &last class (Monday), Final (Friday) \\
+
+\hline
+\end{tabular}
+
+\heading{Office Hours and Communication}
+I will schedule formal office hours,
+which will be listed linked from the course webpage. Students can also schedule meetings with their instructor outside of regular office hours. 
+
+I will use Canvas to send announcements. If I need to contact you, we will first try to do this in class. My second method will be to send an email to you via Canvas. Thus, you will want to make sure that the email address in Canvas is one that you check regularly. Note that in Canvas it is possible to set up text alerts. However, you must login to Canvas and adjust the setting for your account. Neither email nor text alerts are automatic.
+
+\heading{Evaluation and Grades}
+Grades are determined as follows; 
+each component of the grade is discussed subsequently in
+the syllabus.
+ 
+\begin{multicols}{2}
+
+\begin{tabular}{|c|c|}
+\hline
+Tickets& 12\%\\
+\hline
+Homework& 12\% \\
+\hline
+Midterm 1 & 20\% \\
+\hline
+Midterm 2 & 20\%  \\
+\hline
+Project & 16\%\\
+\hline
+Final Exam& 20\% \\
+\hline
+total& 100\%\\
+\hline
+\end{tabular}
+
+\vskip 6pt
+Letter grades will be assigned according to the following scale.
+This scale is a guarantee; the instructors reserve the right to lower the thresholds. 
+
+\def\sts{\hskip 0.5em}
+\strut\hbox to\hsize{\vbox{\halign{#\hfil\sts&#\hfil\ts&#\hfil\sts&#
+\hfil\ts&#\hfil\sts&#\hfil   \cr
+A+ & 97--100\% & C+ & 77--79\% & F  & $<$ 60\%\cr
+
+A & 93--96\% &  C & 73--76\%&&\cr
+A- & 90--92\% & C- & 70-72&&\cr
+B+ & 87--89\% & D+ & 67--69\%&&\cr
+B &  83--86\% & D & 63--66\%&&\cr
+B- & 80-82\% & D- & 60--62\%&&\cr
+}}\hfil}
+\end{multicols}
+
+\heading{Reading \& Tickets in the Door}
+At the end of every class, a reading from your textbook will be assigned with corresponding questions whose answers you will submit at the beginning of the next class. The sheet of questions is called your \textbf{ticket in the door} which you will submit at the beginning of the next class. Class will begin by discussing the questions from the daily ticket.  Every student is expected to voluntarily contribute to the discussion. This implies that every student is expected to participate without prompting from the instructor and to make space for others to participate. For each ticket, a student earns a score of 0, 1 or 2 depending on whether the ticket was complete, submitted on time, and participation was voluntary and robust. 
+
+\heading{Homework}
+Homework assignments typically consist of a selection of problems at the end of each section of our textbook. Homework is written (on paper or tablet) and turned in on Canvas.  Help with scanning homework can be found under \href{https://jrfaudree.github.io/HOM2025/techHelp.html}{Technology Help} on the course webpage. Complete worked solutions to all problems are provided in advance on Canvas. Consequently, your homework will be graded based on \emph{effort} and \emph{completion}.  All students should earn 100\% of their homework points!
+
+Clearly, it is possible to short-circuit the homework by copying the solutions. It should also be clear that (a) this is a bad idea and (b) your instructor/TA will know you have done this. The goal in providing answers and solutions is to foster the use of homework as a \emph{learning experience}. 
+
+\heading{Midterms}
+There will be two midterm exams this semester, to be held on Friday 21 February and Friday 11 April. Make-up midterms will be given only for documented excused absences. Always contact your instructor if you miss a midterm.
+
+\heading{Project}
+The project will be broken into pieces. It is an opportunity for you to learn about a topic that interests you. There are two main components of the project: (1) a paper (which does not need to be long) and (2) a presentation to the class. The topic must be approved in advance and must be a \textbf{mathematical} idea/concept/theorem commonly taught in a junior-level undergraduate mathematics curriculum or below, the simpler the better.  
+
+\heading{Final Exam} 
+The cumulative final exam will be held Friday May 2, 10:15am-12:15pm. A make-up final exam will be given only in extenuating circumstances, for documented and excused reasons at the discretion of the instructors.
+
+\heading{Tutoring and Resources}
+\vskip -30pt\strut
+\begin{clist}
+	\item The Math and Stat Lab, Chapman Building Room 305, offers tutors. 
+	See 
+
+	\url{https://www.uaf.edu/dms/mathlab/} for schedules and availability.
+	\item One-on-one (or small group) tutoring is available in 
+Chapman Building Room 201. You must schedule an
+appointment; see \url{https://www.uaf.edu/dms/mathlab/}.
+	\item Student Support Services offers free tutoring in many subjects to students who qualify for their program.
+	\item ASUAF offers private tutoring for a small fee (based on student income).
+\end{clist}
+
+\heading{Rules and Policies}
+\vskip -20pt
+
+\subheading{Incomplete Grade} 
+Incomplete (I) will only be given in
+  DMS courses in cases where
+  the student has completed the majority (normally all but the last
+  three weeks) of a course with a grade of C or better, but for
+  personal reasons beyond his/her control has been unable to complete
+  the course during the regular term. Negligence or indifference are
+  not acceptable reasons for the granting of an incomplete
+  grade. 
+
+\subheading{Late Withdrawals} 
+A withdrawal after the deadline
+  (currently 9 weeks into the semester) from a DMS course will
+  normally be granted only in cases where the student is performing
+  satisfactorily (i.e., C or better) in a course, but has exceptional
+  reasons, beyond his/her control, for being unable to complete the
+  course. These exceptional reasons should be detailed in writing to
+  the instructor, department head and dean.
+
+\subheading{No Early Final Examinations}
+ Normally, a student will not be
+  allowed to take a final exam early. Exceptions can be made by
+  individual instructors, but should only be allowed in exceptional
+  circumstances and in a manner which doesn't endanger the security of
+  the exam.
+
+\subheading{Academic Dishonesty}
+Academic dishonesty, including cheating and plagiarism, will not
+be tolerated.  It is a violation of the Student Code of Conduct
+and will be punished according to UAF procedures.
+
+ %\begin{center} \textsc{Syllabus Addendum} \end{center}
+ 
+ \noindent{\bf COVID-19 statement:} Students should keep up-to-date on the university's policies, practices, and mandates related to COVID-19 by regularly checking this website: \url{https://sites.google.com/alaska.edu/coronavirus/uaf?authuser=0}
+
+Further, students are expected to adhere to the university's policies, practices, and mandates and are subject to disciplinary actions if they do not comply.
+
+\noindent{\bf Student protections statement:} UAF embraces and grows a culture of respect, diversity, inclusion, and caring. Students at this university are protected against sexual harassment and discrimination (Title IX). Faculty members are designated as responsible employees which means they are required to report sexual misconduct. Graduate teaching assistants do not share the same reporting obligations. For more information on your rights as a student and the resources available to you to resolve problems, please go to the following site: \url{https://catalog.uaf.edu/academics-regulations/students-rights-responsibilities/}.
+
+\noindent{\bf Disability services statement:} We will work with the Office of Disability Services to provide reasonable accommodation to students with disabilities.
+
+\noindent{\bf Student Academic Support:}
+\begin{itemize}
+\setlength\itemsep{0em}
+        \item Speaking Center (907-474-5470,
+        \mailto{uaf-speakingcenter@alaska.edu}, Gruening 507)
+\item Writing Center (907-474-5314, \mailto{uaf-writing-center@alaska.edu}, Gruening 8th floor)
+\item UAF Math Services, \mailto{uafmathstatlab@gmail.com}, Chapman Building (for math fee paying students only)
+\item Developmental Math Lab, Gruening 406
+\item The Debbie Moses Learning Center at CTC (907-455-2860, 604 Barnette St, Room 120,\\ \mailto{https://www.ctc.uaf.edu/student-services/student-success-center/})
+\item For more information and resources, please see the Academic Advising Resource List (\url{https://www.uaf.edu/advising/lr/SKM_364e19011717281.pdf})
+\end{itemize}
+
+\noindent{\bf Student Resources:}
+\begin{itemize}
+\setlength\itemsep{0em}
+\item Disability Services (907-474-5655, \mailto{uaf-disability-services@alaska.edu}, Whitaker 208)
+\item Student Health \& Counseling [6 free counseling sessions] (907-474-7043, \url{https://www.uaf.edu/chc/appointments.php}, Whitaker 203)
+\item Center for Student Rights and Responsibilities (907-474-7317, \mailto{uaf-studentrights@alaska.edu}, Eielson 110)
+\item Associated Students of the University of Alaska Fairbanks (ASUAF) or ASUAF Student Government (907-474-7355, \mailto{asuaf.office@alaska.edu}{asuaf.office@alaska.edu}, Wood Center 119)
+\end{itemize}
+
+\noindent{\bf Nondiscrimination statement:}
+The University of Alaska is an affirmative action/equal opportunity employer and educational institution. The University of Alaska does not discriminate on the basis of race, religion, color, national origin, citizenship, age, sex, physical or mental disability, status as a protected veteran, marital status, changes in marital status, pregnancy, childbirth or related medical conditions, parenthood, sexual orientation, gender identity, political affiliation or belief, genetic information, or other legally protected status. The University's commitment to nondiscrimination, including against sex discrimination, applies to students, employees, and applicants for admission and employment. Contact information, applicable laws, and complaint procedures are included on UA's statement of nondiscrimination available at www.alaska.edu/nondiscrimination. For more information, contact:
+
+\begin{tabular}{l}
+UAF Department of Equity and Compliance\\
+1760 Tanana Loop, 355 Duckering Building, Fairbanks, AK  99775\\
+907-474-7300\\
+\mailto{uaf-deo@alaska.edu}
+\end{tabular}
+
+ \scriptsize syllabus version: \today \normalsize
+
+\end{document}
+
