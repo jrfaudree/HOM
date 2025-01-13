@@ -6,13 +6,16 @@ docs:
   url: assets/general/M316S23_syllabus.pdf  # rebuild by "make syllabus.pdf" in assets/general/
 
 - title: Schedule
-  exturl: https://docs.google.com/spreadsheets/d/e/2PACX-1vRljb1-0lJ9CtIRxdMsZyeBSeQeEZfkl7WBYEpcGmgYnoMynhaaJGCkPKR3t-NxstMAChrq4HY-ms9D/pubhtml?gid=0&single=true
+  exturl: <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRSXy8PBXnJpR7xxhggG7TRmXVr_T20drE4qSHNJthFCJuujuz7XPa606VCXAP73R40e4WRB37YEvSI/pubhtml?gid=1103770719&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+- title: Tickets
+  url: td.html
   
 - title: Homework
   url: homework.html
 
-- title: Reading Questions
-  url: rq.html
+#- title: Reading Questions
+ # url: rq.html
 
 - title: Exams
   url: exams.html
