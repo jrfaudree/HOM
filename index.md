@@ -17,11 +17,11 @@ My weekly schedule, including office hours, can be found [here](http://jrfaudree
 
 ### Canvas course page
 
-Log in to [Canvas at UAF](https://canvas.alaska.edu/courses/24165)) for:
+Log in to [Canvas at UAF](https://canvas.alaska.edu/courses/24165) for:
 
   * announcements
   * grades
-  * link to Gradescope for submitting Homework
+  * links to submit Homework in Canvas
   * solutions to Homework
 
 ### Getting Started
@@ -30,11 +30,11 @@ Log in to [Canvas at UAF](https://canvas.alaska.edu/courses/24165)) for:
 
 * Read the [Syllabus](assets/general/M316S25_syllabus.pdf).
 
-* See the [Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vRljb1-0lJ9CtIRxdMsZyeBSeQeEZfkl7WBYEpcGmgYnoMynhaaJGCkPKR3t-NxstMAChrq4HY-ms9D/pubhtml?gid=0&single=true).  Check it often to find out what happens next.
+* See the [Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vRSXy8PBXnJpR7xxhggG7TRmXVr_T20drE4qSHNJthFCJuujuz7XPa606VCXAP73R40e4WRB37YEvSI/pubhtml?gid=1103770719&single=true).  Check it often to find out what happens next.
 
 * The textbook is **The History of Mathematics: An Introduction** by David M. Burton.
 
-* Do the [Homework](homework.html).  Solutions are available in advance at the Canvas course. Your Homework will be graded for completion and effort.  You will need to scan and upload each [Homework](homework.html) assignment as a single PDF file in Gradescope, which you access from Canvas.
+* Do the [Homework](homework.html).  Solutions are available in advance at the Canvas course. Your Homework will be graded for completion and effort.  You will need to scan and upload each [Homework](homework.html) assignment as a single PDF file in Canvas, which you access from Assignments tab in the left menu.
 
 
 ---
