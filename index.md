@@ -3,7 +3,12 @@ layout: course-page
 title: Faudree's Math 316 History of Math at UAF
 ---
 
-Welcome to the homepage of **Math 314 Introduction to the History of Mathematics course**, Spring 2023, in the [Dept. of Mathematics and Statistics](http://www.uaf.edu/dms/) at the [University of Alaska Fairbanks](http://www.uaf.edu/).
+Welcome to the homepage of **Math 314 Introduction to the History of Mathematics course**.
+
+<span style="color:red">**This Page is UNDER CONSTRUCTION**</span>
+
+
+Spring 2025 in the [Dept. of Mathematics and Statistics](http://www.uaf.edu/dms/) at the [University of Alaska Fairbanks](http://www.uaf.edu/).
 
 #### Instructor:  [Jill Faudree](http://jrfaudree.github.io/)
 
