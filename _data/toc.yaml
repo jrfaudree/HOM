@@ -6,7 +6,7 @@ docs:
   url: assets/general/M316S23_syllabus.pdf  # rebuild by "make syllabus.pdf" in assets/general/
 
 - title: Schedule
-  exturl: <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRSXy8PBXnJpR7xxhggG7TRmXVr_T20drE4qSHNJthFCJuujuz7XPa606VCXAP73R40e4WRB37YEvSI/pubhtml?gid=1103770719&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+  exturl: https://docs.google.com/spreadsheets/d/e/2PACX-1vRSXy8PBXnJpR7xxhggG7TRmXVr_T20drE4qSHNJthFCJuujuz7XPa606VCXAP73R40e4WRB37YEvSI/pubhtml?gid=1103770719&amp;single=true&amp;widget=true&amp;headers=false
 
 - title: Tickets
   url: td.html
