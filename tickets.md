@@ -1,6 +1,6 @@
-__
+---
 layout: course-page
-title: HOM Tickets
+title: Worksheets
 ---
 
 ### Daily Materials
