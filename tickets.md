@@ -18,7 +18,7 @@ title: HOM Tickets
       <tr>
          <td> <a href="{{ c.ticket }}">blank</a> </td>
       </tr>
-      {% if c.urlfilled %}
+      {% if c.tfilled %}
       <tr>
          <td> <a href="{{ c.tfilled }}">filled</a> </td>
       </tr>
@@ -30,7 +30,7 @@ title: HOM Tickets
       <tr>
          <td> <a href="{{ c.worksheet }}">blank</a> </td>
       </tr>
-      {% if c.urlfilled %}
+      {% if c.wfilled %}
       <tr>
          <td> <a href="{{ c.wfilled }}">filled</a> </td>
       </tr>
