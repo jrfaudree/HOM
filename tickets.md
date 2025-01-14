@@ -27,9 +27,11 @@ title: Worksheets
   </td>
   <td>
     <table class="inner">
+      {% if c.worksheet %}
       <tr>
          <td> <a href="{{ c.worksheet }}">blank</a> </td>
       </tr>
+      {% endif %}
       {% if c.wfilled %}
       <tr>
          <td> <a href="{{ c.wfilled }}">filled</a> </td>
