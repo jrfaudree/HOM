@@ -1,6 +1,6 @@
 ---
 layout: course-page
-title: Worksheets
+title: Tickets
 ---
 
 ### Daily Materials
