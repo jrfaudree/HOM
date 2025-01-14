@@ -41,5 +41,3 @@ title: Worksheets
 {% endfor %}
 </table>
 </div>
-</table>
-</div>
