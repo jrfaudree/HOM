@@ -1,44 +1,45 @@
 __
 layout: course-page
-title: Math F251 Calculus I at UAF
+title: HOM Tickets
 ---
 
-### Tuesday Recitation Materials
+### Daily Materials
 
 <div class="x-scroll">
 <table class="asst-table">
-<tr><th>Week</th><th>Date</th><th>Topic</th><th>Blank Sheets</th><th>Filled Sheets</th><th>Videos</th></tr>
-{% for c in site.data.recitations_s2024 %}
+<tr><th>Date</th><th>Ticket</th><th>Worksheet</th></tr>
+{% for c in site.data.ticket_s2025 %}
 <tr valign="top">
   <td>
-    {{ c.Week }}
- </td>
+    {{ c.day }}
+  </td>
   <td>
-    {% for s in c.sections %}
-      {{ s.date }}
-    {% endfor %}
- </td>
+    <table class="inner">
+      <tr>
+         <td> <a href="{{ c.ticket }}">blank</a> </td>
+      </tr>
+      {% if c.urlfilled %}
+      <tr>
+         <td> <a href="{{ c.tfilled }}">filled</a> </td>
+      </tr>
+      {% endif %}
+    </table>
+  </td>
   <td>
-    {% for s in c.sections %}
-      {{ s.topic }}
-    {% endfor %}
- </td>
-  <td>
-    {% for s in c.sections %}
-      <a href="assets/recitations/Spring2022/{{s.blank}}">blank</a><br>
-    {% endfor %}
- </td>
-  <td>
-    {% for s in c.sections %}
-      <a href="assets/recitations/Spring2022/{{s.filled}}">filled</a><br>
-    {% endfor %}
- </td>
-  <td>
-    {% for s in c.sections %}
-      <a href="{{s.video}}">video</a><br>
-    {% endfor %}
- </td>
+    <table class="inner">
+      <tr>
+         <td> <a href="{{ c.worksheet }}">blank</a> </td>
+      </tr>
+      {% if c.urlfilled %}
+      <tr>
+         <td> <a href="{{ c.wfilled }}">filled</a> </td>
+      </tr>
+      {% endif %}
+    </table>
+  </td>
 </tr>
 {% endfor %}
+</table>
+</div>
 </table>
 </div>
