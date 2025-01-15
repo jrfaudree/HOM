@@ -83,8 +83,8 @@ Section 1.3 Problems 1af,2b,3,4b,5,6af,9,13af,15b,17abceg
 
 [comment]: <> ( Ptolemy’s Theorem is stated precisely (with picture) in Problem 1 from this section.)
 
-[comment]: <> ( Problem A: Show that Ptolemy’s Theorem applies to every rectangle of sides a and b and then
-confirm that the conclusion of Ptolemy’s Theorem is correct for every rectangle.)
+[comment]: <> ( Problem A: Show that Ptolemy’s Theorem applies to every rectangle of sides a and b and then)
+[comment]: <> (confirm that the conclusion of Ptolemy’s Theorem is correct for every rectangle.)
 
 [comment]: <> ( Problem B: Let the points A, B, C, and D, have the coordinates below:)
 
@@ -92,17 +92,17 @@ confirm that the conclusion of Ptolemy’s Theorem is correct for every rectangl
 
 [comment]: <> ( 1. Show that the points ABCD lie on a circle.)
 
-[comment]: <> ( 2. Explain how you know that if point D was changed to the coordinates (2,-½), the points
-ABCD would not lie on a circle.)
+[comment]: <> ( 2. Explain how you know that if point D was changed to the coordinates (2,-½), the points)
+[comment]: <> (ABCD would not lie on a circle.)
 
-[comment]: <> ( 3. Confirm that the conclusion Ptolemy’s Theorem applies to the quadrilateral with corners
-ABCD (the original D!).)
+[comment]: <> ( 3. Confirm that the conclusion Ptolemy’s Theorem applies to the quadrilateral with corners)
+[comment]: <> (ABCD (the original D!).)
 
 
 [comment]: <> ( Section 4.5 Problems 2,4,5,11)
 
 [comment]: <> ( Problem C: Use modern calculus to find the area of the parabolic segment bounded by y=x^2)
-and y=x+2
+[comment]: <> (and y=x+2)
 
 [comment]: <> ( * **HW 7** )
 
