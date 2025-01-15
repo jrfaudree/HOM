@@ -5,6 +5,14 @@ title: Exams
 
 ## Exams
 
+### Spring 2025
+
+* Midterm 1 info will appear here.
+
+* Midterm 2 info will appear here.
+
+* Final Exam info will appear here. 
+
 ### Spring 2023
 
 * Midterm 1: &nbsp;&nbsp; [review](assets/midterms/M316s23_M1_Review.pdf)&nbsp;&nbsp; [part I](assets/midterms/M316s23-Mid1-PUBLIC-Part-I.pdf)&nbsp;&nbsp; [blank](assets/midterms/M316s23-Mid1.pdf) &nbsp;&nbsp; [solutions](assets/midterms/M316s23-Mid1-ss.pdf)
