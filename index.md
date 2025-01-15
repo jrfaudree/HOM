@@ -13,7 +13,7 @@ in the [Dept. of Mathematics and Statistics](http://www.uaf.edu/dms/) at the [Un
 
 Email me at [jrfaudree@alaska.edu](mailto:jrfaudree@alaska.edu).  
 
-My weekly schedule, including office hours, can be found [here](http://jrfaudree.github.io/OffHrs.htm) in Chapman 306B.
+My weekly schedule, including office hours, can be found [here](https://docs.google.com/spreadsheets/d/1Ynzc0a02NC83wnWS02dO5yT99rEbq3G49XDM9BmzsU8/edit?usp=sharing)
 
 ### Canvas course page
 
