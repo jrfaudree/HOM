@@ -1,0 +1,171 @@
+% !TEX TS-program = pdflatexmk
+\documentclass[11pt]{article}
+\usepackage[margin=.8in]{geometry}
+\usepackage{amsmath,amssymb,amsthm, latexsym, mathrsfs, pdfsync, multicol,
+fancybox, fancyhdr,
+graphicx, enumerate,
+subfig, tikz, pgfplots,array}
+
+%\singlespacing
+\def\RR{{\mathbb R}}
+\def\NN{{\mathbb N}}
+\def\ZZ{{\mathbb Z}}
+\def\QQ{{\mathbb Q}}
+\def\CC{{\mathbb C}}
+\def\bc{\begin{center}}
+\def\ec{\end{center}}
+\def\be{\begin{enumerate}}
+\def\ee{\end{enumerate}}
+\def\bi{\begin{itemize}}
+\def\ei{\end{itemize}}
+\def\t{\times}
+\newcommand{\ol}[1]{\overline{#1}}
+\newcommand{\oimp}[1]{\overset{#1}{\Longleftrightarrow}}
+\newcommand{\bv}[1]{\ensuremath{ \mathbf{\vec{#1}}} }
+\renewcommand{\d}{\displaystyle}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+
+\usetikzlibrary{calc}
+
+\lhead{\sc{Math 316 Hist. of Math.}}
+\chead{\large \sc Final Exam} 
+\rhead{\sc Spring 2023}
+\cfoot{}
+\pagestyle{fancy}
+%
+\begin{document}
+\thispagestyle{fancy}
+
+\vspace{1in}
+
+\textbf{Student Name:}\hspace{2in}
+
+\vspace{1in}
+
+{
+\renewcommand{\baselinestretch}{1.8}
+\setlength{\tabcolsep}{.2in}
+\normalsize
+\begin{center}
+\begin{tabular}{|c|c|c|c|}
+\hline
+&Problem&Total Points&\parbox{.8in}{\hfil Score\hfil}\\
+\hline
+\hline
+&1&15&\\
+\hline
+&2&15&\\
+\hline
+&3&15&\\
+\hline
+&4&10&\\
+\hline
+&5&15&\\
+\hline
+&6&30&\\
+\hline
+\hline
+Total&100&&\\
+\hline
+\end{tabular}
+
+\end{center}
+}
+
+\vspace{1in} 
+
+Guidelines
+\begin{itemize}
+\item You have 2 hours to take the exam.
+\item You may use a calculator and two pages of notes (i.e. two sheets of paper with writing on both sides of each sheet).
+\end{itemize}
+
+\newpage
+
+
+\vspace*{-0.3in}
+
+
+\be
+%%%False position
+\item (15 points)
+	\be
+	\item Use the \emph{method of false position} to solve Problem 31 of the Rhind Papyrus stated below:
+	
+	\begin{quote} A quantity, and its $\frac{2}{3}$, its $\frac{1}{2}$, and its $\frac{1}{7}$ add together become 33. What is the quantity?
+	\end{quote}
+	
+	\vfill
+	\item The method of false position was a common strategy for solving equations though the Middle Ages in Europe. What made this method so durable?
+	\vfill
+	\item What are some of the limitations of this method and why is it no longer common to find the method taught in school?
+	\vfill
+	\ee
+\newpage
+
+\item (15 points)
+	\begin{enumerate}
+	\item Use the ancient Egyptian method to find 163 divided by 30.
+	\vfill
+	\item Demonstrate how ancient Greek mathematicians could \emph{construct} a line segment of length $\sqrt{2}$ even if they didn't feel $\sqrt{2}$ could be a number.
+	
+	\vfill 
+	\item A modern human might answer that $163 \div 30=5.433$ or describe $\sqrt{2}$ as $1.4142.$ Give some examples of how how our modern notion of number and notation for number has evolved since the ancient Greeks and Egyptians.
+	\vfill
+	\end{enumerate}
+\newpage
+\item (15 points) The following questions concern Euclid's \emph{Elements of Geometry}.
+	\begin{enumerate}
+	\item Why did the fifth postulate of Book I receive so much attention by so many mathematicians? (Your answer should be limited to the motivation of mathematicians in roughly the first 1000 years after the \emph{Elements} was written.)
+	\vfill
+	\item With what two propositions does Book I end?
+	\vspace{1in}
+	\item Describe at least three \textbf{distinct} ways in which Euclid's \emph{Elements} influenced later mathematics.
+	\vfill	
+	\end{enumerate}
+\newpage
+\item (10 points)
+	\be
+	\item Solve Problem 27 from Book I of Diophantus' \emph{Arithmetica}:
+	\begin{quote} Find two numbers such that their sum and product are given numbers: say their sum is 20 and their product is 96.
+	\end{quote}
+	Hint: Call the numbers $10+x$ and $10-x$.
+	\vfill
+	\item Explain what is meant today by a Diophantine equation and how this differs from what Diophantus meant in his \emph{Arithmetica}.
+	\vfill
+	\ee
+	\newpage
+\item (15 points)
+	\be
+	\item Explain how the algebra of Muhammad al-Khwarizmi differed from the algebra of Francois Vieta.
+	\vfill
+	\item Explain why algebraic notion was important in the development of analytic geometry.
+	\vfill
+	\item Explain why the development of analytic geometry was important to the development of calculus.
+	\vfill
+	\ee
+\newpage
+\item (30 points) Short Answer.
+	\be
+	\item Give two examples illustrating that \emph{how} humans write mathematics influences how we \emph{do} mathematics. One example should predate 1000 AD and one should come after 1000 AD.
+	\vfill 
+	\item Describe the origins of the mathematical subject we now call \emph{Trigonometry}. Who is responsible for the unit circle definition of trigonometric functions taught in modern classrooms?
+	\vfill
+	\item Describe the origins of the mathematical subject we now call \emph{Probability}.
+	\vfill
+	\newpage
+	\item State two mathematical accomplishments of Archimedes.
+	\vfill
+	\item Describe one of the first appearances of negative numbers and what motivates them. Include names and dates.
+	\vfill
+	\item Describe one of the first appearances of imaginary numbers and what motivates them. Include names and dates.
+	\vfill
+	\ee
+\ee
+\end{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%END
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+ 

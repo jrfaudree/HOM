@@ -1,0 +1,176 @@
+% !TEX TS-program = pdflatexmk
+\documentclass[11pt]{article}
+\usepackage[margin=.8in]{geometry}
+\usepackage{amsmath,amssymb,amsthm, latexsym, mathrsfs, pdfsync, multicol,
+fancybox, fancyhdr,
+graphicx, enumerate,
+subfig, tikz, pgfplots,array}
+
+%\singlespacing
+\def\RR{{\mathbb R}}
+\def\NN{{\mathbb N}}
+\def\ZZ{{\mathbb Z}}
+\def\QQ{{\mathbb Q}}
+\def\CC{{\mathbb C}}
+\def\bc{\begin{center}}
+\def\ec{\end{center}}
+\def\be{\begin{enumerate}}
+\def\ee{\end{enumerate}}
+\def\bi{\begin{itemize}}
+\def\ei{\end{itemize}}
+\def\t{\times}
+\newcommand{\ol}[1]{\overline{#1}}
+\newcommand{\oimp}[1]{\overset{#1}{\Longleftrightarrow}}
+\newcommand{\bv}[1]{\ensuremath{ \mathbf{\vec{#1}}} }
+\renewcommand{\d}{\displaystyle}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+
+\usetikzlibrary{calc}
+
+\lhead{\sc{Math 316 Hist. of Math.}}
+\chead{\large \sc Final Exam} 
+\rhead{\sc Spring 2023}
+\cfoot{}
+\pagestyle{fancy}
+%
+\begin{document}
+\thispagestyle{fancy}
+
+\vspace{1in}
+
+Solutions\\
+
+\be
+%%%False position
+\item (15 points)
+	\be
+	\item Use the \emph{method of false position} to solve Problem 31 of the Rhind Papyrus stated below:
+	
+	\begin{quote} A quantity, and its $\frac{2}{3}$, its $\frac{1}{2}$, and its $\frac{1}{7}$ add together become 33. What is the quantity?
+	\end{quote}
+	\vfill
+	Answer: We need to solve $x+\frac{2}{3}x+\frac{1}{2}x+\frac{1}{7}x=33.$\\
+	Guess $x=3\cdot 2 \cdot 7=42.$\\
+	Using our guess, we get: $42+28+21+6=97.$\\
+	Since we must scale our guessed the answer, namely $97,$ by $33/97,$ we must scale our guess by the same amount to get:\\
+	
+	
+	$42 \cdot \frac{33}{97}=1386/97 \approx 14.28866.$\\
+	
+	\vfill
+	\item The method of false position was a common strategy for solving equations though the Middle Ages in Europe. What made this method so durable?\\
+	\vfill
+	It required no algebraic symbols. It didn't require ideas like getting a common denominator. Typically, the arithmetic could be done in your head. Indeed, it typically required no writing whatsoever.\\
+	
+	\vfill
+	\item What are some of the limitations of this method and why is it no longer common to find the method taught in school?\\
+	\vfill
+	It only works for linear equations phrased in the form $ax=b.$ That is, even an expression of the form $ax+b=c$ or $ax+b=cx+d$ would require some pre-processing to use this method. \\
+	With sophisticated algebraic notation, it is more efficient to teach basic algebraic principles (e.g. add/subtract/multiply/divide the same thing from both sides of the equation.)
+	\vfill
+	\ee
+
+\item (15 points)
+	\begin{enumerate}
+	\item Use the ancient Egyptian method to find 163 divided by 30.
+	\vfill
+	Answer: Finding $y$ so that $163 \div 30 =y,$ is rephrased as $30 \times y=163.$ To find $y$, we make a table\\
+	
+	\begin{tabular}{ccl}
+	30&1&\checkmark\\
+	60&2\\
+	120&4&\checkmark\\
+	10&$\frac{1}{3}$&\checkmark\\
+	3&$\frac{1}{10}$&\checkmark\\
+	&&\\
+	\hline
+	&&\\
+	162&$5+\frac{1}{3}+\frac{1}{10}$&
+	\end{tabular}
+	
+	\item Demonstrate how ancient Greek mathematicians could \emph{construct} a line segment of length $\sqrt{2}$ even if they didn't feel $\sqrt{2}$ could be a number.
+	\vfill
+	The Greeks could construct a square and its diagonal. If the side of the square is taken as a unit, the diagonal of the square has length $\sqrt{2}.$ In more general terms, the side and diagonal of any square are incommensurable lengths.\\
+	\vfill 
+	\item A modern human might answer that $163 \div 30=5.433$ or describe $\sqrt{2}$ as $1.4142.$ Give some examples of how how our modern notion of number and notation for number has evolved since the ancient Greeks and Egyptians.\\
+	\vfill
+	While both Egyptians and ancient Greeks use a base 10 representation, our numerical representation is \emph{positional} with a zero. Instead of being restricted to unit fractions as the ancient Egyptians, we use a variety of flexible representations including both decimal representation of fractions and the form $a/b$, where $a$ and $b$ are allowed to be any number. We accept the existence of irrational numbers even though our primary method of representation (decimals) is not equipped to represent them precisely. Indeed, as the answer $163 \div 30=5.433$ demonstrates, we are comfortable with the fact that our numerical representation is often inexact or imprecise.  \\
+	\vfill
+	\end{enumerate}
+\item (15 points) The following questions concern Euclid's \emph{Elements of Geometry}.
+	\begin{enumerate}
+	\item Why did the fifth postulate of Book I receive so much attention by so many mathematicians?
+	\vfill
+	It was longer than all the other postulates and much less obvious. Euclid refrained from using it until Proposition 29, more than half-way through Book 1. Without the use of the fifth postulate, Euclid proved the converse of the fifth postulate. While anyone who had completed a course in logic recognizes that an implication and its converse are not the same thing, they can feel somehow close. So many people felt that if it is possible to prove the converse of the fifth axiom, it must be possible to prove the fifth axiom itself.\\
+	\vfill
+	\item With what two propositions does Book I end?\\
+	\vfill
+	A proof of the Pythagorean Theorem and its converse.\\
+	\vfill
+	\item Describe at least three \textbf{distinct} ways in which Euclid's \emph{Elements} influenced later mathematics.\\
+	\vfill
+	The Elements was the dominant model for what constituted proof and for how to write a mathematical text for hundreds of years. Interest in Euclid's 5th axiom led to the discovery of non-euclidean geometry.\\
+	\vfill	
+	\end{enumerate}
+\newpage
+\item (10 points)
+	\be
+	\item Solve Problem 27 from Book I of Diophantus' \emph{Arithmetica}:
+	\begin{quote} Find two numbers such that their sum and product are given numbers: say their sum is 20 and their product is 96.
+	\end{quote}
+	Hint: Call the numbers $10+x$ and $10-x$.
+	\vfill
+	Answer: If the two numbers are $10+x$ and $10-x$, then their sum is 20 without any additional work. Their product is:
+	
+	$$ (10+x)(10-x)=100-x^2=96 \text{   implies   }  x= \pm 2.$$
+	
+	Thus, the two numbers are 8 and 12.\\
+	\vfill
+	\item Explain what is meant today by a Diophantine equation and how this differs from what Diophantus meant in his \emph{Arithmetica}.\\
+	\vfill
+	Today, solving a Diophantine equation means articulating all integer solutions to some indeterminant equation or system of eequations. Diophantus was looking for rational solutions and trying to demonstrate a general method for find many such solutions but not necessarily all.
+	\ee
+\item (15 points)
+	\be
+	\item Explain how the algebra of Muhammad al-Khwarizmi differed from the algebra of Francois Vieta.\\
+	\vfill
+	The algebra of Muhammad al-Khwarizmi was entirely rhetorical. The only symbols used were for integers. The algebra of Francois Vieta involved the sophisticated use of symbols including the idea that vowels represented variables or unknowns and consonants represented constants.\\
+	\vfill
+	\item Explain why algebraic notion was important in the development of analytic geometry.\\
+	\vfill
+	In order to draw a set of points in the $xy$-plane, mathematicians needed two variables! Another way to think about it was that Descartes' solutions to various locus problems really depended on the subtle distinction between constants (that are fixed but perhaps rather hard to calculate explicity) and unknowns.	
+	\vfill
+	\item Explain why the development of analytic geometry was important to the development of calculus.
+	\vfill
+	\ee
+\newpage
+\item (30 points) Short Answer.
+	\be
+	\item Give two examples illustrating that \emph{how} humans write mathematics influences how we \emph{do} mathematics. One example should predate 1000 AD and one should come after 1000 AD.
+	\vfill 
+	\item Describe the origins of the mathematical subject we now call \emph{Trigonometry}. Who is responsible for the unit circle definition of trigonometric functions taught in modern classrooms?
+	\vfill
+	\item Describe the origins of the mathematical subject we now call \emph{Probability}.
+	\vfill
+	Analyzing mortality data for the purposes of  managing annuities or government programs. Determining fair ways to distribute money accumulated in games of chance if the game ended early.
+	\vfill
+	\item State two mathematical accomplishments of Archimedes.
+	\vfill
+	The quadrature of a parabolic segment and an algorithm for estimating $\pi$ with arbitrary degrees of accuracy.
+	\vfill
+	\item Describe one of the first appearances of negative numbers and what motivates them. Include names and dates.
+	\vfill
+	Liu Hui (220-280) \emph{Nine Chapters}. Negative numbers are used in the algorithm for solving a system of linear equations.
+	\vfill
+	\item Describe one of the first appearances of imaginary numbers and what motivates them. Include names and dates.\\
+	\vfill
+	Girolamo Cardano (1501-1576 ) Raphael Bombelli (1526-1572). Cardano published \emph{Ars Magna} which contained algorithms for solving all possible cubic equations. But these equations could result in square roots of negative numbers even in the case with the solution was a real positive number. Thus, Bombelli began investigating how to think about algebra on these expressions that would lead to a known correct answer.
+	\ee
+\ee
+\end{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%END
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+ 
