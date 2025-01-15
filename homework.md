@@ -20,113 +20,113 @@ title: Homework
 >
 Section 1.3 Problems 1af,2b,3,4b,5,6af,9,13af,15b,17abceg
 
-### <span style="color:red"> Tentative </span> Homework Problems
+[comment]: <> ( ### <span style="color:red"> Tentative </span> Homework Problems)
 
-[comment]: <> (  * **HW 2** 
+[comment]: <> (  * **HW 2** )
 >
-Section 2.3 Problems 1c,2ad,3a,6,10,19(for 7 loaves only),20(Problem 26 only),24
+[comment]: <> ( Section 2.3 Problems 1c,2ad,3a,6,10,19(for 7 loaves only),20(Problem 26 only),24)
 >
-Section 2.4 Problems 1c,2,6,9
+[comment]: <> ( Section 2.4 Problems 1c,2,6,9)
 >
-Section 2.5 Problems 1,4,6ac,11
+[comment]: <> ( Section 2.5 Problems 1,4,6ac,11)
 
- * **HW 3**
+[comment]: <> (  * **HW 3**)
 >
-Section 2.6 Problems 1,2,4(sqrt(5) only), A (see Canvas)
+[comment]: <> ( Section 2.6 Problems 1,2,4(sqrt(5) only), A (see Canvas))
 >
-Section 3.2 Problems 1,4,7ab(see note),8
+[comment]: <> ( Section 3.2 Problems 1,4,7ab(see note),8)
 
-For Problem 7ab, you may choose between an algebraic proof and a geometric proof.
+[comment]: <> ( For Problem 7ab, you may choose between an algebraic proof and a geometric proof.)
 >
-Section 3.3 Problems 5,10,15,17,21,23
+[comment]: <> ( Section 3.3 Problems 5,10,15,17,21,23)
 
- * **HW 4**
+ [comment]: <> ( * **HW 4**)
  
- Section 3.3 Problem 21
+[comment]: <> (  Section 3.3 Problem 21)
  
- Section 3.4 Problems 4, 8 
+[comment]: <> (  Section 3.4 Problems 4, 8 )
  
- Construction Problems A,B,C,D
+[comment]: <> (  Construction Problems A,B,C,D)
  
- &nbsp;&nbsp;A: Square a triangle.
+[comment]: <> (  &nbsp;&nbsp;A: Square a triangle.)
  
- &nbsp;&nbsp;B: Double a circle.
+ [comment]: <> ( &nbsp;&nbsp;B: Double a circle.)
  
- &nbsp;&nbsp;C: Bisect an angle.
+[comment]: <> (  &nbsp;&nbsp;C: Bisect an angle.)
  
- &nbsp;&nbsp;D: Trisect a line segment.
+[comment]: <> (  &nbsp;&nbsp;D: Trisect a line segment.)
 
  
-Section 3.5 Problems 2, 6
+[comment]: <> ( Section 3.5 Problems 2, 6)
 
-* **HW 5**
+[comment]: <> ( * **HW 5**)
 
-Section 4.2 Problems 2,3,6,8 
+[comment]: <> ( Section 4.2 Problems 2,3,6,8 )
 
-Note that for the 4.2 problems, you can use the hints in the book. You can also go to the online copy of Euclid's elements and translate his argument into your own words. (link [here](http://aleph0.clarku.edu/~djoyce/elements/elements.html).)
+[comment]: <> ( Note that for the 4.2 problems, you can use the hints in the book. You can also go to the online copy of Euclid's elements and translate his argument into your own words. (link [here](http://aleph0.clarku.edu/~djoyce/elements/elements.html).))
 
-Problem A: Read [Prop 7](http://aleph0.clarku.edu/~djoyce/elements/bookII/propII7.html) of Book II of Euclid's Elements. If AB=x,AC=c, and CB=b in the diagram, write the algebraic equality described in Proposition 7. Then show algebraically that this proposition is true. Note the hardest part of this problem is understanding what Proposition 7 is saying.
+[comment]: <> ( Problem A: Read [Prop 7](http://aleph0.clarku.edu/~djoyce/elements/bookII/propII7.html) of Book II of Euclid's Elements. If AB=x,AC=c, and CB=b in the diagram, write the algebraic equality described in Proposition 7. Then show algebraically that this proposition is true. Note the hardest part of this problem is understanding what Proposition 7 is saying.)
 
-Problem B: Repeat the directions for Problem A but for [Prop 9](http://aleph0.clarku.edu/~djoyce/elements/bookII/propII9.html). Assume AC=c, AD=a, DB=b, and CD=d.
+[comment]: <> ( Problem B: Repeat the directions for Problem A but for [Prop 9](http://aleph0.clarku.edu/~djoyce/elements/bookII/propII9.html). Assume AC=c, AD=a, DB=b, and CD=d.)
 
-Section 4.3
+[comment]: <> ( Section 4.3)
 
-Problem C: Read Euclid's proof of the infinitude of primes ([here](http://aleph0.clarku.edu/~djoyce/elements/bookIX/propIX20.html) and describe the ways in which his proof is different from a modern proof.
+[comment]: <> ( Problem C: Read Euclid's proof of the infinitude of primes ([here](http://aleph0.clarku.edu/~djoyce/elements/bookIX/propIX20.html) and describe the ways in which his proof is different from a modern proof.)
 
-Problem D: Find two open problems in mathematics concerning prime numbers. 
+[comment]: <> ( Problem D: Find two open problems in mathematics concerning prime numbers. )
 
-Problem E: Use the Euclidean Algorithm to find the greatest common divisor of 12012 and 1430.
+[comment]: <> ( Problem E: Use the Euclidean Algorithm to find the greatest common divisor of 12012 and 1430.)
 
-* **HW 6**
+[comment]: <> ( * **HW 6**)
 
-Section 4.4 Problem 4
+[comment]: <> ( Section 4.4 Problem 4)
 
-Ptolemy’s Theorem is stated precisely (with picture) in Problem 1 from this section.
+[comment]: <> ( Ptolemy’s Theorem is stated precisely (with picture) in Problem 1 from this section.)
 
-Problem A: Show that Ptolemy’s Theorem applies to every rectangle of sides a and b and then
-confirm that the conclusion of Ptolemy’s Theorem is correct for every rectangle.
+[comment]: <> ( Problem A: Show that Ptolemy’s Theorem applies to every rectangle of sides a and b and then
+confirm that the conclusion of Ptolemy’s Theorem is correct for every rectangle.)
 
-Problem B: Let the points A, B, C, and D, have the coordinates below:
+[comment]: <> ( Problem B: Let the points A, B, C, and D, have the coordinates below:)
 
-A=( - sqrt{2} , - sqrt{2} ), B = ( - 1 , sqrt{3} ), C = ( sqrt{3} , 1 ), D = ( 2, 0 )
+[comment]: <> ( A=( - sqrt{2} , - sqrt{2} ), B = ( - 1 , sqrt{3} ), C = ( sqrt{3} , 1 ), D = ( 2, 0 ))
 
-1. Show that the points ABCD lie on a circle.
+[comment]: <> ( 1. Show that the points ABCD lie on a circle.)
 
-2. Explain how you know that if point D was changed to the coordinates (2,-½), the points
-ABCD would not lie on a circle.
+[comment]: <> ( 2. Explain how you know that if point D was changed to the coordinates (2,-½), the points
+ABCD would not lie on a circle.)
 
-3. Confirm that the conclusion Ptolemy’s Theorem applies to the quadrilateral with corners
-ABCD (the original D!).
+[comment]: <> ( 3. Confirm that the conclusion Ptolemy’s Theorem applies to the quadrilateral with corners
+ABCD (the original D!).)
 
 
-Section 4.5 Problems 2,4,5,11
+[comment]: <> ( Section 4.5 Problems 2,4,5,11)
 
-Problem C: Use modern calculus to find the area of the parabolic segment bounded by y=x^2
+[comment]: <> ( Problem C: Use modern calculus to find the area of the parabolic segment bounded by y=x^2)
 and y=x+2
 
-* **HW 7** 
+[comment]: <> ( * **HW 7** )
 
-Section 5.3 Problems 13, 16, 17
+[comment]: <> ( Section 5.3 Problems 13, 16, 17)
 
-Problem A: Return to Diophantus' Problem 8 of Book II (discussed on page 220 of our text). 
-- (i) What solution will you get if instead of setting 16-x^2=(2x-4)^2, you set 16-x^2=(mx-4)^2.
-- (ii) Find a rational solution to the equation x^2+y^2=16 that Diophantus' strategy will never construct.
+[comment]: <> ( Problem A: Return to Diophantus' Problem 8 of Book II (discussed on page 220 of our text). )
+[comment]: <> ( - (i) What solution will you get if instead of setting 16-x^2=(2x-4)^2, you set 16-x^2=(mx-4)^2.)
+[comment]: <> ( - (ii) Find a rational solution to the equation x^2+y^2=16 that Diophantus' strategy will never construct.)
 
-Problem B: Go to the translation of Diophantus' *Arithmetica* [here](https://ia801603.us.archive.org/18/items/diophantusofalex00heatiala/diophantusofalex00heatiala.pdf) and read Proposition 27 from Book I.
-- (i) Rewrite the problem in modern notation.
-- (ii) Write out Diophantus' solution in modern notation.
+[comment]: <> ( Problem B: Go to the translation of Diophantus' *Arithmetica* [here])(https://ia801603.us.archive.org/18/items/diophantusofalex00heatiala/diophantusofalex00heatiala.pdf) and read Proposition 27 from Book I.)
+[comment]: <> ( - (i) Rewrite the problem in modern notation.)
+[comment]: <> ( - (ii) Write out Diophantus' solution in modern notation.)
 
-Problem C: Go to the translation of Diophantus' *Arithmetica* [here](https://ia801603.us.archive.org/18/items/diophantusofalex00heatiala/diophantusofalex00heatiala.pdf) and read Proposition 14 from Book III.
-- (i) Rewrite the problem in modern notation.
-- (ii) Write out Diophantus' solution in modern notation.
+[comment]: <> ( Problem C: Go to the translation of Diophantus' *Arithmetica* [here])(https://ia801603.us.archive.org/18/items/diophantusofalex00heatiala/diophantusofalex00heatiala.pdf) and read Proposition 14 from Book III.)
+[comment]: <> ( - (i) Rewrite the problem in modern notation.)
+[comment]: <> ( - (ii) Write out Diophantus' solution in modern notation.)
 
-Section 5.5 Problems 2, 6, 7
+[comment]: <> ( Section 5.5 Problems 2, 6, 7)
 
-* **HW 8**
+[comment]: <> ( * **HW 8**)
 
-Section 6.2 Problems 1,2
+[comment]: <> ( Section 6.2 Problems 1,2)
 
-Section 7.3 Problems 1a, 3ab, 5
+[comment]: <> ( Section 7.3 Problems 1a, 3ab, 5)
 
-Section 8.2 Problem 3  )
+[comment]: <> ( Section 8.2 Problem 3  )
 
