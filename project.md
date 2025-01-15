@@ -6,22 +6,26 @@ title: Project
 
 ## Project
 
-### Places to Look Original Sources
+### Places to Look for Original Sources
 
 * The Mathematical Association of America's [Mathematical Treasures Site](https://old.maa.org/press/periodicals/convergence/index-to-mathematical-treasures)
 * [National Museum of Mathematics](https://history-of-mathematics.org/)
 
+### Places to Look for Ideas
+
+
+
 ### Project Timeline
 
-* (Fri 17 Feb) **Project Proposal**
+* **Project Proposal**
 
-* (Fri 3 Mar) **Project Finalized** 
+* **Project Topic and Sources Finalized** 
 
-* (Fri 31 Mar) **Project First Draft**
+* **Project First Draft**
 
-* (Fri 21 Apr - Fri 28 Apr) **Student Presentations**
+* **Presentations**
 
-* (Fri 5 May) **Final Draft of Written Material**
+* **Final Draft of Paper**
 
 ### Project Grading Rubric
 
