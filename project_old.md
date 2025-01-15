@@ -3,23 +3,60 @@ layout: course-page
 title: Additional Resources
 ---
 
-## Textbooks
+## Project
 
-* **Math Through the Ages, A Gentle History for Teachers and Others** by William Berlinghof and Fernando Gouvea
-* **A History of Mathematics** by Victor Katz
-* **Journey through Genius** by William Dunham
+### Places to Look for Project Ideas
 
-## Interesting Links
+* William Dunham's **Journey through Genius**
+* Howard Eves' **Great Moments in Mathematics**
+* Nicholas J. Goetzfridt's **Pacific Ethnomathematics**
+* Marcia Ascher's **Ethnomathematics**
+* The Mathematical Association of America's [Mathematical Treasures Webpage](https://www.maa.org/press/periodicals/convergence/index-to-mathematical-treasures)
+* Our text book
+* University of St. Andrews [project ideas](https://mathshistory.st-andrews.ac.uk/OtherIndexes/histtopics/)
+* National Museum of Mathematics [webpage](https://history-of-mathematics.org/)
 
-* [Link](https://www.si.edu/newsdesk/snapshot/quipu) to quipu pictures and information from the Smithsonian.
-* [Link](https://legacy-www.math.harvard.edu/~knill/teaching/summer2019/exhibits/algebra/AlgebraMohammedBenMusa.pdf) to pdf of Frederic Rosen's 1831 translation of Al Khwarizmi's *Algebra*
-* [Link](https://ia801603.us.archive.org/18/items/diophantusofalex00heatiala/diophantusofalex00heatiala.pdf) to pdf of Thomas Heaths 1910 translation of Diophantus' *Arithmetica*
-* [Link](https://www.maa.org/external_archive/devlin/devlin_02_04.html) to Kevin Devlin's article for the MAA about the Cattle of the Sun problem.
-* [Notes](assets/Book-I-Notes.pdf) from Fri 24 Feb on Book I of Euclid's Elements
-* [Video](https://www.youtube.com/watch?v=uQ-1iBdhm8M) of Euclid's proof of the Pythagorean Theorem
-* [Link](http://aleph0.clarku.edu/~djoyce/elements/elements.html) to Euclid's Elements
-* [Notes](assets/InClassNotesMon-26.pdf) for Mon 27 Feb
-* [Video](https://www.youtube.com/watch?v=skvnj67YGmw) of Brachistochrome
-* [Notes](assets/Class-notes-20-mar.pdf) from Mon 20 Mar
+### Some Specific Project Ideas
+
+* Any topic that we skim over in class.
+* First steps in the development of Probability, Statistics, Topology, Graph Theory, Complex numbers, Combinatorics
+* Zeno's Paradoxes
+* Perfect numbers, amicable numbers
+* Early formulations of logarithms
+* Early formulations of the notion of a function
+
+### Project Timeline
+
+* (Fri 17 Feb) **Project Proposal**
+  * topic and rough narrative
+  * two sources
+  * submit a PDF to Jill's email
+
+* (Fri 3 Mar) **Project Finalized** 
+
+* (Fri 31 Mar) **Project First Draft**
+  * presentation slides
+  * written materials to students
+  * submit pdf and slides to Jill's email
+  * sketched written materials are not acceptable
+
+* (Fri 21 Apr - Fri 28 Apr) **Student Presentations**
+  * The presenter provides reading materials to students at least 2 days in advance.
+  * At least two reading questions
+  * 15 minute presentation with 10 minutes for questions
+
+* (Fri 5 May) **Final Draft of Written Material**
+  * submit a PDF to Jill's email
+
+### Project Grading Rubric
+
+| Component | Percent of Project Score | Standards |
+|-----------| --------------------------|-------------|
+| on time submission | 10| If you are late you lose points.|
+|complete negotiated proposal | 10 | All or nothing.|
+| first draft | 10 | 0-5-10 scale |
+| presentation | 20 | 0-10-20 scale |
+| final paper | 50 | quality of writing, clarity of mathematics|
 
 <div style="padding-bottom: 40px"></div>
+
