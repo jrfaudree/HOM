@@ -21,7 +21,7 @@ title: Exams
 
 * Midterm 3: &nbsp;&nbsp; [review](assets/midterms/M316s23_M3_Review.pdf)&nbsp;&nbsp; [questions](assets/midterms/M316s23_M3_q.pdf) &nbsp;&nbsp; [blank](assets/midterms/M316s23-Mid3.pdf)  &nbsp;&nbsp; [solutions](assets/midterms/M316s23-Mid3-s.pdf)
 
-* Final Exam: &nbsp;&nbsp; [review](assets/midterms/M316s23_FE_Review.pdf)&nbsp;&nbsp; [questions](assets/midterms/M316s23_FE_q.pdf) &nbsp;&nbsp; [blank](assets/midterms/.pdf)  &nbsp;&nbsp; [solutions](assets/midterms/.pdf)
+* Final Exam: &nbsp;&nbsp; [review](assets/midterms/M316s23_FE_Review.pdf)&nbsp;&nbsp; [questions](assets/midterms/M316s23_FE_q.pdf) &nbsp;&nbsp; [blank](assets/midterms/M316s23-FE.pdf)  &nbsp;&nbsp; [solutions](assets/midterms/M316s23-FE-s.pdf)
 
 ### Spring 2017
 * Midterm: &nbsp;&nbsp; [blank](assets/oldexams/M306S17_Mid1_part_1_and_2.pdf),  &nbsp;&nbsp;  [solutions](assets/oldexams/M306S17_Mid1_part_1_and_2-solutions.pdf)
