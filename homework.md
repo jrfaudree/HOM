@@ -7,9 +7,9 @@ title: Homework
 ## Homework Guidelines
 
   * The problems in the list below come from our textbook.
-  * Homework is due by 11:59PM on the due date on the [Schedule](assets/general/schedule.pdf).  
-  * Turn in your homework via Gradescope, which is accessed via [Canvas](https://canvas.alaska.edu).
-  * Complete solutions are posted _in advance_ at the [Canvas](https://canvas.alaska.edu). 
+  * Homework is due by 11:59PM on the due date on the [Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vRSXy8PBXnJpR7xxhggG7TRmXVr_T20drE4qSHNJthFCJuujuz7XPa606VCXAP73R40e4WRB37YEvSI/pubhtml).  
+  * Turn in your homework via Canvas under the Assignments link.
+  * Complete solutions are posted _in advance_ in Canvas under the Assignments link. 
   * Homework will be graded on completion and effort.  You should get 100% on your homework!
 
 ### Homework Problems
@@ -26,7 +26,7 @@ Section 2.3 Problems 1c,2ad,3a,6,10,19(for 7 loaves only),20(Problem 26 only),24
 >
 Section 2.4 Problems 1c,2,6,9
 >
-Section 2.5 Problems 1,4,6ac,11
+#Section 2.5 Problems 1,4,6ac,11
 
  * **HW 3**
 >
