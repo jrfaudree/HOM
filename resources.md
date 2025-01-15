@@ -11,6 +11,7 @@ title: Additional Resources
 
 ## Interesting Links
 
+* [Link](https://www.si.edu/newsdesk/snapshot/quipu) to quipu pictures and information from the Smithsonian.
 * [Link](https://legacy-www.math.harvard.edu/~knill/teaching/summer2019/exhibits/algebra/AlgebraMohammedBenMusa.pdf) to pdf of Frederic Rosen's 1831 translation of Al Khwarizmi's *Algebra*
 * [Link](https://ia801603.us.archive.org/18/items/diophantusofalex00heatiala/diophantusofalex00heatiala.pdf) to pdf of Thomas Heaths 1910 translation of Diophantus' *Arithmetica*
 * [Link](https://www.maa.org/external_archive/devlin/devlin_02_04.html) to Kevin Devlin's article for the MAA about the Cattle of the Sun problem.
