@@ -26,7 +26,7 @@ Section 2.3 Problems 1c,2ad,3a,6,10,19,20 (For problems 19 and 20, complete the 
 
 Section 2.4 Problems 1c,2,6,9
 
-Section 2.5 Problems 1,4,6ac,11
+Section 2.5 Problems 1,4,6ac,9,11
 
 [comment]: <> (  * **HW 3**)
 >
