@@ -14,21 +14,19 @@ title: Homework
 
 ### <span style="color:red"> Assigned </span> Homework Problems
 
-  * **HW 1** 
-  >
+  * **HW 1**
+    
   Section 1.2 Problems 1a,2a,3a,3d,4,5d,6c,7c,9a,10a,11a,12e,13a
->
-Section 1.3 Problems 1af,2b,3,4b,5,6af,9,13af,15b,17abceg
+  
+  Section 1.3 Problems 1af,2b,3,4b,5,6af,9,13af,15b,17abceg
 
-[comment]: <> ( ### <span style="color:red"> Tentative </span> Homework Problems)
+ * **HW 2** 
 
-[comment]: <> (  * **HW 2** )
->
-[comment]: <> ( Section 2.3 Problems 1c,2ad,3a,6,10,19(for 7 loaves only),20(Problem 26 only),24)
->
-[comment]: <> ( Section 2.4 Problems 1c,2,6,9)
->
-[comment]: <> ( Section 2.5 Problems 1,4,6ac,11)
+Section 2.3 Problems 1c,2ad,3a,6,10,19,20 (For problems 19 and 20, complete the entire problem using Egyptian arithmetic and without modern algebraic notation or arithmetic.)
+
+Section 2.4 Problems 1c,2,6,9
+
+Section 2.5 Problems 1,4,6ac,11
 
 [comment]: <> (  * **HW 3**)
 >
