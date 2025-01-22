@@ -5,7 +5,7 @@ title: Faudree's Math 316 History of Math at UAF
 
 Welcome to the homepage of **Math 314 Introduction to the History of Mathematics course**.
 
-<span style="color:red">**This Page is UNDER CONSTRUCTION for SPRING 2025**</span>
+[comment]: <> ( <span style="color:red">**This Page is UNDER CONSTRUCTION for SPRING 2025**</span>)
 
 #### Instructor:  [Jill Faudree](http://jrfaudree.github.io/)
 
