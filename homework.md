@@ -28,15 +28,13 @@ Section 2.4 Problems 1c,2,6,9
 
 Section 2.5 Problems 1,4,6ac,9,11 (Work problem 4 two ways: as a modern human and as a Babylonian (ie use the hint).)
 
-[comment]: <> (  * **HW 3**)
->
-[comment]: <> ( Section 2.6 Problems 1,2,4(sqrt(5) only), A (see Canvas))
->
-[comment]: <> ( Section 3.2 Problems 1,4,7ab(see note),8)
+ * **HW 3** 
 
-[comment]: <> ( For Problem 7ab, you may choose between an algebraic proof and a geometric proof.)
->
-[comment]: <> ( Section 3.3 Problems 5,10,15,17,21,23)
+Section 2.6 Problems 1,2,4, [Problem A]()
+
+Section 3.2 Problems 1,4,7,8
+
+Section 3.3 Problems 5,10,15,17,21,23
 
  [comment]: <> ( * **HW 4**)
  
