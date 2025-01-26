@@ -32,7 +32,7 @@ Section 2.5 Problems 1,4,6ac,9,11 (Work problem 4 two ways: as a modern human an
 
 Section 2.6 Problems 1,2,4,7, [Problem A](assets/homework/HW-s-2-6-Problem-A.pdf)
 
-Section 3.2 Problems 1,4,7,8
+Section 3.2 Problems 1,4,7abc,8
 
 Section 3.3 Problems 5,10,15,17,21,23
 
