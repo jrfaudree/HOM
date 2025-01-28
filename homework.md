@@ -34,26 +34,21 @@ Section 2.6 Problems 1,2,4,7, [Problem A](assets/homework/HW-s-2-6-Problem-A.pdf
 
 Section 3.2 Problems 1,4,7abc,8
 
-Section 3.3 Problems 5,10,15,17,21,23
+Section 3.3 Problems 5,15,17,21,23
+ 
+Section 3.4 Problems 4, 8 
+ 
+Construction Problems A,B,C,D
+ 
+&nbsp;&nbsp;A: Square a triangle.
 
- [comment]: <> ( * **HW 4**)
+&nbsp;&nbsp;B: Double a circle.
  
-[comment]: <> (  Section 3.3 Problem 21)
+&nbsp;&nbsp;C: Bisect an angle.
  
-[comment]: <> (  Section 3.4 Problems 4, 8 )
- 
-[comment]: <> (  Construction Problems A,B,C,D)
- 
-[comment]: <> (  &nbsp;&nbsp;A: Square a triangle.)
- 
- [comment]: <> ( &nbsp;&nbsp;B: Double a circle.)
- 
-[comment]: <> (  &nbsp;&nbsp;C: Bisect an angle.)
- 
-[comment]: <> (  &nbsp;&nbsp;D: Trisect a line segment.)
+&nbsp;&nbsp;D: Trisect a line segment.
 
- 
-[comment]: <> ( Section 3.5 Problems 2, 6)
+Section 3.5 Problems 2, 3
 
 [comment]: <> ( * **HW 5**)
 
