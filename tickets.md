@@ -7,11 +7,14 @@ title: Tickets
 
 <div class="x-scroll">
 <table class="asst-table">
-<tr><th>Date</th><th>Ticket</th><th>Worksheet</th></tr>
+<tr><th>Date</th><th>No.</th><th>Ticket</th><th>Worksheet</th></tr>
 {% for c in site.data.ticket_s2025 %}
 <tr valign="top">
   <td>
     {{ c.day }}
+  </td>
+  <td>
+    {{ c.number }}
   </td>
   <td>
     <table class="inner">
