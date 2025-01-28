@@ -20,11 +20,16 @@
   wfilled: 
 - day: Mon 27 Jan
   ticket: https://jrfaudree.github.io/HOM/assets/tickets/t5.pdf
-  tfilled: 
+  tfilled: https://jrfaudree.github.io/HOM/assets/tickets/t5s.pdf
   worksheet: 
   wfilled: 
 - day: Wed 29 Jan
   ticket: https://jrfaudree.github.io/HOM/assets/tickets/t6.pdf
+  tfilled: 
+  worksheet: 
+  wfilled: 
+- day: Fri 31 Jan
+  ticket: https://jrfaudree.github.io/HOM/assets/tickets/t7.pdf
   tfilled: 
   worksheet: 
   wfilled: 
