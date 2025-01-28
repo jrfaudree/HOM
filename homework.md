@@ -37,7 +37,9 @@ Section 3.2 Problems 1,4,7abc,8
 Section 3.3 Problems 5,15,17,21,23
  
 Section 3.4 Problems 4, 8 
- 
+
+Section 3.5 Problems 2, 3
+
 Construction Problems A,B,C,D
  
 &nbsp;&nbsp;A: Square a triangle.
@@ -47,8 +49,6 @@ Construction Problems A,B,C,D
 &nbsp;&nbsp;C: Bisect an angle.
  
 &nbsp;&nbsp;D: Trisect a line segment.
-
-Section 3.5 Problems 2, 3
 
 [comment]: <> ( * **HW 5**)
 
