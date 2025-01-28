@@ -1,9 +1,11 @@
 - day: Wed 15 Jan
+  number: 1
   ticket: https://jrfaudree.github.io/HOM/assets/tickets/t1.pdf
   tfilled: https://jrfaudree.github.io/HOM/assets/tickets/t1s.pdf
   worksheet: https://jrfaudree.github.io/HOM/assets/worksheets/ws-numerical-1-added.pdf
   wfilled: https://jrfaudree.github.io/HOM/assets/worksheets/ws-numerical-1-added-s.pdf
 - day: Fri 17 Jan
+  number: 2
   ticket: https://jrfaudree.github.io/HOM/assets/tickets/t2.pdf
   tfilled: https://jrfaudree.github.io/HOM/assets/tickets/t2s.pdf
   worksheet: https://jrfaudree.github.io/HOM/assets/worksheets/ws-numerical-2-added.pdf
