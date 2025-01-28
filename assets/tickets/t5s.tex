@@ -1,0 +1,69 @@
+% !TEX TS-program = pdflatexmk
+\documentclass[12pt]{article}
+
+% Layout.
+\usepackage[top=1in, bottom=0.75in, left=1in, right=1in, headheight=1in, headsep=6pt]{geometry}
+
+% Fonts.
+\usepackage{mathptmx}
+\usepackage[scaled=0.86]{helvet}
+\renewcommand{\emph}[1]{\textsf{\textbf{#1}}}
+
+% Misc packages.
+\usepackage{amsmath,amssymb,latexsym}
+\usepackage{graphicx,hyperref}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{multicol}
+\usepackage{tabularx,colortbl}
+\usepackage{enumitem}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy} 
+\lhead{\large\sf\textbf{MATH 316: History of Math}}
+\rhead{\large\sf\textbf{Ticket 5 (\S 2.5-2.6)}}
+
+\begin{document}
+
+\begin{center} Jill's Solutions \end{center}
+
+\begin{enumerate}
+\item Read Burton \S 2.5-2.6. Summarize the mathematical topics discussed in these sections using at most two sentences.\\
+
+Section 2.5 describes division and algebra of ancient Babylonians including the use of tables of reciprocals and methods of solving systems of equations that are equivalent to quadratic equations. Section 2.6 Babylonian tables of Pythagorean triples and an Egyptian method for approximating square roots.\\
+
+\item Use the table of reciprocals on page 63 to calculate 10 divided by 8.\\
+
+$10 \div 8 = 10 \times (7;30)=70;300=1,10;300=1,15=1;15$
+\vfill
+\item Use our modern quadratic formula to solve the equation $x^2+ax=b$ and show it is algebraically (almost) equivalent to $x=\sqrt{\left(\frac{a}{2}\right)^2-b}-\frac{a}{2}.$\\
+
+First, rewrite the equation as $x^2+ax-b=0.$ Then, applying the modern quadratic equation gives: \\
+
+$x=\displaystyle{\frac{-a \pm \sqrt{a^2-4(1)(b)}}{2}=\pm \sqrt{\frac{a^2-4b}{4}}-\frac{a}{2}=\sqrt{\left(\frac{a}{2}\right)^2-b}-\frac{a}{2}}$ if you ignore the negative square root.
+\vfill
+\item Consider the system of equations $x+y=\frac{13}{2}$ and $xy=\frac{15}{2}$.
+	\begin{enumerate}
+	\item Solve this system by eliminating one of the variables.\\
+	
+	Since $y=15/(2x),$ plugging into the first equation and re-arranging we get $2x^2-13x+15=0.$ Plugging into the quadratic equation gives $x=5$ or $x=3/2.$ So, $\{x,y\}=\{5,3/2\}.$
+	\vfill
+	\item Restate the problem and the solution in terms of semi-perimeter and area of a rectangle.\\
+	
+	Suppose we want to find a rectangle with semi-perimeter of $\frac{13}{2}$ and area of $\frac{15}{2}$, then we need one side to be 5 and the other side to be $\frac{3}{2}.$
+	\vfill
+	\end{enumerate}
+\item Pick two positive integers $m$ and $n$ such that $m>n$ and $m$ and $n$ are not both even.
+	\begin{enumerate}
+	\item Show that $x=2mn,$ $y=m^2-n^2$ and $z=m^2+n^2$ form a Pythagorean triple.\\
+	
+	I picked $m=13$ and $n=7$, both prime.\\
+	Then $x=2(13)(7)=182, y=(13)^2-7^2=120,$ and $z=(13)^2+7^2=218.$\\
+	Check $(182)^2+(120)^2=47524=(218)^2.$
+	\vfill
+	\item Is your triple primitive? No. All the numbers are even.
+	\vfill
+	\end{enumerate}
+\end{enumerate}
+
+\end{document}
