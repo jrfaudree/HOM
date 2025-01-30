@@ -31,12 +31,18 @@
 - day: Wed 29 Jan
   number: "6"
   ticket: https://jrfaudree.github.io/HOM/assets/tickets/t6.pdf
-  tfilled: 
+  tfilled: https://jrfaudree.github.io/HOM/assets/tickets/t6s.pdf
   worksheet: 
   wfilled: 
 - day: Fri 31 Jan
   number: "7"
   ticket: https://jrfaudree.github.io/HOM/assets/tickets/t7.pdf
+  tfilled: 
+  worksheet: 
+  wfilled: 
+- day: Mon 3 Feb
+  number: "8"
+  ticket: https://jrfaudree.github.io/HOM/assets/tickets/t8.pdf
   tfilled: 
   worksheet: 
   wfilled: 
