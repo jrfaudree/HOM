@@ -1,0 +1,84 @@
+% !TEX TS-program = pdflatexmk
+\documentclass[12pt]{article}
+
+% Layout.
+\usepackage[top=1in, bottom=0.75in, left=1in, right=1in, headheight=1in, headsep=6pt]{geometry}
+
+% Fonts.
+\usepackage{mathptmx}
+\usepackage[scaled=0.86]{helvet}
+\renewcommand{\emph}[1]{\textsf{\textbf{#1}}}
+
+% Misc packages.
+\usepackage{amsmath,amssymb,latexsym}
+\usepackage{graphicx,hyperref}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{multicol}
+\usepackage{tabularx,colortbl}
+\usepackage{enumitem}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy} 
+\lhead{\large\sf\textbf{MATH 316: History of Math}}
+\rhead{\large\sf\textbf{Ticket 7 (\S 3.3-3.5)}}
+
+\begin{document}
+
+
+\begin{enumerate}
+\item Read Burton \S 3.3-3.5 and you are given permission to do so \emph{lightly}. 
+
+In section 3.3, our focus will be on (i) geometric proofs of the Pythagorean Theorem, (ii) the word \emph{incommensurable}, and (iii) what is meant by the \emph{crisis of incommensurable quantities}.
+
+In Section 3.4, our focus is on (i) what counts as a \emph{geometric construction}, (ii) what are the three construction problems of antiquity, which requires knowing the word \emph{quadrature}. In class, we will show Hippocrates' quadrature of the lune.
+
+In Section 3.5, our focus in on the curve called a \emph{quadratrix}, its definition and its uses.
+
+\begin{center} Section 3.3 Questions \end{center}
+
+\item Supposing that the triangle with sides $a$, $b$ and $c$ is a right triangle, explain how the pictures below ``prove" that $a^2+b^2=c^2.$ What facts from geometry are being \emph{implicitly} used in these pictures/arguments?
+
+\includegraphics[scale=.7]{t7pic}
+
+Argument: Both figures are of a square on side $a+b$ thus they must have the same area. Both figures have 4 copies of the triangle on sides $a,$ $b$, and $c$. Thus the area that remains after those 4 triangles are deleted must be equal. Call this the left-over area. In the left figure, the left-over area has area $a^2+b^2$. In the right figure, the left-over area is $c^2.$ Since these are equal, we conclude $a^2+b^2=c^2.$
+
+Implied assumptions: The angles of a triangle sum to 180. If the sides of two triangles are equal, then the triangles are congruent. Said a different way, we are assuming that figures fit together the way it appears. So the sides of the figure really are straight line and not very slightly bent.\\
+
+\item (pg 109) What does it mean for two line segments to be \emph{commensurable}? What does it mean for two line segments to be \emph{incommensurable}? (Note that in neither case are you allowed to use the words rational or irrational.)\\
+
+Two line segments are \emph{commensurable} if it is possible to find a third line segment that measures out the first two line segments an even number of times. For example, segment A and segment B are commensurable if I can find a segment C such that A has length $k$C and B has length $\ell$C where $k$ and $\ell$ are integers.\\
+
+Two line segments are \emph{incommensurable} if no common measure is possible. That is, any segment that measures $A$ will fail to measure $B.$\\
+
+\item In one sentence, what was the \emph{crisis of incommensurable quantities}? 
+
+The discovery that the diagonal of a square is incommensurable with its side.\\
+That the diagonal of a unit square is an irrational number.\\
+That $\sqrt(2)$ is irrational.\\
+
+\item Using modern terminology and in one sentence, why is this a \emph{crisis}?\\
+
+If you believe all numbers are integers or ratios of integers, then there is no number to represent the length of the diagonal of the unit square. On the other hand, if there is a number for this length, clearly you do not understand numbers.\\
+
+\begin{center} Section 3.4 Questions \end{center}
+
+\item What do ancient Greek mathematicians mean by a \emph{geometric construction}? (pg 121)\\
+One is allowed to construct something using a straight edge and a compass. No other tools. No measurement (of lengths or angles) is allowed.
+\item Restate in modern language the \emph{quadrature of the circle} problem.\\
+Given a particular circle, construct a square with the same area. 
+\item What does the author mean by the \emph{three construction problems of antiquity}? Why does he devote an entire section to them?\\
+
+The three problems are: quadrature of the circle, duplication of the cube, trisection of an angle.\\
+These problems are hard and attempts to answer them inspired a lot of new mathematics over more than a thousand years.\\
+
+\begin{center} Section 3.5 Questions \end{center}
+
+\item How is the curve called a \emph{quadratrix} defined?\\
+
+It is defined via the intersection two lines moving a constant velocity. The horizontal line starts at the top of the square and drops down. The second line begins on the left vertical side of the square and rotates clockwise around the lower-left corner. Both lines start at the same time and end in the same position: as a horizontal line at the bottom of the square. The curve is the set of intersection points of these two lines as they move from their starting positions to their ending position.\\
+\item Why is the curve important?\\
+It is one of the first curves that is not a straight edge and compass construction. It was used to trisect an angle and square the circle.
+
+\end{enumerate}
+\end{document}
