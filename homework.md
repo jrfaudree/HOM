@@ -81,7 +81,7 @@ Section 4.5 Problems 2,4,5,11
 
 [comment]: <> ( * **HW 7** )
 
-Section 5.3 Problems 13, 16, 17, Problems A-C belos
+Section 5.3 Problems 13, 16, 17, Problems A-C below
 
 **Problem A** Return to Diophantus' Problem 8 of Book II (discussed on page 220 of our text).
  - (i) What solution will you get if instead of setting 16-x^2=(2x-4)^2, you set 16-x^2=(mx-4)^2.
