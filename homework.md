@@ -52,21 +52,21 @@ Construction Problems A,B,C,D
 
 * **HW 4**
 
-Section 4.2 Problems 2,3,6,8,12,Problem A (below)
+Section 4.2 Problems 2,3,6,8,12,Problems A-F (below)
 
 **Problem A** Show that the figure on page 160 does construct the solution to ax=bc.
 
 Note that for problems 2,3,6,and 8, you can use the hints in the book. You can also go to the online copy of Euclid's elements and translate his argument into your own words. (link [here](http://aleph0.clarku.edu/~djoyce/elements/elements.html).)
 
-Problem B: Read [Prop 7](http://aleph0.clarku.edu/~djoyce/elements/bookII/propII7.html) of Book II of Euclid's Elements. If AB=x,AC=c, and CB=b in the diagram, write the algebraic equality described in Proposition 7. Then show algebraically that this proposition is true. Note the hardest part of this problem is understanding what Proposition 7 is saying.
+**Problem B** Read [Prop 7](http://aleph0.clarku.edu/~djoyce/elements/bookII/propII7.html) of Book II of Euclid's Elements. If AB=x,AC=c, and CB=b in the diagram, write the algebraic equality described in Proposition 7. Then show algebraically that this proposition is true. Note the hardest part of this problem is understanding what Proposition 7 is saying.
 
-Problem C: Repeat the directions for Problem B but for [Prop 9](http://aleph0.clarku.edu/~djoyce/elements/bookII/propII9.html). Assume AC=c, AD=a, DB=b, and CD=d.
+**Problem C** Repeat the directions for Problem B but for [Prop 9](http://aleph0.clarku.edu/~djoyce/elements/bookII/propII9.html). Assume AC=c, AD=a, DB=b, and CD=d.
 
-Problem D: Read Euclid's proof of the infinitude of primes ([here](http://aleph0.clarku.edu/~djoyce/elements/bookIX/propIX20.html) and describe how his proof is different from a modern proof.)
+**Problem D** Read Euclid's proof of the infinitude of primes ([here](http://aleph0.clarku.edu/~djoyce/elements/bookIX/propIX20.html) and describe how his proof is different from a modern proof.)
 
-Problem E: Find two open problems in mathematics concerning prime numbers. 
+**Problem E** Find two open problems in mathematics concerning prime numbers. 
 
-Problem F: Use the Euclidean Algorithm to find the greatest common divisor of 12012 and 1430.
+**Problem F** Use the Euclidean Algorithm to find the greatest common divisor of 12012 and 1430.
 
 Section 4.4 Problem 4
 
