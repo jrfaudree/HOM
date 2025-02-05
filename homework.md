@@ -68,46 +68,32 @@ Note that for problems 2,3,6,and 8, you can use the hints in the book. You can a
 
 **Problem F** Use the Euclidean Algorithm to find the greatest common divisor of 12012 and 1430.
 
-Section 4.4 Problem 4
+* **HW 5**
 
-Ptolemy’s Theorem is stated precisely (with picture) in Problem 1 from this section.
+Section 4.4 Problem 4, Problem A below.
 
-[comment]: <> ( Problem A: Show that Ptolemy’s Theorem applies to every rectangle of sides a and b and then)
-[comment]: <> (confirm that the conclusion of Ptolemy’s Theorem is correct for every rectangle.)
+**Problem A** Suppose you wake up on a new planet with a different sun but the same planet-sun orientation as on earth. Suppose two people place a 1-meter-long stick and measure its shadow on the same day. At location X, the stick has no shadow but at location Y the stick has a shadow of length 0.1 m. If Y is 500 km north of X, find the radius of this new planet using Eratosthenes' method. 
 
-[comment]: <> ( Problem B: Let the points A, B, C, and D, have the coordinates below:)
-
-[comment]: <> ( A=( - sqrt{2} , - sqrt{2} ), B = ( - 1 , sqrt{3} ), C = ( sqrt{3} , 1 ), D = ( 2, 0 ))
-
-[comment]: <> ( 1. Show that the points ABCD lie on a circle.)
-
-[comment]: <> ( 2. Explain how you know that if point D was changed to the coordinates (2,-½), the points)
-[comment]: <> (ABCD would not lie on a circle.)
-
-[comment]: <> ( 3. Confirm that the conclusion Ptolemy’s Theorem applies to the quadrilateral with corners)
-[comment]: <> (ABCD (the original D!).)
-
-
-[comment]: <> ( Section 4.5 Problems 2,4,5,11)
+Section 4.5 Problems 2,4,5,11
 
 [comment]: <> ( Problem C: Use modern calculus to find the area of the parabolic segment bounded by y=x^2)
 [comment]: <> (and y=x+2)
 
 [comment]: <> ( * **HW 7** )
 
-[comment]: <> ( Section 5.3 Problems 13, 16, 17)
+Section 5.3 Problems 13, 16, 17, Problems A-C belos
 
-[comment]: <> ( Problem A: Return to Diophantus' Problem 8 of Book II (discussed on page 220 of our text). )
-[comment]: <> ( - (i) What solution will you get if instead of setting 16-x^2=(2x-4)^2, you set 16-x^2=(mx-4)^2.)
-[comment]: <> ( - (ii) Find a rational solution to the equation x^2+y^2=16 that Diophantus' strategy will never construct.)
+**Problem A** Return to Diophantus' Problem 8 of Book II (discussed on page 220 of our text).
+ - (i) What solution will you get if instead of setting 16-x^2=(2x-4)^2, you set 16-x^2=(mx-4)^2.
+ - (ii) Find a rational solution to the equation x^2+y^2=16 that Diophantus' strategy will never construct.
 
-[comment]: <> ( Problem B: Go to the translation of Diophantus' *Arithmetica* [here])(https://ia801603.us.archive.org/18/items/diophantusofalex00heatiala/diophantusofalex00heatiala.pdf) and read Proposition 27 from Book I.)
-[comment]: <> ( - (i) Rewrite the problem in modern notation.)
-[comment]: <> ( - (ii) Write out Diophantus' solution in modern notation.)
+**Problem B** Go to the translation of Diophantus' *Arithmetica* [here])(https://ia801603.us.archive.org/18/items/diophantusofalex00heatiala/diophantusofalex00heatiala.pdf) and read Proposition 27 from Book I.
+- (i) Rewrite the problem in modern notation.
+- (ii) Write out Diophantus' solution in modern notation.
 
-[comment]: <> ( Problem C: Go to the translation of Diophantus' *Arithmetica* [here])(https://ia801603.us.archive.org/18/items/diophantusofalex00heatiala/diophantusofalex00heatiala.pdf) and read Proposition 14 from Book III.)
-[comment]: <> ( - (i) Rewrite the problem in modern notation.)
-[comment]: <> ( - (ii) Write out Diophantus' solution in modern notation.)
+**Problem C** Go to the translation of Diophantus' *Arithmetica* [here])(https://ia801603.us.archive.org/18/items/diophantusofalex00heatiala/diophantusofalex00heatiala.pdf) and read Proposition 14 from Book III.
+- (i) Rewrite the problem in modern notation.
+- (ii) Write out Diophantus' solution in modern notation.
 
 [comment]: <> ( Section 5.5 Problems 2, 6, 7)
 
