@@ -89,11 +89,11 @@ Section 5.3 Problems 13, 16, 17, Problems A-C below
  - (i) What solution will you get if instead of setting 16-x^2=(2x-4)^2, you set 16-x^2=(mx-4)^2.
  - (ii) Find a rational solution to the equation x^2+y^2=16 that Diophantus' strategy will never construct.
 
-**Problem B** Go to the translation of Diophantus' *Arithmetica* [here])(https://ia801603.us.archive.org/18/items/diophantusofalex00heatiala/diophantusofalex00heatiala.pdf) and read Proposition 27 from Book I.
+**Problem B** Go to the translation of Diophantus' *Arithmetica* [here](https://ia801603.us.archive.org/18/items/diophantusofalex00heatiala/diophantusofalex00heatiala.pdf) and read Proposition 27 from Book I.
 - (i) Rewrite the problem in modern notation.
 - (ii) Write out Diophantus' solution in modern notation.
 
-**Problem C** Go to the translation of Diophantus' *Arithmetica* [here])(https://ia801603.us.archive.org/18/items/diophantusofalex00heatiala/diophantusofalex00heatiala.pdf) and read Proposition 14 from Book III.
+**Problem C** Go to the translation of Diophantus' *Arithmetica* [here](https://ia801603.us.archive.org/18/items/diophantusofalex00heatiala/diophantusofalex00heatiala.pdf) and read Proposition 14 from Book III.
 - (i) Rewrite the problem in modern notation.
 - (ii) Write out Diophantus' solution in modern notation.
 
