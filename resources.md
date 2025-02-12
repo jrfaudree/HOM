@@ -19,6 +19,7 @@ title: Additional Resources
 * [Notes](assets/Book-I-Notes.pdf) from Fri 24 Feb on Book I of Euclid's Elements
 * [Video](https://www.youtube.com/watch?v=uQ-1iBdhm8M) of Euclid's proof of the Pythagorean Theorem
 * [Link](http://aleph0.clarku.edu/~djoyce/elements/elements.html) to Euclid's Elements
+* [3Blue1Brown Video](https://www.youtube.com/watch?v=YdOXS_9_P4U) describing how ancient mathematicians determined the radius of the Earth, the distance between the Earth and the Moon, and the distance between the Earth and the Sun.
 * [Notes](assets/InClassNotesMon-26.pdf) for Mon 27 Feb
 * [Video](https://www.youtube.com/watch?v=skvnj67YGmw) of Brachistochrome
 * [Notes](assets/Class-notes-20-mar.pdf) from Mon 20 Mar
