@@ -67,7 +67,7 @@
 - day: Wed 12 Feb
   number: "12"
   ticket: https://jrfaudree.github.io/HOM/assets/tickets/t12.pdf
-  tfilled: 
+  tfilled: https://jrfaudree.github.io/HOM/assets/tickets/t12s.pdf
   worksheet: 
   wfilled:
 - day: Fri 14 Feb
@@ -76,4 +76,9 @@
   tfilled: 
   worksheet: 
   wfilled:
-  
+- day: Mon 17 Feb
+  number: "14"
+  ticket: https://jrfaudree.github.io/HOM/assets/tickets/t14.pdf
+  tfilled: 
+  worksheet: 
+  wfilled:
