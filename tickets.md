@@ -18,9 +18,11 @@ title: Tickets
   </td>
   <td>
     <table class="inner">
+      {% if c.ticket %}
       <tr>
          <td> <a href="{{ c.ticket }}">blank</a> </td>
       </tr>
+      {% endif %}
       {% if c.tfilled %}
       <tr>
          <td> <a href="{{ c.tfilled }}">filled</a> </td>
