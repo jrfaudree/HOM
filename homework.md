@@ -97,11 +97,13 @@ Section 5.3 Problems 13, 16, 17, Problems A-C below
 - (i) Rewrite the problem in modern notation.
 - (ii) Write out Diophantus' solution in modern notation.
 
-[comment]: <> ( Section 5.5 Problems 2, 6, 7)
+* **HW 6**
 
-[comment]: <> ( * **HW 8**)
+Section 5.2 Problems 14ab, 21
 
-[comment]: <> ( Section 6.2 Problems 1,2)
+Section 5.5 Problems 1c (Draw a corresponding picture), 2, 6, 7, 15 (Show your work to earn credit!)
+
+Section 6.2 Problems 1, 2, 4
 
 [comment]: <> ( Section 7.3 Problems 1a, 3ab, 5)
 
