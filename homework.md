@@ -99,7 +99,7 @@ Section 5.3 Problems 13, 16, 17, Problems A-C below
 
 * **HW 6**
 
-Section 5.2 Problems 14ab, 21
+Section 5.3 Problems 14ab, 21
 
 Section 5.5 Problems 1c (Draw a corresponding picture), 2, 6, 7, 15 (Show your work to earn credit!)
 
