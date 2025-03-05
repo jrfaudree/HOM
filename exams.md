@@ -7,7 +7,7 @@ title: Exams
 
 ### Spring 2025
 
-* Midterm 1  &nbsp;&nbsp; [review](assets/midterms/M316S25_M1Q.pdf)&nbsp;&nbsp;
+* Midterm 1  &nbsp;&nbsp; [review](assets/midterms/M316S25_M1Q.pdf)&nbsp;&nbsp;[blank](assets/midterms/M316S25_E1.pdf)&nbsp;&nbsp;[solutions](assets/midterms/M316S25_E1-sQ.pdf)&nbsp;&nbsp;
 
 
 * Midterm 2 info will appear here.
