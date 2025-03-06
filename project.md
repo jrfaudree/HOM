@@ -17,23 +17,32 @@ title: Project
 
 ### Project Timeline
 
-* **Project Proposal**
-  Wednesday March 26
+* (Wed March 26) **Project Proposal** must include
+  * mathematical topic
+  * mathematician(s)
+  * sources
+  * original/historical sources
+  * sketch of the story
+  * no repeated topics
 
-* **Project Proposal Finalized**
-  Wednesday April 2
+* (Wed April 2) **Project Proposal Finalized**
+  * Complete any required modifications to your proposal.
 
-* **Project First Draft**
-  Wednesday April 9
+* (Wed April 9) **Project First Draft**
+  * Submit a deck of slides.
+  * Submit a rough draft that includes an introduction, a significant discussion of mathematics, and bibliography.
+  * Must be typed.
 
-* **Project Penultimate Draft**
-  Monday April 21
+* (Mon April 21) **Project Penultimate Draft**
+  * a complete deck of slides
+  * a complete written paper
   
-* **Presentations**
-  Wednesday April 23, Friday April 25
+* (Wed April 23 - Fri April 25) **Presentations**
+  * presentation to the class
 
-* **Final Draft of Paper**
-  Friday May 2 (also the same day as our final)
+* (Fri May 2) **Final Draft of Paper**
+  * final paper
+  * Note: Our final is on this day from 10:15 am to 12:15 pm.
   
 ### Project Grading Rubric
 
