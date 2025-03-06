@@ -18,15 +18,23 @@ title: Project
 ### Project Timeline
 
 * **Project Proposal**
+  Wednesday March 26
 
-* **Project Topic and Sources Finalized** 
+* **Project Proposal Finalized**
+  Wednesday April 2
 
 * **Project First Draft**
+  Wednesday April 9
 
+* **Project Penultimate Draft**
+  Monday April 21
+  
 * **Presentations**
+  Wednesday April 23, Friday April 25
 
 * **Final Draft of Paper**
-
+  Friday May 2 (also the same day as our final)
+  
 ### Project Grading Rubric
 
 TBA
