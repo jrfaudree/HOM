@@ -46,7 +46,16 @@ title: Project
   
 ### Project Grading Rubric
 
-TBA
+| Component | Percent of Project Score | Standards |
+|-----------| --------------------------|-------------|
+| on-time submission | 10 | If you are late,|
+| | | you lose points.|
+| complete negotiated proposal | 10 | All or nothing.|
+| first draft | 5 | All or nothing. |
+| penultimate draft | 10 | 0-5-10 scale. |
+| historical sources | 10 | All or nothing. |
+| presentation | 15 | 0-5-10-15 scale |
+| final paper | 40 | quality of writing, clarity of mathematics|
 
 
 <div style="padding-bottom: 40px"></div>
