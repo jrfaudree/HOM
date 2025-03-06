@@ -17,7 +17,7 @@ title: Project
 
 ### Project Timeline
 
-* (Wed March 26) **Project Proposal** must include
+* (Wed March 26) **Initial Project Proposal** must include
   * mathematical topic
   * mathematician(s)
   * sources
@@ -25,7 +25,7 @@ title: Project
   * sketch of the story
   * no repeated topics
 
-* (Wed April 2) **Project Proposal Finalized**
+* (Wed April 2) **Finalized Project Proposal**
   * Complete any required modifications to your proposal.
 
 * (Wed April 9) **Project First Draft**
