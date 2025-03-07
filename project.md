@@ -2,9 +2,13 @@
 layout: course-page
 title: Project
 ---
-<span style="color:red">**This Page is UNDER CONSTRUCTION for SPRING 2025**</span>
+[comment]: <> (<span style="color:red">**This Page is UNDER CONSTRUCTION for SPRING 2025**</span>)
 
 ## Project
+
+### Introductory Material
+* Overview
+* Project Ideas
 
 ### Places to Look for Original Sources
 
