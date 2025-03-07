@@ -10,16 +10,12 @@ title: Project
 * Overview
 * Project Ideas
 
-### Places to Look for Original Sources
+### Places to Look for Original Sources/Ideas
 
 * The Mathematical Association of America's [Mathematical Treasures Site](https://old.maa.org/press/periodicals/convergence/index-to-mathematical-treasures)
 * [A Source Book in Mathematics, 1200-1800](https://www.jstor.org/stable/j.ctt7zvf7h)
   This is available on jstor.
 * [National Museum of Mathematics](https://history-of-mathematics.org/)
-
-### Places to Look for Ideas
-
-
 
 ### Project Timeline
 
