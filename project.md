@@ -7,7 +7,7 @@ title: Project
 ## Project
 
 ### Introductory Material
-* Overview
+* [Overview](assets/project/M316S25_project_overview.pdf)
 * Project Ideas
 
 ### Places to Look for Original Sources/Ideas
