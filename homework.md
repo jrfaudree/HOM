@@ -105,7 +105,9 @@ Section 5.5 Problems 1c (Draw a corresponding picture), 2, 6, 7, 15 (Show your w
 
 Section 6.2 Problems 1, 2, 4
 
-[comment]: <> ( Section 7.3 Problems 1a, 3ab, 5)
+* **HW 7**
+
+Section 7.3 Problems 1a, 3ab, 5
 
 [comment]: <> ( Section 8.2 Problem 3  )
 
