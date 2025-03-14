@@ -14,8 +14,8 @@ For the LaTeX file to include the pictures and compile properly, you must downlo
 
 ### Latex Template for the Beamer Slides
 You will need figure 1 above in order for the tex file to compile.
-* [pdf](assets/latex/paper_beamer.pdf)
-* [tex](assets/latex/paper_beamer.tex)
+* [pdf](assets/latex/beamer_template.pdf)
+* [tex](assets/latex/beamer_template.tex)
 
 ### Downloading Latex Help
 * [Jill's Algebra Help Page](https://jrfaudree.github.io/latex/latex.html)
