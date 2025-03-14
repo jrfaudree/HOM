@@ -26,6 +26,9 @@ docs:
 - title: Project Info
   url: project.html
 
+- title: Latex Help
+  url: latex.html
+
 - title: Tech Help
   url: techHelp.html
 
