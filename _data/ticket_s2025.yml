@@ -1,3 +1,7 @@
+- day: Wed 19 Mar
+  number: "19"
+  ticket: https://jrfaudree.github.io/HOM/assets/tickets/t19.pdf
+  tfilled: https://jrfaudree.github.io/HOM/assets/tickets/t18s.pdf
 - day: Mon 3 Mar
   number: "18"
   ticket: https://jrfaudree.github.io/HOM/assets/tickets/t18.pdf
@@ -101,3 +105,5 @@
   tfilled: 
   worksheet: 
   wfilled:
+
+  
