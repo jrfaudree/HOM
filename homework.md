@@ -113,5 +113,5 @@ Section 7.3 Problems 1a, 3ab, 5
 
 Section 8.2 Problem 3,6,7a,12a,13
 
-Comments: &num 3
+Comments: #3
 
