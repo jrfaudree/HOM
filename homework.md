@@ -109,5 +109,9 @@ Section 6.2 Problems 1, 2, 4
 
 Section 7.3 Problems 1a, 3ab, 5
 
-[comment]: <> ( Section 8.2 Problem 3  )
+* **HW 8**
+
+Section 8.2 Problem 3,6,7a,12a,13
+
+Comments: &num 3
 
