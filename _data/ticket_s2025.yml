@@ -1,7 +1,11 @@
+- day: Fri Mar
+  number: "20"
+  ticket: https://jrfaudree.github.io/HOM/assets/tickets/t20.pdf
+  tfilled: https://jrfaudree.github.io/HOM/assets/tickets/t20s.pdf
 - day: Wed 19 Mar
   number: "19"
   ticket: https://jrfaudree.github.io/HOM/assets/tickets/t19.pdf
-  tfilled: https://jrfaudree.github.io/HOM/assets/tickets/t18s.pdf
+  tfilled: https://jrfaudree.github.io/HOM/assets/tickets/t19s.pdf
 - day: Mon 3 Mar
   number: "18"
   ticket: https://jrfaudree.github.io/HOM/assets/tickets/t18.pdf
