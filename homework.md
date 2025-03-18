@@ -111,7 +111,7 @@ Section 7.3 Problems 1a, 3ab, 5
 
 * **HW 8**
 
-**Section 8.2** Problem 3,6,7a,12a,13
+**Section 8.1** Problems 3,6,7a,12a,13
 
 Comments:
  * (#3) Why is Recorde's *The Whetstone of Witte* in this section? What would Recorde have intended to illustrate with this problem?
@@ -119,6 +119,12 @@ Comments:
  * (#7a) The definition of Nap.log is at the bottom of page 353.
  * (#12a) In what context and by whom have you seen this strategy before?
  * (#13) This problem is mostly for fun but it illustrates the durability of *constructing* solutions to problems we perceive as strictly *numerical*.
+
+**Section 8.2** Problems 3,4, and Problem A
+
+Problem A: Find an equation of the line orthogonal to y^2=2x at the point (8,4) in two different ways. 
+ * (1) Using the derivative as a modern Calc I student.
+ * (2) Using Descartes' method. 
 
 
 
