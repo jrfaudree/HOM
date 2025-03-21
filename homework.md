@@ -14,13 +14,13 @@ title: Homework
 
 ### <span style="color:red"> Assigned </span> Homework Problems
 
-  * **HW 1**
+  * <span style="color:blue">**HW 1**</span>
     
   Section 1.2 Problems 1a,2a,3a,3d,4,5d,6c,7c,9a,10a,11a,12e,13a
   
   Section 1.3 Problems 1af,2b,3,4b,5,6af,9,13af,15b,17abceg
 
- * **HW 2** 
+ * <span style="color:blue">**HW 2**</span> 
 
 Section 2.3 Problems 1c,2ad,3a,6,10,19,20 (For problems 19 and 20, complete the entire problem using Egyptian arithmetic and without modern algebraic notation or arithmetic.)
 
@@ -28,7 +28,7 @@ Section 2.4 Problems 1c,2,6,9
 
 Section 2.5 Problems 1,4,6ac,9,11 (Work problem 4 two ways: as a modern human and as a Babylonian (ie use the hint).)
 
- * **HW 3** 
+ * <span style="color:blue">**HW 3**</span> 
 
 Section 2.6 Problems 1,2,4,7, [Problem A](assets/homework/HW-s-2-6-Problem-A.pdf)
 
@@ -50,7 +50,7 @@ Construction Problems A,B,C,D
  
 &nbsp;&nbsp;D: Trisect a line segment.
 
-* **HW 4**
+* <span style="color:blue">**HW 4**</span>
 
 Section 4.2 Problems 2,3,6,8,12,Problem A (below)
 
@@ -70,7 +70,7 @@ Section 4.3 Problems B-F below.
 
 **Problem F** Use the Euclidean Algorithm to find the greatest common divisor of 12012 and 1430.
 
-* **HW 5**
+* <span style="color:blue">**HW 5**</span>
 
 Section 4.4 Problem 4, Problem A below.
 
@@ -97,7 +97,7 @@ Section 5.3 Problems 13, 16, 17, Problems A-C below
 - (i) Rewrite the problem in modern notation.
 - (ii) Write out Diophantus' solution in modern notation.
 
-* **HW 6**
+* <span style="color:blue">**HW 6**</span>
 
 Section 5.3 Problems 14ab, 21
 
@@ -105,11 +105,11 @@ Section 5.5 Problems 1c (Draw a corresponding picture), 2, 6, 7, 15 (Show your w
 
 Section 6.2 Problems 1, 2, 4
 
-* **HW 7**
+* <span style="color:blue">**HW 7**</span>
 
 Section 7.3 Problems 1a, 3ab, 5
 
-* <span style="color:red">**HW 8**</span>
+* <span style="color:blue">**HW 8**</span>
  - **Section 8.1** Problems 3,6,7a,12a,13
 
 > Comments:
