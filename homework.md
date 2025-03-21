@@ -109,7 +109,7 @@ Section 6.2 Problems 1, 2, 4
 
 Section 7.3 Problems 1a, 3ab, 5
 
-* <span style="color:red">**HW 8**<\span>
+* <span style="color:red">**HW 8**</span>
  - **Section 8.1** Problems 3,6,7a,12a,13
 
 > Comments:
