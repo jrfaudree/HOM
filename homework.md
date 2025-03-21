@@ -126,5 +126,5 @@ Problem A: Find an equation of the line orthogonal to y^2=2x at the point (8,4) 
  * (1) Using the derivative as a modern Calc I student.
  * (2) Using Descartes' method. 
 
-
+**Section 8.3** Problems 3,4 and 
 
