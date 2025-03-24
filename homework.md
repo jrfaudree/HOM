@@ -125,5 +125,5 @@ Section 7.3 Problems 1a, 3ab, 5
  * (1) Using the derivative as a modern Calc I student.
  * (2) Using Descartes' method. 
 
- - **Section 8.3** Problems 3,4 and 
+ - **Section 8.3** Problems 3,4 and 5
 
