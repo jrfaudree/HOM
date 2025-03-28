@@ -127,3 +127,8 @@ Section 7.3 Problems 1a, 3ab, 5
 
  - **Section 8.3** Problems 3,4 and 5
 
+* <span style="color:blue">**HW 9**</span>
+ - **Section 8.4** Problems 8bc,11,12, and Problems A,B, and C
+ - Problem A: Show your expansion in 8c is correct by squaring it.
+ - Problem B: Calculate the relationship of the fluxions of the equation x^3+ax^2+by+y^3=0.
+ - Problem C: Suppose A(t)=x(t)/y(t). Use Newton's fluxions and infinitely small time intervals, o, to deduce the quotient rule.
