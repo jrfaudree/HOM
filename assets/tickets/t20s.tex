@@ -1,0 +1,46 @@
+% !TEX TS-program = pdflatexmk
+\documentclass[12pt]{article}
+
+% Layout.
+\usepackage[top=1in, bottom=0.75in, left=1in, right=1in, headheight=1in, headsep=6pt]{geometry}
+
+% Fonts.
+\usepackage{mathptmx}
+\usepackage[scaled=0.86]{helvet}
+\renewcommand{\emph}[1]{\textsf{\textbf{#1}}}
+
+% Misc packages.
+\usepackage{amsmath,amssymb,latexsym}
+\usepackage{graphicx,hyperref}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{multicol}
+\usepackage{tabularx,colortbl}
+\usepackage{enumitem}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy} 
+\lhead{\large\sf\textbf{MATH 316: History of Math}}
+\rhead{\large\sf\textbf{Ticket 20: Section 8.2}}
+
+\begin{document}
+Jill's Solutions
+\begin{enumerate}
+\item Read Section 8.2 and answer the questions below.
+\item Give three biographical details about Rene Descartes (1596-1650).\\
+
+Here are three.\\
+He had the life-long habit of lying in bed and getting up late.  Being forced to break this habit whilst tutoring  Queen Christina of Sweden may have contributed to his death at 54. His father was a lawyer but Descartes was not interested. He spent  years in the army as a gentleman volunteer -- which seems to have meant little work... He was a man of leisure.\\
+\vfill
+\item \textbf{[A 3-line Problem]} Suppose you have three lines: $L_1: \: y=0$, $L_2: \: x=0,$ and $L_3: \: x=2.$ Describe the locus of points such that $d_1^2=3d_2d_3$ where $d_i$ is the distance to line $L_i.$  Your description should be both algebraic and graphical. The use of graphing tools is acceptable! \\
+
+Let P(x,y) be a point in the locus. Then, $d_1=|y|,$ $d_2=|x|$ and $d_3=|2-x|.$ So the locus is $y^2=3|2x-x^2|$, which forms an ellipse for $0\leq x \leq 2$ and a hyperbola for $x \in (-\infty,0]\cup[2,\infty).$\\
+
+\includegraphics[scale=0.5]{locus.png}
+\vfill
+\item Give a 2-sentence summary of Descartes' celestial vortices theory. (pg 375-6)
+
+Vortices seemed to be a celestial version of an eddy. They allowed for something to be turning, yet still. Like a leaf turning in an eddy but not going downstream. Definitely nonzero on the kooky scale. 
+\vfill
+\end{enumerate}
+\end{document}
