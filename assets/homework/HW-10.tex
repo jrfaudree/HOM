@@ -1,0 +1,76 @@
+% !TEX TS-program = pdflatexmk
+\documentclass[12pt]{article}
+
+% Layout.
+\usepackage[top=1in, bottom=0.75in, left=1in, right=1in, headheight=1in, headsep=6pt]{geometry}
+
+% Fonts.
+\usepackage{mathptmx}
+\usepackage[scaled=0.86]{helvet}
+\renewcommand{\emph}[1]{\textsf{\textbf{#1}}}
+
+% Misc packages.
+\usepackage{amsmath,amssymb,latexsym}
+\usepackage{graphicx,hyperref}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{multicol}
+\usepackage{tabularx,colortbl}
+\usepackage{enumitem}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy} 
+\lhead{\large\sf\textbf{MATH 316: History of Math}}
+\rhead{\large\sf\textbf{Homework 10}}
+
+\begin{document}
+\begin{enumerate}
+\item Probability: Problem of Points\\
+
+The game\\
+A fair coin is repeatedly flipped. If the coin lands as a heads (H), Hilda gets a point. If the coin lands tails, Tom gets a point. The first person to 5 points wins. Each player pays \$10 to play.
+
+You will fill out the table below indicating how much each player should get assuming the game is stopped before finishing. You must justify your calculations using \textbf{both} Pascal's method and Fermat's method.\\
+
+\bgroup
+\def\arraystretch{1.5}
+\begin{tabular}{l || c || c|c}
+& status of game&payout to& payout to\\
+&at termination& Hilda&Tom\\
+\hline \hline
+a)& Hilda 4, Tom 4 &&\\
+\hline
+b)& Hilda 4, Tom 3 &&\\
+\hline
+c)& Hilda 4, Tom 2 &&\\
+\hline
+d)& Hilda 4, Tom 1 &&\\
+\hline
+e)& Hilda 4, Tom 0 &&\\
+\hline
+f)& Hilda 3, Tom 2 &&\\
+\hline
+\end{tabular}
+\egroup
+
+\item In class, I described Pascal's Method as \emph{recurrsive}. Using your work from problem 1, explain, in your own words, why this is an accurate description of this method.
+\item Give an argument that Fermat's strategy is clear and correct theoretically but may be challenging to implement in specific instances.
+\item (perfect numbers) 
+	\begin{enumerate}
+	\item Use the definition to show that 496 is a perfect number.
+	\item Show that $496=2^{k-1}(2^k-1)$ for some integer $k$ and $2^k-1$ is prime.
+	\end{enumerate}
+\item Euler and Number Theory\\
+Recall that Euclid proved: If $2^k-1$ is prime ($k>1$), then $n=2^{k-1}(2^k-1)$ is perfect.\\
+Euler proved that if $n$ is an even perfect number, then $n=2^{k-1}(2^k-1)$ for some integer $k$ and $2^k-1$ is prime. \\
+Complete the following using the results above.
+	\begin{enumerate}
+	\item Show that $8128=2^{6}(2^{7}-1)$ is perfect.
+	\item Show that $2096128=2^{10}(2^{11}-1)$ is not perfect.
+	\item We know there are an infinite number of primes. Are there an infinite number of perfect numbers?
+	\item What is the first odd perfect number?
+	\end{enumerate}
+\item Use Euler's method to show $\displaystyle{\sum_{i=1}^\infty \frac{1}{2i-1}= \frac{1}{1^2}+\frac{1}{3^2}+\frac{1}{5^2}+\frac{1}{7^2}+\cdots= \frac{\pi^2}{8}.}$
+
+Hint: Use the Maclaurin Series for $\cos(x)$ and the fact that $\cos(x)=0$ has roots $\pm\frac{\pi}{2},$ $\pm\frac{3\pi}{2},$ $\pm\frac{5\pi}{2},$ ...\end{enumerate}
+\end{document}
