@@ -10,7 +10,7 @@ title: Exams
 * Midterm 1  &nbsp;&nbsp; [review](assets/midterms/M316S25_M1Q.pdf)&nbsp;&nbsp;[blank](assets/midterms/M316S25_E1.pdf)&nbsp;&nbsp;[solutions](assets/midterms/M316S25_E1-s.pdf)&nbsp;&nbsp;
 
 
-* Midterm 2 &nbsp;&nbsp; [review](assets/midterms/M316S25_M2Q.pdf)
+* Midterm 2 &nbsp;&nbsp; [review](assets/midterms/M316S25_M2Q.pdf) &nbsp;&nbsp;[blank](assets/midterms/M316S25_E2.pdf)&nbsp;&nbsp;[solutions](assets/midterms/M316S25_E2-s.pdf)&nbsp;&nbsp;
 
 * Final Exam info will appear here. 
 
