@@ -1,0 +1,179 @@
+\documentclass[12pt]{article}
+\usepackage[top=1in, bottom=1in, left=.75in, right=.75in]{geometry}
+\usepackage{amsmath, enumerate}
+\usepackage{fancyhdr}
+\usepackage{graphicx, xcolor, setspace, array}
+\usepackage{txfonts}
+\usepackage{multicol,coordsys,pgfplots}
+\usepackage[scaled=0.86]{helvet}
+\renewcommand{\emph}[1]{\textsf{\textbf{#1}}}
+\usepackage{anyfontsize}
+\usepackage{tikz,pgfplots}
+\usetikzlibrary{calc,arrows.meta}
+\pgfplotsset{compat = newest}
+
+\parindent 0pt
+\parskip 4pt
+\pagestyle{fancy}
+\fancyfoot[C]{\emph{\thepage}}
+\fancyhead[L]{\ifnum \value{page} > 1\relax\emph{Math 316: Exam 2}\fi}
+\fancyhead[R]{\ifnum \value{page} > 1\relax\emph{Spring 2025}\fi}
+\headheight 12pt
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\let\ds\displaystyle
+
+\newcommand{\be}{\begin{enumerate}}
+\newcommand{\ee}{\end{enumerate}}
+
+\begin{document}
+%% Front Page
+{\emph{\fontsize{20}{20}\selectfont Spring 2025 \hfill
+\hfill Math 316}}
+
+\begin{center}
+{\emph{{\fontsize{20}{20}\selectfont Exam 2}
+}}
+\end{center}
+
+\strut\vtop{\halign{\emph#\hskip 0.5em\hfil&#\hbox to 2in{\hrulefill}\cr
+\emph{\fontsize{18}{22}\selectfont Name:}&\cr
+\hfill
+\cr}}
+
+{\fontsize{18}{22}\selectfont\emph{Rules:}}
+
+\begin{itemize}
+\item Partial credit will be awarded, but you must show your work.
+
+\item No notes, books, or cell phones are allowed.
+
+\item Calculators are allowed. 
+
+\end{itemize}
+
+\fbox{NOTE:} The exam is formatted in order to provide plenty of space. A complete answer does \emph{not} need to fill the given space. Indeed, it is not necessary.\\
+
+
+
+
+\vfill
+\def\emptybox{\hbox to 2em{\vrule height 16pt depth 8pt width 0pt\hfil}}
+\def\tline{\noalign{\hrule}}
+\centerline{\vbox{\offinterlineskip
+{
+\bf\sf\fontsize{18pt}{22pt}\selectfont
+\hrule
+\halign{
+\vrule#&\strut\quad\hfil#\hfil\quad&\vrule#&\quad\hfil#\hfil\quad
+&\vrule#&\quad\hfil#\hfil\quad&\vrule#\cr
+height 3pt&\omit&&\omit&&\omit&\cr
+&Problem&&Possible&&Score&\cr\tline
+height 3pt&\omit&&\omit&&\omit&\cr
+&1&&15 + 2 extra credit &&\emptybox&\cr\tline
+&2&&15	&&\emptybox&\cr\tline
+&3&&20 + 2 extra credit	&&\emptybox&\cr\tline
+&4&&20	&&\emptybox&\cr\tline
+&5&&15	&&\emptybox&\cr\tline
+&6&&15	&&\emptybox&\cr\tline
+&Total&&100&&\emptybox&\cr
+}\hrule}}}
+
+\vfill
+\newpage
+\be
+%% Arabic Quad
+\item (15 points) Solve the quadratic equation below using the Arabic method of completing the square. Include the algebraic steps and the accompanying figure.\\
+
+$$\text{equation:} \:\:\: x^2+12x=10$$
+
+\vfill
+\textbf{Extra Credit (2 points):} Describe two ways in which the solution above is different from the modern method of completing the square.\\
+\vspace{2in}
+\newpage
+%%Khayyam
+\item (15 points) Describe Omar Khayyam's contributions to algebra, approximately when this occurred, how his approach is similar and different from our modern approach.
+	\be
+	\item approximate date:
+	\vspace{1in}
+	\item description of contributions:
+	\vfill
+	\item similar to a modern approach:
+	\vfill
+	\item different from a modern approach:
+	\vfill
+	\ee
+\newpage
+%%Reduced cubic
+\item (20 points) 
+	\be
+	\item Explain what is meant by a \emph{reduced cubic}.
+	\vspace{1in}
+	\item Find the reduced cubic for $x^3+6x^2+x=1.$ 
+	\vfill
+	\item What was the importance of the reduced cubic to Girolamo Cardan? 
+	\vfill
+	\item Describe two ways in which the Cardan's formulas for solving cubic equations catalyzed further mathematical research. Include names, dates and mathematical topic/result.
+	\vfill
+	\ee
+\newpage
+%%% 4-lines and descartes
+\item (20 points)
+	\be
+	\item Find the locus of points, $P(x,y),$ satisfying the four line problem where the lines are
+	$$L_1: x=0,\: L_2: y=0,\: L_3: x=5,\: L_4: y=10,$$
+	$d_i$ is the distance between $P$ and $L_i$, and the constraint is $d_1d_2=d_3d_4.$
+	
+	
+	
+	\vfill
+	\item Find two specific points in the locus.
+	\vspace{0.5in}
+	\item These ``$n$ line problems" (4 line problem, 5 line problem, etc) appear in Ren\'{e} Descartes' La G\'{e}om\'{e}trie. Why? What was Descartes attempting to demonstrate?
+	\vfill
+	\item \textbf{extra credit (2 points)} Describe in words or by a graph what the locus of points from part (a).
+	\vspace{1in}
+	\ee
+\newpage
+%%calculus
+\item (15 points) Give an example of a mathematician who solved a problem we could consider a typical calculus 1 problem prior to 1700. Describe their approach and compare it to our modern approach to the problem.
+	\be
+	\item Name of mathematician and approximate dates:
+	\vspace{1in}
+	\item Description of calculus problem:
+	\vfill
+	\item Their method/strategy of solution:
+	\vfill
+	\item Similarities:
+	\vfill
+	\item Differences:
+	\vfill
+	\ee
+\newpage
+\item (15 points) List five significant mathematical contributions of Isaac Newton and/or Gottfried Leibniz. Indicate which of the two discovered/developed the concept. Make sure you include \textbf{at least one contribution from each person}.
+	\be
+	\item[(1):] \quad \\
+	
+	\vfill
+	\item[(2):] \quad \\
+
+	\vfill
+	\item[(3):] \quad \\
+
+	\vfill
+	\item[(4):] \quad \\
+
+	\vfill
+	\item[(5):] \quad \\
+
+	\vfill
+	\ee
+	
+\ee
+
+
+\end{document}
+
+%%%%ENDDOCUMENT
+
+
