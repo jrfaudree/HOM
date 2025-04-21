@@ -133,5 +133,11 @@ Section 7.3 Problems 1a, 3ab, 5
  - Problem B: Calculate the relationship of the fluxions of the equation x^3+ax^2+by+y^3=0.
  - Problem C: Suppose A(t)=x(t)/y(t). Use Newton's fluxions and infinitely small time intervals, o, to deduce the quotient rule.
 
- - * <span style="color:blue">**HW 9**</span>
+* <span style="color:blue">**HW 9**</span>
      [6 problems linked here](assets/homework/HW-10.pdf)
+
+* <span style="color:blue">**HW 10**</span>
+ - **Section 11.1** Problems 1,2,4
+ - **Section 11.3** Problem 5
+ - Problem A: Suppose the pair (A,B) corresponds to a Dedekind cut for the real number r. What should be the Dedekind cut corresponding to -x and why?
+ 
